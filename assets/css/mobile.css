@@ -34,7 +34,6 @@ html{
     
 }
 
-  
 
 a{
     font-size:150%;
@@ -42,15 +41,6 @@ a{
     color: inherit; /* 继承父元素的字体颜色 */
 }
   
-/*
-a:link, //未访问过的链接
-a:visited, //已访问过的链接
-a:hover, //鼠标悬停在链接上时的状态
-a:active //链接被激活（例如，鼠标点击时）的状态 {
-  text-decoration: none;
-  color: inherit;
-}
-*/ 
 
 .appcontent{
   margin: 0;
@@ -100,8 +90,7 @@ a:active //链接被激活（例如，鼠标点击时）的状态 {
 }
 
 .topbar {
-  /* 其他样式 */
-  border-bottom: 2px solid #e9e9e9; /* 灰线，2px粗 */
+  border-bottom: 2px solid #e9e9e9; 
   height: 10rem;
   display: flex;
   width: 100%;
@@ -123,17 +112,17 @@ a:active //链接被激活（例如，鼠标点击时）的状态 {
   font-size:4rem;
   padding: 3rem;
   align-items: center;
-  transition: font-size 0.5s; /* 平滑过渡 */
+  transition: font-size 0.5s; 
 }
 
 .sidebar {
   position: fixed;
   top: 10rem;
   bottom: 0;
-  left: -50rem;  /* 侧边栏初始位置在页面左侧之外 */
+  left: -50rem; 
   width: 45%;
   background: #ffffff;
-  transition: left 0.3s; /* 过渡动画 */
+  transition: left 0.3s; 
   font-size: 3rem;
   justify-content: center;
   border: 2px solid #d1cdcdd7;
@@ -180,7 +169,7 @@ a:active //链接被激活（例如，鼠标点击时）的状态 {
   
   z-index: 1;
   opacity: 0; /* 初始状态为透明 */
-  transition: opacity 0.5s ease; /* 保留过渡效果 */
+  transition: opacity 0.5s ease;
   border: 2px solid #d1cdcdd7;
 }
 
@@ -206,10 +195,10 @@ a:active //链接被激活（例如，鼠标点击时）的状态 {
 
 #fontList ul {
   list-style-type: none;
-  padding-left: 0; /* 这可以去除默认的左内边距 */
+  padding-left: 0; 
 }
 
-/* 当列表需要显现时，添加这个类 */
+/* 列表需要显现时，添加类 */
 #fontList.visible {
   display: block;
   opacity: 1;
@@ -218,5 +207,4 @@ a:active //链接被激活（例如，鼠标点击时）的状态 {
  
 .special-font  {
   font-size: 3.5rem !important;
-  /* 添加其他样式 */
 }
