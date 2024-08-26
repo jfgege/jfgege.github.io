@@ -1,7 +1,7 @@
 document.getElementById('sidebar-button').addEventListener('click', function() {
     var sidebar = document.getElementById('sidebar');
     if (sidebar.style.left === '0px') {
-        sidebar.style.left = '-40rem';
+        sidebar.style.left = '-50rem';
     } else {
         sidebar.style.left = '0px';
     }
@@ -10,7 +10,7 @@ document.getElementById('sidebar-button').addEventListener('click', function() {
 // 可选：添加关闭按钮的点击事件
 document.getElementById('sidebar-close').addEventListener('click', function() {
     var sidebar = document.getElementById('sidebar');
-    sidebar.style.left = '-40rem';
+    sidebar.style.left = '-50rem';
 });
 
 

@@ -36,26 +36,27 @@ window.addEventListener('DOMContentLoaded', function() {
         });
 
         // 创建链接元素
+        /*
         var link = document.createElement('a');
         link.href = '../desktop/index.html'; // 设置链接地址
         link.textContent = '前往桌面版页面'; // 设置链接文本
         link.style.cssText = `
             font-size:150%;
         `
-
+        */
 
         // 将关闭按钮加入弹窗
         notice.appendChild(closeButton);
 
         // 设置弹窗内容
         var message = document.createElement('p');
-        message.textContent = '桌面版页面暂未上线，请使用移动设备浏览';
+        message.textContent = '桌面版页面暂未上线，建议使用移动设备浏览以获得更好体验';
         notice.appendChild(message);
 
         //检测到您使用桌面设备或大屏Apple设备，为了更好的浏览体验，请移步至桌面版页面
 
         // 在弹窗中添加链接
-        notice.appendChild(link);
+        //notice.appendChild(link);
 
         // 添加弹窗到页面
         document.body.appendChild(notice);

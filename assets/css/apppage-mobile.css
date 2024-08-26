@@ -88,17 +88,17 @@ a{
 .sidebar {
     position: fixed;
     top: 10rem;
-    left: -40rem;  /* 侧边栏初始位置在页面左侧之外 */
+    bottom: 0;
+    left: -50rem;  /* 侧边栏初始位置在页面左侧之外 */
     width: 45%;
-    height: 100%;
-    transition: left 0.25s; /* 过渡动画 */
+    background: #ffffff;
+    transition: left 0.3s; /* 过渡动画 */
     font-size: 3rem;
     justify-content: center;
-    border-right: 2px solid #e9e9e9; /* 灰线，2px粗 */
-    background: #ffffff;
     border: 2px solid #d1cdcdd7;
     border-radius: 70px;
     padding: 30px;
+    overflow-y: scroll;
 }
   
 #sidebar-list{

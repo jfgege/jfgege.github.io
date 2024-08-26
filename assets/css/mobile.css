@@ -69,11 +69,23 @@ a:active //链接被激活（例如，鼠标点击时）的状态 {
   font-size: 2.5rem;
 }
 
-.appbox{
+.appbox-first{
   clear: both;
   padding: 20px;
   display: flex;
   margin-top: 200px;
+  margin-left: 20px;
+  margin-right: 20px;
+  align-items: center;
+  border-radius: 65px;
+  border: 1.5px solid #d1cdcdd7;
+}
+
+.appbox{
+  clear: both;
+  padding: 20px;
+  display: flex;
+  margin-top: 30px;
   margin-left: 20px;
   margin-right: 20px;
   align-items: center;
@@ -117,9 +129,9 @@ a:active //链接被激活（例如，鼠标点击时）的状态 {
 .sidebar {
   position: fixed;
   top: 10rem;
-  left: -40rem;  /* 侧边栏初始位置在页面左侧之外 */
+  bottom: 0;
+  left: -50rem;  /* 侧边栏初始位置在页面左侧之外 */
   width: 45%;
-  height: 100%;
   background: #ffffff;
   transition: left 0.3s; /* 过渡动画 */
   font-size: 3rem;
@@ -127,6 +139,7 @@ a:active //链接被激活（例如，鼠标点击时）的状态 {
   border: 2px solid #d1cdcdd7;
   border-radius: 70px;
   padding: 30px;
+  overflow-y: scroll;
 }
 
 #sidebar-list{
@@ -157,41 +170,6 @@ a:active //链接被激活（例如，鼠标点击时）的状态 {
   top: 10px;
   right: 10px;
 }
-
-/*
-#fontList {
-  overflow: hidden;
-  transition: max-height 0.5s ease-out;
-  max-height: 0;
-  overflow: hidden;
-  opacity: 0; /* 初始状态为透明 
-  position: relative;
-  display: inline-block;
-
-  
-}
-
-.hidden {
-  max-height: 0;
-  overflow: hidden;
-}
-
-
-#fontList ul {
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-}
-
-#fontList ul li {
-  padding: 10px;
-}
-
-#fontList.visible {
-  opacity: 1;
-}
-*/
-
 
 /* 列表默认隐藏 */
 #fontList {
