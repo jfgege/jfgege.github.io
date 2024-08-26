@@ -1,0 +1,85 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <meta charset = "utf-8">
+            <title>联系我</title>
+            <link rel="stylesheet"  href="../assets/css/apppage-mobile.css"/>
+
+            <style>
+                .content-div{
+                    margin-right: 30px;
+                    margin-left: 30px;
+                    margin-bottom: 50px;
+                    background: whitesmoke;
+                    padding: 30px;
+                    border-radius: 130px;
+                    border: 2px solid #d1cdcdd7;
+                }
+
+                button{
+                    border: 2px solid #d1cdcdd7;
+                }
+
+                #sidebar-list li{
+                    background: whitesmoke;
+                }
+
+                #contact{
+                    margin-top: 230px;
+                }
+            </style>
+
+        </head>
+        <body>
+            <div id="topbar">
+                <div id="sidebar-button" class="sidebar-button">
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg>
+                </div>
+
+                <div id="title">
+                    联系我
+                </div>
+            </div>
+
+            <div id="contact" class="content-div">
+                <div>
+                    <h1 class="content-h1">-邮箱 Email-</h1>
+                </div>
+
+                <div>
+                    <p class="content-p">
+                        邮箱地址：contact@jifeng.eu.org
+                        <button class="linkbt" style="margin-top: 30px;margin-left: 0;"><a href="mailto:contact@jifeng.eu.org">点击发送邮件</a></button>
+                    </p>
+                </div>
+
+            </div>
+
+            <!--侧边栏部分-->
+            <div id="sidebar" class="sidebar">
+                
+                <!-- 侧边栏内容 -->
+                <ul id="sidebar-list">
+                    <li><a href="index.html">主页面</a></li>
+                    <li id="fontToggle" style="margin-top: 100px;background: #ffffff;">--字体选择--</li>
+                </ul>
+            
+                <div id="fontList" class="hidden">
+                    <ul>
+                        <li data-font="Font3">-系统默认-</li>
+                        <li data-font="webFont">-网页默认-</li>
+                        <li data-font="Genshin">-Genshin-</li>
+                        <li data-font="Hkrpg">-Hkrpg-</li>
+                        <li data-font="ZZZ">-ZZZ-</li>
+                    </ul>
+                </div>
+    
+            </div>
+
+
+
+
+            <script src="../assets/js/fontbutton.js"></script>
+            <script src="../assets/js/sidebar-mobile.js"></script>
+        </body>
+    </html>
