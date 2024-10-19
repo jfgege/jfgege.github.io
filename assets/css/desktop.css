@@ -52,6 +52,8 @@ a{
     position: fixed;
     border-radius: 50px;
     top: 3%;
+    align-content: center;
+    flex-wrap: wrap;
 }
 
 .sidebar-button{

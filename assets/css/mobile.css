@@ -79,14 +79,14 @@ a{
 
 .appbox-first{
   clear: both;
-  padding: 21px;
+  padding: 25px;
   display: flex;
   top: 11%;
   position: absolute;
   margin-left: 5%;
   margin-right: 5%;
   align-items: center;
-  border-radius: 80px;
+  border-radius: 70px;
   border: 1.5px solid #d1cdcdd7;
   transition:background-color 0.5s ease;
 }
@@ -97,14 +97,14 @@ a{
 
 .appbox{
   clear: both;
-  padding: 21px;
+  padding: 25px;
   display: flex;
   position: absolute;
   margin-top: 30px;
   margin-left: 5%;
   margin-right: 5%;
   align-items: center;
-  border-radius: 80px;
+  border-radius: 70px;
   border: 1.5px solid #d1cdcdd7;
   transition:background-color 0.5s ease;
 }
