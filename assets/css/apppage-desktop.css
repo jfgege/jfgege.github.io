@@ -19,7 +19,7 @@
     font-weight: 500;
 }
 
-html,button{
+html{
     font-family: webFont, sans-serif;
 }
 
@@ -28,7 +28,7 @@ html,button{
     bottom: 0;
     right: 0;
     width: 100%;
-    height: 90%;
+    height: 80%;
     background-color: rgb(241 241 241 / 25%);;
     backdrop-filter: blur(5px);
     z-index: 999;
@@ -37,156 +37,142 @@ html,button{
     transition: opacity 0.3s, visibility 0.3s;
 }
 
-  
-#sidebar-button{
-    height: 3.1rem;
-    width: 3.1rem;
-    padding: 3.3rem;
-    transition:background-color 0.5s ease;
-    border-radius: 50px;
-    margin-left: 5%;
-}
-
-.sidebar-button:hover{
-    background-color: hwb(0deg 83.13% 16.87% / 48%);
-}
-
-#topbar{
-    background-color: hwb(0deg 97% 3% / 68%);
-    backdrop-filter: blur(10px);
-    border-top: 1px solid #d1cdcdd7;
-    border-radius: 100px;
-    width: 100%;
-    height: 9%;
-    align-items: center;
-    top: 1%;
-    position: fixed;
-    display: flex;
-}
-
-#title{
-    display: flex;
-    font-size:4rem;
-    padding: 3rem;
-    align-items: center;
-}
-
 a{
+    font-size:150%;
     text-decoration: none; /* 去除下划线 */
     color: inherit; /* 继承父元素的字体颜色 */
 }
 
-#appicon{
-    margin-top: 250px;
+.topbar {
     height: 15%;
-    justify-content: center;
     display: flex;
-    clear: both;
+    width: 100%;
+    z-index: 100;
+    background-color: #ffffff;
+    position: fixed;
+    border-radius: 50px;
+    top: 3%;
+}
+
+#title{
+    display: flex;
+    font-size:2.5rem;
+    align-items: center;
+    padding-left: 1rem;
+}
+
+#appbox{
+    display: flex;
+    top: 21%;
+    width: 100%;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+}
+
+#appicon{
+    height: 7rem;
+    display: flex;
 }
 
 #apptitle{
-    font-size: 5rem;
-    margin-bottom: 50px;
+    font-size: 2.7rem;
+    display: flex;
+    margin: 0;
+    align-content: center;
+    flex-wrap: wrap;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
-.content-h1{
-    font-size: 3rem;
-    padding-left: 30px;
-    font-weight: normal;
+.sidebar-button{
+    display: flex;
+    height: 30%;
+    margin-left: 20px;
+    border-radius: 32px;
+    padding: 2rem;
+    transition:background-color 0.5s ease-in-out;
 }
 
-.content-p{
-    font-size: 3rem;
-    padding-left: 90px;
-}
-
-.linkbt{
-    border-radius: 70px;
-    font-size: 2.5rem; 
-    padding: 30px;
-    margin-left: 50px;
+.sidebar-button:hover{
+    /*transition:all 0.5s;*/
+    background-color: #e4e4e4;
 }
 
 .sidebar {
     position: fixed;
-    top: 10%;
+    left: -40rem;  /* 侧边栏初始位置在页面左侧之外 */
+    top: 20%;
     bottom: 0;
-    left: -50rem; 
-    width: 45%;
+    width: 17%;
     background: #ffffff;
-    transition: left 0.3s;
-    font-size: 3rem;
+    transition: left 0.3s; /* 过渡动画 */
+    font-size: 1.5rem;
     justify-content: center;
-    border: 2px solid #d1cdcdd7;
-    border-radius: 70px;
+    border: 1px solid #d1cdcdd7;
+    border-radius: 50px;
     padding: 30px;
     overflow-y: scroll;
     z-index: 1000;
 }
-  
+
 #sidebar-list{
     list-style-type:none ;
     padding-left: 0;
     margin-bottom: 0;
+    margin-top: 0;
 }
-  
+
 #sidebar-list li{
-    padding: 2rem 0px;
+    padding: 1rem 0px;
     width:100%;
     display: flex;
     justify-content: center;
     border: 2px solid #e9e9e9;
-    margin-bottom: 50px;
-    border-radius: 70px;
+    margin-bottom: 1rem;
+    border-radius: 50px;
+    background: whitesmoke;
     transition:background-color 0.5s ease;
 }
 
 #sidebar li:hover {
     background-color: #e4e4e4;
-} 
-  
-.close {
-    position: absolute;
-    top: 10px;
-    right: 10px;
 }
 
+/* 列表默认隐藏 */
 #fontList {
     display: block;
     background-color: #ffffff;
     min-width: 160px;
     z-index: 1;
-    opacity: 0; 
-    transition: opacity 0.5s ease; 
+    opacity: 0; /* 初始状态为透明 */
+    transition: opacity 0.5s ease;
+    border: 2px solid #e9e9e9;
     list-style-type:none ;
-    border-radius: 30px;
     padding-left: 0;
     text-align: center;
+    border-radius: 50px;
     overflow: hidden;
-    border-radius: 90px;
-    border: 2px solid #d1cdcdd7;
 }
   
 /* 列表项 */
 #fontList li {
     padding:12px 16px;
+    transition:background-color 0.5s ease;
 }
   
 /* 鼠标悬停效果 */
 #fontList li:hover {
-    transition:all 0.25s;
     background-color: #e4e4e4;
-} 
-  
+}
+
 #fontList ul {
     list-style-type: none;
-    padding-left: 0;
+    padding-left: 0; 
 }
   
 /* 列表需要显现时，添加类 */
 #fontList.visible {
     display: block;
     opacity: 1;
-    
 }
-

@@ -34,6 +34,19 @@ html{
     
 }
 
+.overlay{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 90%;
+  background-color: rgb(241 241 241 / 25%);;
+  backdrop-filter: blur(5px);
+  z-index: 999;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s, visibility 0.3s;
+}
 
 a{
     font-size:150%;
@@ -41,6 +54,12 @@ a{
     color: inherit; /* 继承父元素的字体颜色 */
 }
   
+.apptitle{
+  font-size: 4.3rem;
+  padding-left: 20px;
+  margin: 0;
+}
+
 .appcontent{
   margin: 0;
   font-size: 3rem;
@@ -55,55 +74,69 @@ a{
   padding-left: 80px;
   margin: 0;
   padding-top: 15px;
-  font-size: 2.5rem;
+  font-size: 2.3rem;
 }
 
 .appbox-first{
   clear: both;
-  padding: 20px;
+  padding: 21px;
   display: flex;
-  margin-top: 200px;
-  margin-left: 20px;
-  margin-right: 20px;
+  top: 11%;
+  position: absolute;
+  margin-left: 5%;
+  margin-right: 5%;
   align-items: center;
-  border-radius: 65px;
+  border-radius: 80px;
   border: 1.5px solid #d1cdcdd7;
+  transition:background-color 0.5s ease;
+}
+
+.appbox-first:hover{
+  background-color: #e4e4e4;
 }
 
 .appbox{
   clear: both;
-  padding: 20px;
+  padding: 21px;
   display: flex;
+  position: absolute;
   margin-top: 30px;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
   align-items: center;
-  border-radius: 65px;
+  border-radius: 80px;
   border: 1.5px solid #d1cdcdd7;
+  transition:background-color 0.5s ease;
 }
 
-.apptitle{
-  font-size: 4.5rem;
-  padding-left: 20px;
-  margin: 0;
+.appbox:hover{
+  background-color: #e4e4e4;
 }
 
 .topbar {
-  border-bottom: 2px solid #e9e9e9; 
-  height: 10rem;
+  /*border-bottom: 2px solid #e9e9e9; */
+  backdrop-filter: blur(10px);
+  border-top: 1px solid #d1cdcdd7;
+  height: 9%;
   display: flex;
+  align-items: center;
+  justify-content: center;
   width: 100%;
-  top: 0px;
+  top: 1%;
   position: fixed;
-  z-index: 100;
-  background-color: #ffffff;
-  border-radius: 70px;
+  border-radius: 100px;
 }
 
 .sidebar-button{
-  height: 3rem;
-  width: 3rem;
-  padding: 3rem;
+  height: 3.1rem;
+  width: 3.1rem;
+  padding: 3.3rem;
+  transition:background-color 0.5s ease;
+  border-radius: 50px;
+}
+
+.sidebar-button:hover{
+  background-color: hwb(0deg 83.13% 16.87% / 48%);
 }
 
 #title{
@@ -116,7 +149,7 @@ a{
 
 .sidebar {
   position: fixed;
-  top: 10rem;
+  top: 10%;
   bottom: 0;
   left: -50rem; 
   width: 45%;
@@ -128,6 +161,7 @@ a{
   border-radius: 70px;
   padding: 30px;
   overflow-y: scroll;
+  z-index: 1000;
 }
 
 #sidebar-list{
@@ -145,10 +179,10 @@ a{
   margin-bottom: 50px;
   border-radius: 70px;
   background: whitesmoke;
+  transition:background-color 0.5s ease;
 }
 
 #sidebar li:hover {
-  transition:all 0.25s;
   background-color: #e4e4e4;
 } 
 
