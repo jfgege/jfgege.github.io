@@ -28,7 +28,7 @@ html,button{
     bottom: 0;
     right: 0;
     width: 100%;
-    height: 90%;
+    top: 200px;
     background-color: rgb(241 241 241 / 25%);;
     backdrop-filter: blur(5px);
     z-index: 999;
@@ -52,15 +52,16 @@ html,button{
 }
 
 #topbar{
-    background-color: hwb(0deg 97% 3% / 68%);
+    background-color: hwb(0 97% 3% / 0.616);
     backdrop-filter: blur(10px);
-    border-radius: 100px;
-    width: 100%;
     height: 180px;
+    top:1%;
     align-items: center;
-    top: 1%;
     position: fixed;
     display: flex;
+    border-radius: 70px;
+    left: 30px;
+    right: 30px;
 }
 
 #title{
@@ -88,6 +89,16 @@ a{
     margin-bottom: 50px;
 }
 
+.content-div{
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    background: whitesmoke;
+    padding: 30px;
+    border-radius: 130px;
+    border: 2px solid #d1cdcdd7;
+}
+
 .content-h1{
     font-size: 3rem;
     padding-left: 30px;
@@ -108,7 +119,7 @@ a{
 
 .sidebar {
     position: fixed;
-    top: 190px;
+    top: 200px;
     bottom: 0;
     left: -50rem; 
     width: 45%;
