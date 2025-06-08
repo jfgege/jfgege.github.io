@@ -1,0 +1,75 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <meta charset = "utf-8">
+            <title>公告</title>
+            <link rel="stylesheet"  href="assets/css/apppage-mobile.css"/>
+
+            <style>
+                .content-div{
+                    position: static;
+                    margin-top: 30%;
+                }
+
+                button{
+                    border: 2px solid #d1cdcdd7;
+                }
+
+                #sidebar-list li{
+                    background: whitesmoke;
+                }
+
+            </style>
+
+        </head>
+        <body>
+            <div id="topbar">
+                <div id="sidebar-button" class="sidebar-button">
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg>
+                </div>
+
+                <div id="title">
+                    公告
+                </div>
+            </div>
+
+            <!--遮罩-->
+            <div class="overlay" onclick="closeSidebar()"></div>
+
+            <div id="contact" class="content-div" style="margin-bottom: 50px;">
+                <div>
+                    <h1 class="content-h1" style="display: flex;justify-content: center;padding-left: 0;font-size: 5rem;">公告</h1>
+                </div>
+
+                <div>
+                    <p class="content-p" style="padding:25px;font-size: 2rem;">
+                        1.本站由个人爱好者开发，非盈利性目的，托管于Github Pages，如遇加载缓慢的情况请尝试更换网络或使用魔法上网。<br><br>
+                        2.本站旨在收集小米手环7的小程序，方便环7用户寻找可用的小程序。<br><br>
+                        3.目前小程序来源主要为米坛社区（bandbbs.cn）上的小程序帖，后续会收录其他来源的小程序。<br><br>
+                        4.如果本站侵犯了您的相关权益（如在未经许可的情况下转载了您的作品），我为我的疏漏感到抱歉，请即刻通过“左上角侧边菜单-联系我-邮箱”与我取得联系，我会在第一时间处理相关事宜。<br><br>
+                        5.为适应网页编写（如JSON文件格式问题），“小程序简介”可能存在相应删减（不会篡改作者原文意图）。<br><br>
+                        6.由于小程序数量较多，“小程序简介”可能存在未精修的文字排版问题，请谅解。<br><br>
+                        7.由于个人精力有限，本站许多地方存在不足，欢迎您提出宝贵意见，感谢！<br><br>
+                        <br>网页字体—— MiSans<br>
+                    </p>
+                </div>
+                <p class="content-p" style="display: flex;justify-content: flex-end;padding: 25px;">---JIFENG</p>
+
+            </div>
+
+            <!--侧边栏部分-->
+            <div id="sidebar" class="sidebar">
+                
+                <!-- 侧边栏内容 -->
+                <ul id="sidebar-list">
+                    <li><a href="index.html">主页面</a></li>
+                    <li><a href="contact.html" style="font-size: 100%;">联系我</a></li>
+                    <li><a href="https://github.com/jfgege/jfgege.github.io/mb7" style="font-size: 100%;" target="_blank">Github主页</a></li>
+                </ul>
+    
+            </div>
+
+            <script src="assets/js/sidebar.js"></script>
+            
+        </body>
+    </html>

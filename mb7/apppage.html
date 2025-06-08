@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset = "utf-8">
+            <title>小程序详情页</title>
+            <link rel="stylesheet"  href="assets/css/apppage-mobile.css"/>
+
+            <style>
+                button{
+                    border: 2px solid #d1cdcdd7;
+                }
+
+                #sidebar-list li{
+                    background: whitesmoke;
+                }
+            </style>
+
+        </head>
+        <body>
+            
+            <!--遮罩-->
+            <div class="overlay" onclick="closeSidebar()"></div>
+
+            <div id="topbar">
+                <div id="sidebar-button" class="sidebar-button">
+                    <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg>
+                </div>
+
+                <div id="title">
+                    小程序详情页
+                </div>
+            </div>
+
+	<!--
+            <div id="appicon">
+                <img src="logo.png" >
+            </div>
+	-->
+	
+
+            <div style="display: flex;justify-content: center;">
+                <p id="apptitle">请重试</p>
+            </div>
+
+            <div id="appcategory">
+                <p id="category">小程序</p>
+            </div>
+
+            <div id="appdetails" class="content-div">
+                <div>
+                    <h1 class="content-h1">-小程序简介-</h1>
+                </div>
+
+                <div>
+                    <p id="details" class="content-p">
+                        若您看到此页面，代表页面未正确加载，请刷新、返回重试
+                    </p>
+                </div>
+
+            </div>
+
+            <!--
+            <div id="appshot" class="content-div">
+                <div>
+                    <h1 class="content-h1">-小程序截图-</h1>
+                </div>
+
+                <a href="app.jpg" id="shotimg" style="height: 10%;display: flex;justify-content: center;" target="_blank">
+                    <div style="display: flex;justify-content: center;">
+                        <img src="app.png">
+                    </div>
+                </a>
+            </div>
+            -->
+
+            <div id="appsite" class="content-div">
+                <div>
+                    <h1 class="content-h1">-小程序主页-</h1>
+                </div>
+
+                <div>
+                    <p class="content-p">
+                        原始发布页<button class="linkbt"><a href="" target="_blank">点击前往</a></button>
+                    </p>
+                </div>
+            </div>
+
+            <div id="appdl" class="content-div">
+                <div>
+                    <h1 class="content-h1">-下载地址-</h1>
+                </div>
+
+                <div>
+                    <p class="content-p">
+                        原始发布页-推荐<button class="linkbt"><a href="" target="_blank">点击前往</a></button>
+                    </p>
+
+                    <p class="content-p">
+                        Github<button class="linkbt"><a href="" target="_blank">点击前往</a></button>
+                    </p>
+                </div>
+
+            </div>
+
+
+            <!--侧边栏部分-->
+            <div id="sidebar" class="sidebar">
+                
+                <!-- 侧边栏内容 -->
+                <ul id="sidebar-list">
+                    <li><a href="index.html">主页面</a></li>
+                    <li><a href="contact.html" style="font-size: 100%;">联系我</a></li>
+                    <li><a href="https://github.com/jfgege/jfgege.github.io/mb7" style="font-size: 100%;" target="_blank">Github主页</a></li>
+                </ul>
+    
+            </div>
+
+            <script src="assets/js/sidebar.js"></script>
+            <script src="assets/js/apppage.js"></script>
+
+        
+            
+        </body>
+    </html>

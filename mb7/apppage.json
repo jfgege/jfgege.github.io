@@ -1,0 +1,1610 @@
+{
+  "2048": {
+    "title": "2048",
+    "icon": "assets/icon/2048.png",
+    "category": "小游戏",
+    "details": "2048小游戏，可通过米环7玩2048",
+    "originlink": "https://www.bandbbs.cn/threads/4244/",
+    "github": "assets/apps/2048_2.1.1fix.bin"
+  },
+  "2048(EN)": {
+    "title": "2048(EN)",
+    "icon": "assets/icon/2048.png",
+    "category": "小程序",
+    "details": "Changed the buttons to English language for my non Chinese friends",
+    "originlink": "https://www.bandbbs.cn/threads/4277/",
+    "github": "assets/apps/2048 english latest version.bin"
+  },
+  "Apple launcher V2.0(EN)": {
+    "title": "Apple launcher V2.0(EN)",
+    "icon": "",
+    "category": "小程序",
+    "details": "Here is the apple launcher! The latest creation from humaid. This application is not mine, is made by Humaid in\nhttps://amazfitwatchfaces\n.com/mi-band-7/view/757\nbut because him can’t publish I have published myself.",
+    "originlink": "https://www.bandbbs.cn/threads/10946/",
+    "github": "assets/apps/apple_launcher_2.0_preview.bin-531284-3d780fe205.bin"
+  },
+  "Apple Health Chinese Version": {
+    "title": "Apple Health Chinese Version",
+    "icon": "",
+    "category": "小程序",
+    "details": "1.修改布局间隔，更紧凑2.百分比%改至进度条内(默认纯白，未适配颜色)3.删除底部运动状况(鸡肋)4.底部感叹号改为返回主页(防止系统 Bug 卡死无法退出小程序)5.小程序名称过长，修改为运动健康(可替代官方 \"活力指标\")6.推荐目标文本过长，已删除⚠️⚠️⚠️⚠️⚠️为精简包体，现将作者简介头像动态图片，及界面删除原作者 By Humaid,Eacorpion原帖链接",
+    "originlink": "https://www.bandbbs.cn/threads/5313/",
+    "github": "assets/apps/Apple health 3.0.bin"
+  },
+  "Apple health V1.0": {
+    "title": "Apple health V1.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "Please note that I am non Chinese its just a Google translation so please be aware.Apple health 1.0这是我引以为豪的第一个应用程序。我没有从开发人员或应用程序那里获取任何代码，我只是制作了自己的应用程序。这个应用程序基本上是一个面向健康的应用程序，您可以从中查看您的每日卡路里、步数和类似的东西。但你可能想知道官方应用程序也可以做同样的事情，但让我清楚的是，这个应用程序还可以告诉你燃烧了多少脂肪还有官方应用程序无法显示的距离，是的，就是这样。在下一个版本中，我将为文本添加颜色并使其更漂亮。",
+    "originlink": "https://www.bandbbs.cn/threads/5076/",
+    "github": "assets/apps/Apple health .bin"
+  },
+  "Apple health V1.1": {
+    "title": "Apple health V1.1",
+    "icon": "",
+    "category": "小程序",
+    "details": "所以有什么新东西。它现在支持中文。添加颜色以使美丽。你会喜欢的新的高级用户界面。添加了心率监测器",
+    "originlink": "https://www.bandbbs.cn/threads/5094/",
+    "github": "assets/apps/Apple health 1.1.bin"
+  },
+  "Apple手電筒": {
+    "title": "Apple手電筒",
+    "icon": "",
+    "category": "小程序",
+    "details": "第一次開發小程序，源代碼都是從其他小程序裡面挖出來修改的！由於寄宿的原因搞了快一個月了原求助帖：https://www.bandbbs.cn/\nthreads/6453/\nApple Watch效果小米手环效果这里特别感谢Chatgpt，教了我很多，比人类耐心多了（这个是肯定的毕竟是机器），希望有朝一日能看到gpt取代老师和补习班！更新1.03版本滑动打开手电后亮屏时间60s完善了退出小程序自动注销事件让微软bing画了个图标，不过现在还没玩明白手表的图片格式，图标有点乱码的感觉，长得也还行就先这样吧",
+    "originlink": "https://www.bandbbs.cn/threads/6538/",
+    "github": "assets/apps/StarryLight 1.03.bin"
+  },
+  "Apple健康 V4.0汉化": {
+    "title": "Apple健康 V4.0汉化",
+    "icon": "",
+    "category": "小程序",
+    "details": "原作者为 humaid，本人仅汉化，已经过 consolelogC8H10N4O2 授权 \n4.0 更新内容（源自表盘自定义工具 @humaid 原话加以修改）\n 加入 \n 饮水 \n 饮食 \n 帐户功能。\n 它的下一个版本是 5.0。它将修复所有 bug 并添加大量新功能。敬请期待。\n 附赠一个 apple 健康 3.0 汉化 + 美化 + 精简（个人觉得这个版本最好看）",
+    "originlink": "https://www.bandbbs.cn/threads/5731/",
+    "github": "assets/apps/Apple健康4.0汉化.bin"
+  },
+  "Apple健康5.0,Apple健康3.0终极精简版": {
+    "title": "Apple健康5.0,Apple健康3.0终极精简版",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n原作者为 humaid，本人仅添加了一些功能还有汉化和修改图标，已经过 consolelogC8H10N4O2 授权 \n5.0 版本更新内容:\n 添加 \npai\n 距离 \n 睡眠 \n 等功能 \n 修改账户功能为无需自己更改（就是访问系统数据）\n 添加 pai，血氧，心率，运动功能跳转 \n 没了 \n 纯自己更改，可能有 bug，请反馈 \n（让我先修一下 bug，(ó﹏ò｡) ）\nApple 健康 3.0 精简版 \n 大小减少至仅 4kb！（删除小人图片以及修改代码），另外此版保留主要功能，美化布局，将进度条下移\n\n提示：该小程序有多个版本可下载",
+    "originlink": "https://www.bandbbs.cn/threads/5802/",
+    "github": "assets/apps/Apple健康5.0和Apple健康3.0终极精简版-Struggle"
+  },
+  "BandTOTP V2.0": {
+    "title": "BandTOTP V2.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：作者名为lzc256\n\n(2022.08.08)BandTOTPV3.0已经发布。增加了很多新功能。详情请见[两步验证器BandTOTPV3.0大型更新]新增密码访问、文件夹分类、多验证码显示、自定义标题栏，支持无限账号\n\n(2022.07.04)\n前排提醒：若要转载或引用，请署作者名为lzc256。不要署名lzc2560！​\n前言​\n先说几句废话。作为一名学生，在学校有时想登录一下微软账号，但是没办法收邮箱/手机验证码。一直有个思路是：启用账号的两步验证，然后在智能穿戴设备上取得验证码进行登录。\n\n之前买过AppleWatch，但是AppleWatch里的TOTP软件我挨个试了一遍，都没办法离开iPhone使用。期末的时候，看见小米手环7可以自编JS小程序，马上下了单。期末前写了1.0版本。但是完成度较低，UI稀烂，且快考试了没时间上传。现在放假了，写了2.0版本，优化了UI和操作逻辑，更加赏心悦目。\n\n写这个小程序的初衷是为了更好地帮助其他和我一样在账号两步验证方面遇到困难的人。代码只是做了一些简单的混淆，破解起来应该很轻松。不过如果你想要了解程序原理和程序内一些设计细节，或者是在写自己的程序时遇到了困难，欢迎和我交流，我可以把我所知的都告诉你，不必进行破解。程序内也没有放版权，目的是不干扰大家的视觉体验，希望不要有人随便盗了发到其它地方去。\n\n废话说完了，下面是功能介绍和使用说明。\n\n使用说明​\n需要懂一点json语法。不提供json语法教程。后面可能会推出网页版配置工具，敬请期待。\n打开assets/config.json\n编辑Credentials栏目，添加或删除账号。\n编辑AutoSetMaxBrightness栏目。若设置为true，则会在打开验证码界面时将亮度调为最高。\n将json压缩为一行并保存。\n请注意：任何一条栏目都不可以省略。程序中没有对于被省略的栏目的处理，遇到被省略的栏目可能会报错。\n\n请注意：请使用UTF-16编码保存config.json。否则无法读取。（测试使用UTF-16LE保存可以正常使用）\n\n对于Credentials栏目中的每个账号，请进行以下配置。\n名称配置介绍\nName（任意字符串）显示的名称。\nOTPKey（字符串）你的OTPKeySecret。\nVisibleTrue/False控制该账户是否显示在列表中。\n\n保存并将整个文件压缩为BandTOTPv2.zip。改名为BandTOTPv2.bin，并刷入表盘。现在可以使用了。\n\n其他注意事项​\n进入验证码显示页面后屏幕会常亮60秒。为保护隐私，请及时关闭。\n\n其他想说的​\n本程序功能已经挺完备了，更新不会太频繁。欢迎在下面提出好的建议或者反馈Bug，大概、可能、也许会及时改进或修复吧……\n\nCopyright(C)2022lzc256.",
+    "originlink": "https://www.bandbbs.cn/threads/4141/",
+    "github": "assets/apps/4141.bin"
+  },
+  "BandTOTP 两步验证器 V3.0": {
+    "title": "BandTOTP v3.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：应作者要求，暂不提供该资源下载\n\n由于此版本变动很大，所以改了 AppID。喜欢用老版本 v2.0 的也可以继续使用。\n原版 v2.0 链接：https://www.bandbbs.cn/\nthreads/4141/\n(2022.09.10)BandTOTP v3.1 已经发布，包含多项更新。详情请见：[BandTOTP v3.1 更新] 新增Steam验证码、单文件夹自动跳转，修复若干 Bug​ https://www.bandbbs.cn/\nthreads/4955/\n一、有什么新功能？​\n1. 密码保护​\n可选配置。适用于\n想给手环上密码，但是又希望保护两步验证码安全的用户。用户可以设置六位数密码，BandTOTP v3.0 在启动时将进行验证。\n提醒：从安全角度出发，最好不要安装文件浏览小程序。配置文件是以明文储存的，他人通过文件浏览小程序可以轻易盗取你的 OTPKey。\n2. 文件夹分组+多验证码显示​在 BandTOTP v3.0 中，所有账号以文件夹形式分类储存。你可以创建无数个文件夹，然后在每个文件夹中添加无数个账号。每个账号及其验证码会以卡片形式展示。\n在多账号卡片视图中，屏幕会保持常亮 60 秒。\n提醒：由于设备性能限制，请不要在同一文件夹中添加太多账号。\n3. 自定义标题栏​你可以自定义主页的标题栏。若不进行配置，会默认设置为“BandTOTP”。\n示意图请见 一.2 中配图。\n二、配置指南​\n需要懂一点 json 语法。很简单的，搜一下教程几分钟就能学会。\n在此版本中，不必将 json 文件压缩为一行。\n更详细的解释可以看 v2.0 的配置指南。\n默认配置文件如下，我添加了一些注释以便理解。标记“（可选）”字样的配置项可以不写。\n按照示例写好配置文件后，请保存为 UTF-16 LE BOM 编码，命名为 config.json 并放入 assets 目录。\n安装到手环，现在可以正常使用了。\n三、常见问题​\n1. 卡进了一个奇怪的页面，标题是“FATAL”，下面一堆英文。​\n这是 BandTOTP 的错误页面。大部分都是因为你的配置文件不正确而导致报错。在拍照提问前，请先用翻译软件翻译一下其中的英文，错误信息写得明明白白，大部分错误是用户可以自行解决的。当然，要是你解决不了，也可以提问。\n注意：写这个错误页面花了我半个小时，初衷是减少无意义的提问，增强大家动手能力。所以出错的时候请不要看都不看一眼就提问，可以吗？​\n2. 主界面绿了​请退出到表盘，然后重新进入 BandTOTP v3.0。\n3. 在错误页面绿了，左划没法退出​我自己测试的时候还真的遇到过。这种情况下，可以尝试删除小程序重新安装，或者覆盖安装小程序。\n4. (2022.09.10) 无法使用 Epic 或者 Amazon 两步验证（或者：我已经填入了正确的 OTPKey，但是验证码的位置显示一串英文报错）​\n目前已知 Epic 或者 Amazon 两步验证会出现此问题。这是由于 OTPKey 长度不合规，无法通过 Hex 完整性验证导致。\n解决办法：在 OTPKey 后面补上一个大写字母 A，使 OTPKey 长度为偶数。如果还是不行，请继续补全，直到 OTPKey 长度为 8 的倍数。\n四、其他​昨天二十几发出了宵宫，今天单抽出了飞雷，太高兴了。一时兴起，肝了一天，从 Helloworld 模板开始重写了整个 BandTOTP。\n源代码我加密了，如果你想了解 BandTOTP v3.0 的技术细节，欢迎私信。",
+    "originlink": "https://www.bandbbs.cn/threads/4621/",
+    "github": ""
+  },
+  "BandTOTP 两步验证器 V3.1": {
+    "title": "BandTOTP v3.1",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：应作者要求，暂不提供该资源下载\n\n配置文件写法和其他注意事项请见：[两步验证器BandTOTP V3.0大型更新] 新增密码访问、文件夹分类、多验证码显示、自定义标题栏，支持无限账号​\n一、BandTOTP v3.1 更新内容​\n1. 新增：Steam 验证码（提议者：@Natsumi）​\n可以在手环上添加 Steam 二步验证账号了。\n在 Credentials 字段要使用 Steam 方式进行二步验证的用户中新增 'Is_Steam': true 即可。\n提醒：请注意大小写！\n2. 新增：单文件夹自动跳转（提议者：@Cp0204）​\n当文件夹只有一个时，直接进入多显页面。\n3. 优化：在多显页面时，不再每秒计算一次验证码，而是每 30 秒计算一次验证码。​\n4. 修复：使用过 BandTOTP 后，打开其他小程序时左划会返回表盘界面的 Bug。​\n5. 修复：剩余时间秒数不正确的 Bug。​\n二、Steam OTPKey 获取方式​\n参考这一篇文章进行操作：https://zhuanlan.zhihu.com\n/p/133837187?utm_id=0\n获取到的 shared_secret 即为 OTPKey，填入即可。\n注意：请填入 shared_secret 而非 secret！",
+    "originlink": "https://www.bandbbs.cn/threads/4955/",
+    "github": ""
+  },
+  "Battery program": {
+    "title": "Battery program",
+    "icon": "",
+    "category": "小程序",
+    "details": "Eacorpion submitted a new resource:Battery program- New version!!!New version!!!-new feature:-better UI (user interface)-added time to charge(seconds,min,hour)-added credit pageErrors fixed:-changed app ID by: 27727App name:-changed by:powerThanks you",
+    "originlink": "https://www.bandbbs.cn/threads/5083/",
+    "github": "assets/apps/Battery program v3.0.0..bin"
+  },
+  "Battery program V4.5.0": {
+    "title": "Battery program V4.5.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "Eacorpion submitted a new resource:new update- See your BatteryErrors fixed:-I attach wrong file, don´t download Version 4.5.0.-When you enter app, now all screen are displayed correcly and is nicenew features:-Added power save button in second page (not try slide left, I have disable this function)-added tips page in configurations-addded details page into configurations",
+    "originlink": "https://www.bandbbs.cn/threads/5247/",
+    "github": "assets/apps/Battery program v4.5.0..bin"
+  },
+  "Battery program V5.0.0": {
+    "title": "Battery program V5.0.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "finally, i bring a new version of my battery programThese are the new features:-add the page \"battery life\", in which you can select the number in which the calculations are made in the application, with an interval of 1 to 21 days-add the page \"charge time\", in which you can choose the time in which your watch is charged, the calculations of the battery charge will be made according to your chosen value最后，我带来了我的电池程序的新版本这些是新功能：-添加“电池寿命”页面，您可以在其中选择在应用程序中进行计算的次数，间隔为1至21天- 增加“充电时间”页面，您可以在其中选择手表充电的时间，电池电量的计算将根据您选择的值进行",
+    "originlink": "https://www.bandbbs.cn/threads/5374/",
+    "github": "assets/apps/Battery program v5.0.0..bin"
+  },
+  "Bluetooth": {
+    "title": "Bluetooth",
+    "icon": "",
+    "category": "小程序",
+    "details": "Eacorpion submitted a new resource:Bluetooth- See bluetooth statusThis porgram have no many code, it basically print Bluetooth status,so  be sincerely if you like or not, I haven’t waste more than 5 minutes on do it.I will publish a more big applet soon",
+    "originlink": "https://www.bandbbs.cn/threads/5162/",
+    "github": "assets/apps/Bluetooth.bin"
+  },
+  "捕夢網 [Dreamcatcher]": {
+    "title": "捕夢網 [Dreamcatcher]",
+    "icon": "",
+    "category": "小程序",
+    "details": "Ded 提交新资源：捕夢網 [Dreamcatcher]- 如果你喜欢做清醒的梦，这个应用程序会帮助你。[请原谅我的中文不好，我用了一个在线翻译器]如果你喜欢做清醒的梦，这个应用程序会帮助你。其原理非常简单--当你睡觉时，手镯会以设定的时间间隔振动。开始 - 自动或通过设置中的一个按钮设置闹钟的时间（只能禁用和手动启用）。睡眠 - 从睡眠开始到第一个警报响起的时间结束 - 振动的结束时间。所有睡眠--振动的结束时间取决于睡眠时间",
+    "originlink": "https://www.bandbbs.cn/threads/6131/",
+    "github": "assets/apps/applet_dreamcatcher.zip"
+  },
+  "捕梦网中文修复": {
+    "title": "捕梦网中文修复",
+    "icon": "",
+    "category": "小程序",
+    "details": "MaxMink 提交新资源：捕梦网中文修复- 简体中文修复中文改了一些",
+    "originlink": "https://www.bandbbs.cn/threads/13598/",
+    "github": "assets/apps/applet_dreamcatcher.bin"
+  },
+  "宠物史莱姆": {
+    "title": "宠物史莱姆",
+    "icon": "assets/icon/史莱姆6.01b.png",
+    "category": "小游戏",
+    "details": "本站提示：该资源提供多个下载项\n\n拥有一只宠物史莱姆！\n已知问题：运行天数较多时可能崩溃\n\n提示：该小程序有多个版本可下载",
+    "originlink": "https://www.bandbbs.cn/resources/1813/",
+    "github": "assets/apps/宠物史莱姆"
+  },
+  "宠物史莱姆 V7.14（代发）": {
+    "title": "宠物史莱姆 V7.14（代发）",
+    "icon": "",
+    "category": "小游戏",
+    "details": "各位养史莱姆的探险家们，你们好！本人是史莱姆剧情作者，由于部分原因原作者帖子被吃了，这边向大家道个歉。\n 时间太久忘记补发了😭\n 后续米九的史莱姆会随着新游发布而发到本坛。\n 我们的交流群 \n 米七 & 米九：115410045\n 米九（原作者）：1007680179",
+    "originlink": "https://www.bandbbs.cn/threads/16903/",
+    "github": "assets/apps/宠物史莱姆7.14.bin"
+  },
+  "初中古诗有活板（电子书改版）": {
+    "title": "初中古诗有活板（电子书改版）",
+    "icon": "assets/icon/环间电子书.png",
+    "category": "小程序",
+    "details": "初中古诗有活板，删除了河中石兽，没有三体和单词只有七年级到九年级的古诗文言文",
+    "originlink": "https://www.bandbbs.cn/threads/6796/",
+    "github": "assets/apps/初中古诗有活板.bin"
+  },
+  "初中学习工具箱（Q盒改版）": {
+    "title": "初中学习工具箱（Q盒改版）",
+    "icon": "",
+    "category": "小程序",
+    "details": "本质是对 q 盒的更改，改了颜色和字号 \n 计算器是俄罗斯大佬开发的计算器，我感觉字太小了，就放大了一点点 \n 词典是 givemefive 的 1.5 版本，更改了主题色调，和计算器统一，字号变大，作者信息因为为了节省空间给古诗就去除了，实在抱歉 \n 初中古诗是电子书 4.3.1 版本的，因为 5.2.0 被加密了，有活板，内容和我的那个 5.2.0 版本电子书的古诗一样，如果有错误请指出 \n 以上的行为如果不被作者允许请原谅",
+    "originlink": "https://www.bandbbs.cn/threads/9045/",
+    "github": "assets/apps/初中学习工具箱.bin"
+  },
+  "存储空间 UI翻新版": {
+    "title": "存储空间 UI翻新版",
+    "icon": "assets/icon/存储空间.png",
+    "category": "小程序",
+    "details": "重置版本\n更偏向手环UI\n不可与其他版本同时存在\n会覆盖其他版本",
+    "originlink": "https://www.bandbbs.cn/resources/1502/",
+    "github": "assets/apps/stonge_show.bin"
+  },
+  "打砖块游戏": {
+    "title": "打砖块游戏",
+    "icon": "",
+    "category": "小游戏",
+    "details": "Brick Breaker Game by ArnabXero​大家好，这是我最近开发的一款打砖块游戏。 它也被称为突破游戏。游戏在小米手环 7 上运行流畅。游戏特色：\n1.两种刀片样式\n2.四种游戏背景\n3.可定制的水平\n4.三十种颜色精美的积木\n5.设置上的桨选择\n6.设置中的球速选择\n7.设置背景选择\n8.开启砖行设置\n9.漂亮的彩色图形​Brick Breaker game by Arnab XeroHello guys,This is the brick breaker game I recently developed. It's also known as breakout game.The game runs smoothly on mi band 7.Game features:1. Two style of paddles2. Four game backgrounds3. Customizable levels4. Thirty types of colorful bricks that look very nice5. Paddle selection on settings6. Ball speed selection on settings7. Background selection on settings8. Bricks row set on settings9. Nice colorful graphics",
+    "originlink": "https://www.bandbbs.cn/threads/6470/",
+    "github": "assets/apps/打砖块闯关游戏 Brick Breaker BreakOut Game 7.0.bin"
+  },
+  "代码编辑器 0.0.0.1 BETA中的BETA版本（前瞻版？": {
+    "title": "代码编辑器 0.0.0.1 BETA中的BETA版本（前瞻版？",
+    "icon": "",
+    "category": "小程序",
+    "details": "前瞻版本，一堆bug！！！！！！！！！！！可能还无法运行代码！！！！！！！！！！！\n！！！！！！！！！！！众所周知，JStudio是一个非常远古好用的项目，但是嘛，很久没更新了，发布的那个版本用的是去年的Vepp0.8框架，要知道，现在Vepp即使6个月没更新，都到了0.12.0了虽然说手环上打代码是一件非常没必要的事情，但偶尔总归会用到的嘛，并且以官方的hmUI写的程序还可以做出一个较完善的单页面的小程序，比起直接安装小程序可以说是有趣多了所以，我决定，开发一个新的代码编辑/预览器，并可能支持html（这个版本暂时没有使用：安装、打开、编辑js代码提供了一些常用函数，如dom，zepp os api bridge的还提供了一个设置控件颜色的函数，可传入如black，0x000000，#000000，rgb(0,0,0)的颜色，须指定控件内置控件变量名（方便用户用代码修改）：editorpreviewrundeleteButton暂不支持保存代码（简单但懒得做支持console.log()、console.warn()方法输出代码请不要将此版本上传到任何平台（如aw，表盘自定义工具等）因为有很多bug，变砖后果自负",
+    "originlink": "https://www.bandbbs.cn/threads/8887/",
+    "github": "assets/apps/V.bin"
+  },
+  "单词卡": {
+    "title": "单词卡",
+    "icon": "",
+    "category": "小程序",
+    "details": "Lisk 提交新资源：单词卡- 单词卡# 单词卡 for miband7 Good Points:简洁的UI丰富的词库---此程序十分简单，没有储存计数，单词库是直接写在index.page.js文件里的，望各位可以帮忙改进## ToDo计数储存改进图标单词文件和渲染文件分离\n本程序通过MIT协议开源",
+    "originlink": "https://www.bandbbs.cn/threads/6391/",
+    "github": "assets/apps/default.bin"
+  },
+  "倒数日小程序 V2.1.0": {
+    "title": "倒数日小程序 V2.1.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "v3.0.1新版—>新版倒数日v2.1.0修复部分倒计时无法显示的bugv2.0.1修复了滑动会闪现的bugv2.0.0更新语录功能，详细请见README.txt8/21修复一月份日期显示错误由于之前的添加方式过于繁琐，本次1.5版本简化了添加方式，并可以自定义字体颜色，与是否自动排序和置顶个数本次版本通过配置文件添加倒数日，未来如果有更新版本可直接拷贝配置文件使用详细教程说明请解压查看/assets/README.txt本次更改了appid，请手动删除之前版本",
+    "originlink": "https://www.bandbbs.cn/threads/4816/",
+    "github": "assets/apps/倒数日v2.1.bin"
+  },
+  "倒数日小程序 V3.0.1": {
+    "title": "倒数日小程序 V3.0.1",
+    "icon": "",
+    "category": "小程序",
+    "details": "v3.0.1新版倒数日小程序添加了滑动效果，部分功能与旧版不同教程:下载解压后激进入asset/raw/文件夹中，有data.txt和configure.txt两个文件data.txt填写你的目标日期(无上限，但越多越启动越慢)格式:[高考/2023/6/7]特殊格式:[生日/00/12/3]每年12月3号重复倒计时[充话费/00/00/7]每月7号重复倒计时填完一个要换行填下一个，最后一个填完后不要换行，否则会报错configure.txt填写你的个性化设置置顶项目参见你的data.txt中的顺序,第一行的填0，第四行的填3，以此类推(最多可置顶1个，除了置顶外的日期将会从小到大排序)(注意作者忘记加条件判断了，如果你的置顶项目填的是不存在的，那么就会黑屏。后面有时间我再修复)颜色可前往-->查看颜色代码例：将#FFB6C1修改为0xFFB6C1填入即可",
+    "originlink": "https://www.bandbbs.cn/threads/6191/",
+    "github": "assets/apps/倒数日3.0.1 .bin"
+  },
+  "迪迦变身": {
+    "title": "迪迦变身",
+    "icon": "",
+    "category": "小程序",
+    "details": "腕间神光棒，一起变成光，变身迪迦吧！喜欢的B站搜索\"闪电猪FlashPig\"支持一下up主啦",
+    "originlink": "https://www.bandbbs.cn/threads/7450/",
+    "github": "assets/apps/tiga_rise.bin"
+  },
+  "电池小程序 V5.0汉化": {
+    "title": "电池小程序 V5.0汉化",
+    "icon": "",
+    "category": "小程序",
+    "details": "xxxl 提交新资源：电池小程序v5.0 汉化- 如题仅汉化原作者@consolelogEacorpion图标取自@ZhangXG发布的“电池小程序美化”",
+    "originlink": "https://www.bandbbs.cn/threads/5431/",
+    "github": "assets/apps/Battery program v5.0.0.汉化.bin"
+  },
+  "电池小程序极简版": {
+    "title": "电池小程序极简版",
+    "icon": "",
+    "category": "小程序",
+    "details": "电池小程序知道吧？在你印象当中是不是他占用的内存很大？我发现内存都用在哪里了！（看下方图片）这一个小程序占用的内存也是相当的小！快点下他不然我嗄你腰子！！！！！！！",
+    "originlink": "https://www.bandbbs.cn/threads/7489/",
+    "github": "assets/apps/Battery program v5.0.0.极简.bin"
+  },
+  "电子木鱼": {
+    "title": "电子木鱼",
+    "icon": "",
+    "category": "小程序",
+    "details": "Lisk 提交新资源：电子木鱼!- 在手表上敲木鱼!敲电子木鱼，取赛博真经。不知道怎么了原来的.bin文件上传不了于是压缩了一下。原作有所不足，请各位大佬们帮我改进改进",
+    "originlink": "https://www.bandbbs.cn/threads/5677/",
+    "github": "assets/apps/5677.bin"
+  },
+  "电子木鱼 V1.1": {
+    "title": "电子木鱼 V1.1",
+    "icon": "",
+    "category": "小程序",
+    "details": "原作者：Lisk(@米坛社区-bandbbs.cn)\n 地址：电子木鱼重制版\nhttps://www.bandbbs.cn/\nresources/1604/ \n 更新内容:\n 新增震动功能 \n 新增震动开关 (关于页)\n 新增功德统计",
+    "originlink": "https://www.bandbbs.cn/threads/6775/",
+    "github": "assets/apps/电子木鱼v1.1.bin"
+  },
+  "电子书 V5.2.3": {
+    "title": "电子书 V5.2.3",
+    "icon": "assets/icon/环间电子书.png",
+    "category": "小程序",
+    "details": "原作者 @NEORUAA & @GiveMeFive \n v5.2.3，修复了若干bug。",
+    "originlink": "https://www.bandbbs.cn/threads/9384/",
+    "github": "assets/apps/电子书v5.2.3.bin"
+  },
+  "电子书有书（三体，十宗罪，太空漫游四部曲）": {
+    "title": "电子书有书（三体，十宗罪，太空漫游四部曲）",
+    "icon": "assets/icon/环间电子书.png",
+    "category": "小程序",
+    "details": "电子书，三体全集，十宗罪全集，太空漫游四部曲",
+    "originlink": "https://www.bandbbs.cn/threads/11246/",
+    "github": "assets/apps/11246.bin"
+  },
+  "俄罗斯方块 V1.0": {
+    "title": "俄罗斯方块 V1.0",
+    "icon": "",
+    "category": "小游戏",
+    "details": "话不多说 作者 GiveMeFive 图标 NEORUAA",
+    "originlink": "https://www.bandbbs.cn/threads/4604/",
+    "github": "assets/apps/4604.bin"
+  },
+  "俄罗斯方块-新版UI（小程序转载）": {
+    "title": "俄罗斯方块-新版UI（小程序转载）",
+    "icon": "",
+    "category": "小游戏",
+    "details": "升级俄罗斯方块小程序版ui，与小程序表盘结合，更多请见https://amazfitwatchfaces\n.com/mi-band-7/fresh/p/2",
+    "originlink": "https://www.bandbbs.cn/threads/6540/",
+    "github": "assets/apps/6540.bin"
+  },
+  "恶魔轮盘": {
+    "title": "恶魔轮盘",
+    "icon": "",
+    "category": "小游戏",
+    "details": "李斯泰 提交新资源：恶魔轮盘- 恶魔轮盘，别人有米7也要有！！！目前道具还未加入，只有第一阶段游戏可以游玩",
+    "originlink": "https://www.bandbbs.cn/threads/11106/",
+    "github": "assets/apps/11106.bin"
+  },
+  "二步验证器（原版by lzc256）": {
+    "title": "二步验证器（原版by lzc256）",
+    "icon": "",
+    "category": "小程序",
+    "details": "使用方法详见大佬的原帖https://www.bandbbs.cn/\nthreads/4141/原版小程序表盘 bylzc256本小程序的appid为1145141（卸载时会用到）仅将表盘移植为独立小程序，未对核心代码做任何修改若有任何侵权行为本人将立即删除本帖及其附属资源",
+    "originlink": "https://www.bandbbs.cn/threads/4211/",
+    "github": "assets/apps/4211.bin"
+  },
+  "反应力测试": {
+    "title": "反应力测试",
+    "icon": "",
+    "category": "小程序",
+    "details": "原创话不多说，正如你所见，它可以测试你的反应力。当屏幕亮起时，迅速点击屏幕，就可以计算出你反应所需的时间。有两个按钮，上面的del临时存储可以删除最高分，下面的重置可以再来一次很简单的小程序，算法也不复杂，个人原创，不喜勿喷因为本人是个初中生的原因，没有太多时间去制作，图标还没有来得及改。快要考试啦！！喜欢的话给我点个赞和关注，谢谢啦（毕竟我制作也不容易嘛）😚",
+    "originlink": "https://www.bandbbs.cn/threads/5300/",
+    "github": "assets/apps/5300.bin"
+  },
+  "高中语文古诗": {
+    "title": "高中语文古诗",
+    "icon": "",
+    "category": "小程序",
+    "details": "B开头为必修，X开头是选修，add为新高考背诵篇目，顺序按照课本。从网上找的文章，部分段落后有注释。可与电子书共存。",
+    "originlink": "https://www.bandbbs.cn/threads/8126/",
+    "github": "assets/apps/8126.bin"
+  },
+  "谷歌日历": {
+    "title": "谷歌日历",
+    "icon": "",
+    "category": "小程序",
+    "details": "目前存在一些问题。1 问题是图标不是很精致，所以我将把这个图标制作成谷歌日历之类的。第二件事是只有 50 个事件，而且没有一个是中文的。但我向你们保证，我将添加中文事件和信息。所以请继续关注 idk，我什么时候会发布，但我可以说一件事它会提前发布。\nIf you swipe left you will get another app\n 离开我们辛勤工作的开发人员，如 mengh04、zzt714 和我最好的家伙，他帮助我编写 zqx666 代码。我从心底里想要谢谢你。我正在制作一个倒计时日的小程序，但 mengh04 已经制作了，所以我拿走了他的小程序。if this app can't be installed in your device so try this version I made this specialy for you guys Thread ' 谷歌日历 1.1V every thing fixed'\n\n——后段英文翻译——：如果这个应用程序无法安装在您的设备中，那么请尝试这个版本，我为你们制作了这个特别的帖子'谷歌日历1.1V所有事情都已修复' https://www.bandbbs.cn/\nthreads/4861/",
+    "originlink": "https://www.bandbbs.cn/threads/4846/",
+    "github": "assets/apps/google calendar.bin"
+  },
+  "谷歌日历 V1.1": {
+    "title": "谷歌日历 V1.1",
+    "icon": "",
+    "category": "小程序",
+    "details": "I am a foreigner so that's just a Google translation .\nOn my previous version you guys told me the app is not working . And some of you even told that it's not even installing. So I am here with a new version I have tested my self. So what's new well\n(1) icon is more refined just like google calendar.\n(2) all your problems will be solved .\n(3) added a calendar app. So how to open a calendar app . Swipe left than you will get a calendar. And on the first page you will get how many days are left for this event.\n\nThe only problem that I can find out is that the app takes time to open it won't open instantly as other apps it will take time . Like 8 to 10 seconds.\n\nSo pls be patient. Another thing is that if you will swipe left on black screen it will lag a bit and I think it would even restart. So pls be patient and wait for the app to open and then you can swipe left see calendar application.\n\nApplets of developers countdown mengh04 .\nCalendar : zzt741\nAnd ofcourse my best buddy who helped me how to code zqx666. I want to thank you all from my bottom of my heart\n\n 在我以前的版本中，你们告诉我该应用程序无法正常工作。你们中的一些人甚至告诉它甚至没有安装。所以我在这里有一个我已经测试过自己的新版本。那么有什么新东西呢 \n（1）图标更精致，就像谷歌日历一样。\n（2）你所有的问题都会得到解决。\n（3）添加了一个日历应用程序。那么如何打开日历应用程序。向左滑动，您将获得日历。在第一页上，您将看到此活动还剩多少天。\n\n 我能发现的唯一问题是该应用程序需要时间才能打开它不会像其他应用程序那样立即打开它需要时间。比如 8 到 10 秒。\n\n 所以请耐心等待。另一件事是，如果您在黑屏上向左滑动，它会有点滞后，我认为它甚至会重新启动。所以请耐心等待应用程序打开，然后您可以向左滑动查看日历应用程序。",
+    "originlink": "https://www.bandbbs.cn/threads/4861/",
+    "github": "assets/apps/谷歌日历1.1v.bin"
+  },
+  "谷歌小恐龙 V1.1（代发）": {
+    "title": "谷歌小恐龙 V1.1（代发）",
+    "icon": "",
+    "category": "小游戏",
+    "details": "原作者：GiveMeFive\n 代码重构：Struggle\n 代码及图片来源：小恐龙程序表盘 \n 删除没用的素材 \n 由于部分原因暂时无法申请到新素材制作新模式，见谅。",
+    "originlink": "https://www.bandbbs.cn/threads/10206/",
+    "github": "assets/apps/小恐龙1.1.bin"
+  },
+  "Hyper Book V1.0.0 Beta": {
+    "title": "Hyper Book V1.0.0 Beta",
+    "icon": "",
+    "category": "小程序",
+    "details": "【这是电子书小程序，不是电子书】\n内测q群：590487817\n投喂：爱发电链接\n如题，目前支持\nutf-8\nutf-16le\ngb2312\ngbk\ngb18030\nutf16le的编码支持性最好（毕竟所有字符都是2字节），utf8其次，其他并未测试\nname 书籍名\ntxtList 书籍列表（当然，可以不是txt格式），也可填入'txt/1.txt'这种的\nicon 书籍封面 可以不填\ndescription 书籍介绍 可以不填\ncode 编码\nfrom 来源（暂时没用）\n目前项目暂不开源\n使用库\nfx\nsmoothTimer\nauto-i18n-translator\ngotoPage\nzepposbridge-LocalStorage\nvis-log",
+    "originlink": "https://www.bandbbs.cn/threads/12377/",
+    "github": "assets/apps/HyperBook.bin"
+  },
+  "HyperBox V1.5.0": {
+    "title": "HyperBox V1.5.0",
+    "icon": "assets/icon/hyperbox1.5.0.png",
+    "category": "小程序",
+    "details": "新增\n超级设置\n性能测试\n系统信息（暂时不可用）\n绿光手电\n金手指\n触控检测\n大部分页面中英繁三语适配\n修改图标为新年限定版\n优化\n精简代码，大部分页面三语适配的情况下，还减少了17kb\n删除荧光棒、苹果手电、屏幕检测的图片，改用矩形处理\n针对繁中地区（港澳台）、英语地区（美英等）的今日饮食做了本地化（不是单纯的翻译！！！！！）\n修改丑陋的关于页面，参考自习室进行调整\n更改Q盒名称为Hyper Box\n将主页按钮改为forEach循环生成\n修改部分页面的变量名\n将hello world模板的192*490…文件夹删除\n将荧光棒页面美化，增加“帧”、“亮”，“色”\n修改图标（蓝色的那版）\n修复\n点击一言、答案之书跳转页面会占用空间的bug\n电子木鱼挂机模式会重启\n删除\n删除电子佛珠\n删除密码生成",
+    "originlink": "https://www.bandbbs.cn/threads/9903/",
+    "github": "assets/apps/HyperBox1.5.0.bin"
+  },
+  "HyperBox V2.0.0": {
+    "title": "HyperBox V2.0.0",
+    "icon": "assets/icon/hyperbox2.0.0.png",
+    "category": "小程序",
+    "details": "久等了！\nHyper Box 2.0.0 正式发布！\n（号九妹再摄取商法铁了优点省属）\n我们用了两个月的功能将全部（记事本与画板暂时除外），总共24个实用功能页面全部推翻再重构\n总共大约6000余行代码，充分优化了用户的使用体验\n下面来介绍这次大更新的内容\n1.将页面框架从原本的Hello World迁移为Zepp Simulator的官方框架\n2.将每个页面的ui重构，优化整体美观性\n3.加入渐显（有的基本都需要内测资格）\n4.部分页面加入动画（如计算器、今日饮食）\n5.大部分页面加入时间显示\n6.大部分页面加入标题显示\n7.增加App-Side（即联网）功能（暂时需要内测才可使用）\n8.性能测试更换新的测评算法\n9.更改关于页面\n10.将大多依托json的页面，将json与页面隔离开来，更方便进行更改\n11.将他人的页面全部重构\n12.计算器使用动态运行算法\n13.身体质量页面更新一堆功能（太多了）\n14.修复密码生成（终于修了）\n15.删掉电池管家\n……\n由于篇幅的关系就不说太多了\n要是对这些感兴趣可以看看Hyper Box 2.0 UI设计稿\n如果你想要体验app-side（例如ai对话，网络每日一言之类的？），可以购买内测资格，然后联系qq @2089827698 当然也可以帮做小程序捏（）\n更多内容请自行下载发现！",
+    "originlink": "https://www.bandbbs.cn/threads/11776/",
+    "github": "assets/apps/HyperBox2.0.0.bin"
+  },
+  "华容道 V1.0": {
+    "title": "华容道 V1.0",
+    "icon": "assets/icon/华容道1.0.png",
+    "category": "小游戏",
+    "details": "华容道小程序，可通过米环7玩华容道",
+    "originlink": "https://www.bandbbs.cn/resources/1475/",
+    "github": "assets/apps/huarongdao1.0.bin"
+  },
+  "环管Pro V4.6.1": {
+    "title": "环管Pro V4.6.1",
+    "icon": "",
+    "category": "小程序",
+    "details": "关于项目停更的问题，可以查看https://www.bandbbs.cn/threads/10811/，有更多问题可以私信我，我有空会回 \n 后续等我中考完可能会把最新内测改一下发出来 \n 更新后请使用自动修复功能先修复一遍，如果有问题请先用表盘自定义删除后再安装 \n 环管 Pro-4.6.1 可能是最后一个 Band7 中环管的版本，后续可能不会更新了（工具箱可以实现更多的功能，环管在很多方便都不如工具箱）\n 如果忘记应用锁密码，请看这个（https://www.bandbbs.cn/threads/4953/）帖子，安装小程序后，打开小程序，点击按钮即可重置密码，重置密码后需要到环管 Pro 设置密码 \n 自动修复功能 \n1. 支持修复手环表盘  小程序安装失败后，占用内存的问题 \n2. 修复删除环管 Pro 后再安装环管 Pro 还是无法使用加锁过的小程序 \n 如果遇到小程序无法退出的问题话（4.5.0 之后完全修复了），可以尝试：\n1. 打开 zepp life\n2. 点击底部的运动按钮 \n3. 点击开始运动 \n4. 在手环停止运动，即可返回表盘页面，返回后请立刻重启 \n 现有功能：\n 应用锁 \n 支持加锁支持的小程序 \n 加锁环管 Pro\n 必须要 json 的支持 \n 小程序管理 \n 支持删除、隐藏小程序（json 不管怎么样都行），可以打开 json 没问题的小程序 \n 文件管理 \n 支持查看、打开、删除 /storage 中的任何文件（夹）\n 屏幕检测 \n 亮度渐变调节到最大 \n 滑动退出、所有图片播放完成小程序后退出均可以退出，退出后自动调节亮度到原始亮度 \n 系统信息 \n 调用系统 api 并显示系统 api 返回的信息 \n 打开会有点慢（系统限制）\n 快捷方式支持 \n 遥控拍照 \n 系统亮度调节 \n 系统设置 \n 手电筒 \n 关机 \n 应用设置 \n 捐赠 \n 应用锁设置 \n 小程序管理设置 \n 开启伪装模式 \n 自动修复 \n 关于我们 \n 伪装模式 \n 支持把环管 Pro 伪装成一个手电筒 \n 伪装后打开会打开自带手电筒 \n 打开之前 1 秒钟等待时间 \n 点击手环最上面即可进入环管 Pro\n4.6.1 更新日志：\n1. 删除 / 加锁小程序的小程序说明往上调了下 \n2. 修复了小程序隐藏的一些 bug\n4.6.0 更新日志：\n1. 修改了图标 \n2. 添加应用顺序修改（官方页面，官方没做好，谨用）\n3. 修复了小程序隐藏无法显示弹窗的 bug\n4.5.0 更新日志：\n1. 完全修复了无法退出的 bug\n2. 新增自动修复功能 \n3. 后续添加主题修改功能 \n4.1.0 更新日志：\n1. 应该修复了无法退出的 bug（没进行大量测试，反正我可以正常退出了）\n2. 修复了应用管理无法显示中文的 bug\n3. 修复屏幕检测右滑返回后会退出腕管 Pro 的 bug\n4.0.0 更新日志：\n1. 新增应用锁，可以加密别的小程序，请先设置密码后开启，密码存在内存里，无需担心密码泄露 \n2. 新增伪装模式，伪装后腕管会变为手电筒。回到腕管的方式：小程序跳转到手电筒之前有一段前摇，只显示手电筒图标，此时疯狂点击屏幕最上方即可进入腕管 \n3. 新增图片查看功能",
+    "originlink": "https://www.bandbbs.cn/threads/5370/",
+    "github": "assets/apps/环管Pro-4.6.1.bin"
+  },
+  "环间B站-环间视频的迭代": {
+    "title": "环间B站-环间视频的迭代",
+    "icon": "",
+    "category": "小程序",
+    "details": "刚做完第一个小程序我又来了，这次带来的是环间B站(不是真的app)是上一个版本的迭代优化上个版本https://www.bandbbs.cn/\nthreads/5961/话不多说直接上图已经过测试安装后大约6mb，流畅运行放的都是大家喜欢的，没有瑟瑟放心食用，有想法的小伙伴可以联系Vx😛xxbxjhh,最后很感谢来自小伙伴@[SIZE=7]TomHoray[/SIZE]的灵感激发！！！",
+    "originlink": "https://www.bandbbs.cn/threads/5982/",
+    "github": "assets/apps/5982.bin"
+  },
+  "环间电子书 V5.6.0": {
+    "title": "环间电子书 V5.6.0",
+    "icon": "assets/icon/环间电子书.png",
+    "category": "小程序",
+    "details": "环间电子书5.6.0，查阅你喜欢的文章\n已知问题：运行时有概率重启，不会造成任何问题",
+    "originlink": "https://www.bandbbs.cn/threads/14605/",
+    "github": "assets/apps/e-book5.6.0.bin"
+  },
+  "環間電子書 V5.2.1": {
+    "title": "環間電子書 V5.2.1",
+    "icon": "",
+    "category": "小程序",
+    "details": "環間電子書 v5.2.1原作者@NEORUAA&@GiveMeFive更新內容• 修復離開電子書後進入一些小程序後上滑出現\"已經沒有啦\"提示 和 左滑出現空白界面的bug• 支持繁中翻譯 (lang code: 1)• 優化英文翻譯",
+    "originlink": "https://www.bandbbs.cn/threads/8074/",
+    "github": "assets/apps/8074.bin"
+  },
+  "环间计算器(图标改善版)": {
+    "title": "环间计算器(图标改善版)",
+    "icon": "",
+    "category": "小程序",
+    "details": "修改:将符号“*”“/”改为“x”“÷”",
+    "originlink": "https://www.bandbbs.cn/threads/5199/",
+    "github": "assets/apps/5199.bin"
+  },
+  "环间oo棒": {
+    "title": "环间oo棒",
+    "icon": "",
+    "category": "小程序",
+    "details": "米坛上有一个震动器（js小程序）了，但这作者可能没看华米的开发文档，所以我又重制了一个，icon没变，scene改成5了（振动强度高，单次长振动 500ms，持续振动，需要手动 stop 才会停止，与手表闹钟、倒计时振动反馈一致）注意安全Coolapk@何梦雅是大小姐 [流汗滑稽]",
+    "originlink": "https://www.bandbbs.cn/threads/4576/",
+    "github": "assets/apps/4576.bin"
+  },
+  "环间oo棒 V2.0": {
+    "title": "环间oo棒 V2.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "自行体会，你猜更新什么了（doge",
+    "originlink": "https://www.bandbbs.cn/threads/5116/",
+    "github": "assets/apps/5116.bin"
+  },
+  "环间图库（相册） V1.6-二创": {
+    "title": "环间图库(相册) V1.6-二创",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n我发现米七的环间图库小程序资源少的只有一个，根本没有人修改，在米九发了环间图库后的我羡慕的只有 360 度旋转螺旋升天才能缓解我嫉妒的心情，所以一直想着要修改一下米七的，于是就有了此帖 \n 可惜的是，我试了几乎所有方法依然没有办法使米七的 ZeppOSv1.0 (👈🤓看！乐子) 实现图片放大功能，所以有没有开发者有办法实现的？🤔\n (22:42) 此次更新此次修改主要更新了：\n 删除图片边框 \n 增加可点击图片进入图片详情页功能 \n (00:31) 更新：(鸣谢 @ruciv 提供🤓👍)\n 优化图像边框 \n 可以使用放大功能查看图片！(点击图片后进行左右滑动操作可以看到超出图片的内容 —— 我当时怎么没想到😅)\n 支持图片标题 \n 宇宙免责声明：此版本仅供转载下载，若侵犯开发者权益请及时告知！！！最终成品以官方 (@GiveMeFive) 为准，上传版本为测试版本 \n 更新的有点少。。。我尽力了，本来是想做放大功能的，但是没办法实现，有没有同志有办法的？(时间戳：22:42)\n\n提示：该小程序有多个版本可下载",
+    "originlink": "https://www.bandbbs.cn/threads/14876/",
+    "github": "assets/apps/环间图库"
+  },
+  "环间小词典": {
+    "title": "环间小词典",
+    "icon": "assets/icon/小词典1.5.png",
+    "category": "小程序",
+    "details": "中英词典小程序，可通过米环7查单词",
+    "originlink": "https://www.bandbbs.cn/threads/4329/",
+    "github": "assets/apps/banddictionary1.5.bin"
+  },
+  "环间小相册独立版 V1.5.0开发版": {
+    "title": "环间小相册独立版 V1.5.0开发版",
+    "icon": "",
+    "category": "小游戏",
+    "details": "本站提示：该资源提供多个下载项\n\n更新日志帖，请务必阅读：https://www.bandbbs.cn/\nthreads/4485/#post-129700请点击最新的附件下载写在开头：本人只是一个几乎完全不懂js的小盆友（13）。。。这个代码是我东拼西凑写出来的，hh，不喜勿喷！请务必认真阅读下面文字，图片是可以替换的！！！这是一个小相册～可用米环来查看图片图片的要求：共支持存储十张图片（因为设备限制），7张短图，两张长图，一张超长图，短图最大尺寸为192×120，长图最大尺寸为192×480，超长图最大尺寸为192×600（注意是最大），且通过imagetogtr3转换手环能够识别的格式。替换assets文件夹下的同名文件即可（1.png～10.png均按顺序排列，1~7是短，8~9是长，10是超长），上下滑动查看图片。（用mt管理器点击表盤.bin然後按瀏覽壓縮包 就會有個assets 替換掉圖片就好）目前存在的问题：1、可能与helloworld不兼容(已修复)2、图片尺寸小于最大尺寸，会出现黑边。虽然不影响使用，但是影响强迫症(﹁\"﹁)3、公测版功能有待完善～代码开源可2次开发(请务必注明一下原作者谢谢)相关传送门：改图宝：https://www.gaitubao.com/图片格式转换工具和教程在米坛中啦补一下https://www.bandbbs.cn/\nthreads/3953/制作不易，评论点赞可否？",
+    "originlink": "https://www.bandbbs.cn/threads/4386/",
+    "github": "assets/apps/环间小相册独立版 V1.5.0开发版"
+  },
+  "环间账号记录本测试版 V1.0": {
+    "title": "环间账号记录本测试版 V1.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "基于通讯录魔改的呃呃呃呃呃……没改好只是改了底层代码同时独立于通讯录（用的是同一个存档）图标也有问题（没电脑，手机端的电脑虚拟机也罢工了）希望有人能帮忙解决icon.png的颜色错乱问题，我也希望Struggle接入中文打字",
+    "originlink": "https://www.bandbbs.cn/threads/9860/",
+    "github": "assets/apps/9860.bin"
+  },
+  "环上B站 V1.0.1": {
+    "title": "环上B站 V1.0.1",
+    "icon": "",
+    "category": "小程序",
+    "details": "基于米友们的反馈，环上B站1.0.1 版本上线，本次更新：\n1. 更圆更好看的图标 \n2. 更新漫画分区（效果欠佳，字太小，在想要不要横屏）\n3. 有白天 / 黑夜背景主题 \n4. 视频更小，更多（由于学习紧张，只放了一个视频和鬼刀漫画）\n 最后谢谢大家支持",
+    "originlink": "https://www.bandbbs.cn/threads/6331/",
+    "github": "assets/apps/环上B站1.0.1.bin"
+  },
+  "黄金矿工 V1.8": {
+    "title": "黄金矿工 V1.8",
+    "icon": "",
+    "category": "小游戏",
+    "details": "更改了部分事件的数据，商店物价更改（调低），增加了新的道具：破匕首，用于防御某个怪物（注意不是贪钱幽灵）血量上限更改！还有商店是不是可以往下翻啊（我是知道的，但是这只是个提示）以及，介绍中的影藏功能更改的不是不死之身，而是血量无上限（这也是个提示，乐）\n最后：感谢淘汰郎先生和李斯泰先生的支持",
+    "originlink": "https://www.bandbbs.cn/threads/10752/",
+    "github": "assets/apps/黄金矿工V1.8.bin"
+  },
+  "黄金矿工 V1.6简体汉化加细微修改": {
+    "title": "黄金矿工 V1.6简体汉化加细微修改",
+    "icon": "",
+    "category": "小游戏",
+    "details": "已转正！感谢淘汰郎先生的支持！将游戏简体汉化并细微改了点东西，以及，联动（？）宠物史莱姆。",
+    "originlink": "https://www.bandbbs.cn/threads/10667/",
+    "github": "assets/apps/10667.bin"
+  },
+  "黄金矿工简体汉化版 V1.7": {
+    "title": "黄金矿工简体汉化版 V1.7",
+    "icon": "",
+    "category": "小游戏",
+    "details": "更新内容：将事件的数据进行更改，提示：或许在应用介绍的地方有什么东西可以点下载这个和淘汰郎先生发的都可以",
+    "originlink": "https://www.bandbbs.cn/threads/10710/",
+    "github": "assets/apps/10710.bin"
+  },
+  "Jump Jump(EN)": {
+    "title": "Jump Jump(EN)",
+    "icon": "",
+    "category": "小游戏",
+    "details": "Hey mates there is another English version of app for you.Yesterday my favorite developer NEORUAA made a jump jump game . I wanted to post English version yesterday but I was traveling so I couldn't . So I posted that program now  enjoy and don't forget to leave a feedback about this program so that I can try to fix",
+    "originlink": "https://www.bandbbs.cn/threads/4328/",
+    "github": "assets/apps/4328.bin"
+  },
+  "Jump Jump English Version": {
+    "title": "Jump Jump English Version",
+    "icon": "",
+    "category": "小游戏",
+    "details": "Here is the jump jump game in English version. I have translated all buttons into english. I am planning to build an enhanced version of this game very soon, so stay tuned and enjoy.",
+    "originlink": "https://www.bandbbs.cn/threads/5903/",
+    "github": "assets/apps/5903.bin"
+  },
+  "JumpJump Game Russian translate": {
+    "title": "JumpJump Game Russian translate",
+    "icon": "",
+    "category": "小游戏",
+    "details": "Danek 提交新資源：JumpJump Game Russian translate- RU JumpJumpПриложение Играрусский переводИгра Прыгун перевод на русский с китайскогоПросто прыгай",
+    "originlink": "https://www.bandbbs.cn/threads/4832/",
+    "github": "assets/apps/4832.bin"
+  },
+  "记事本 V2.0.3": {
+    "title": "记事本 V2.0.3",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n原作者consolelogC8H10N4O2\n如有汉化错误请指正\n2.0.1更新内容:\n汉化了一些错误汉化处\n修复输入F清除所有文字\n和密码不能输入4的bug\n\n2.0.2更新内容:\n汉化了一些错误汉化处\n添加大写锁定标识\n\n2.0.3更新内容:\n修改图标，以及各种小细节\n提供加密版，还有无密版，听说加密可以提高运行速度，研究可以用无密版\n\n----------\n原作者consolelogC8H10N4O2\n如有繁化錯誤請指正\n2.0.1更新内容:\n繁化了一些錯誤繁化處\n修複輸入F清除所有文字\n和密碼不能輸入4的bug\n\n2.0.2更新内容:\n繁化了一些錯誤繁化處\n添加大寫鎖定标識\n\n2.0.3更新内容:\n修改圖标，以及各種小細節\n\n提示：该小程序有多个版本可下载",
+    "originlink": "https://www.bandbbs.cn/threads/5679/",
+    "github": "assets/apps/记事本2.0.3"
+  },
+  "记事本 V2.0.4": {
+    "title": "记事本 V2.0.4",
+    "icon": "",
+    "category": "小程序",
+    "details": "原作者FlvLujU如有汉化错误请指正2.0.1更新内容：更正汉化内容修复输入F清除所有文字和密码不能输入4的bug2.0.2更新内容：更正汉化内容添加大写锁定标识2.0.3更新内容：修改图标，以及各种小细节2.0.4更新内容：更正汉化内容修复关闭密码后进入会闪一下bug（启动时间会更长）优化更多设置中的部分ui新增密码错误多次锁定功能（6次输入错误锁定，30秒后可继续输入，继续输入密码6次错误，锁定60秒，以此类推）",
+    "originlink": "https://www.bandbbs.cn/threads/7743/",
+    "github": "assets/apps/7743.bin"
+  },
+  "记事本(修改版，修改了密码)": {
+    "title": "记事本(修改版，修改了密码)",
+    "icon": "",
+    "category": "小程序",
+    "details": "_Juvenile_dsw666 提交新资源：记事本(修改版，修改了密码)- 如下，密码为六个0  如果不成功我吃翔  给个评价呗(„ಡωಡ„)栓Q如下，密码为六个0如果不成功我吃翔给个评价呗(„ಡωಡ„)栓Q",
+    "originlink": "https://www.bandbbs.cn/threads/5698/",
+    "github": "assets/apps/5698.bin"
+  },
+  "记事本-在手环上打字 V1.2": {
+    "title": "记事本-在手环上打字 V1.2",
+    "icon": "",
+    "category": "小程序",
+    "details": "此贴已作废，请移步至https://www.bandbbs.cn/\nthreads/5679/",
+    "originlink": "https://www.bandbbs.cn/threads/5513/",
+    "github": "assets/apps/5513.bin"
+  },
+  "计时器（开源）": {
+    "title": "计时器（开源）",
+    "icon": "",
+    "category": "小程序",
+    "details": "可后台运行的计时器Alpha2: 修复了第一次进入计时器出现 Panic 的问题“妈妈再也不用担心我倒计时的时候看不到时间了”此计时器拥有如下功能：​后台倒计时暂停、继续倒计时倒计时完毕震动提醒UI 设计上参考了 Zepp OS 官方的设计规范，视觉设计上更加贴近小米手环。​具体演示可查看演示视频​（演示设备为小米手环7 NFC，固件版本为 1.27.0.4 , 生产时间为 2022.7，测试设备安装了 2048 2.1.1，环间计算器2.5.0，中英词典1.5.0，课程表（非米坛上的））有关 Panic 界面：Panic 界面出现不代表手环系统出现问题，而是程序在运行过程中因为某些出现异常，此界面的出现是防止异常带来进一步影响（如导致系统重启），及时中断程序运行。小程序源码已开源：​https://gitee.com/\nLaomoBK/ktimer",
+    "originlink": "https://www.bandbbs.cn/threads/5250/",
+    "github": "assets/apps/5250.bin"
+  },
+  "计算器": {
+    "title": "计算器",
+    "icon": "",
+    "category": "小程序",
+    "details": "惠一梁666 提交新资源：计算器- 美化，微调布局美化，微调布局点击展开...阅读关于此资源更多信息...",
+    "originlink": "https://www.bandbbs.cn/threads/9223/",
+    "github": "assets/apps/9223.bin"
+  },
+  "计算器 V3.0": {
+    "title": "计算器 V3.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "惠一梁666 提交新资源：计算器3.0- 原作者melianmlko，二创惠一梁666\n更大的按钮，更大的显示，跟多的可见内容",
+    "originlink": "https://www.bandbbs.cn/threads/9207/",
+    "github": "assets/apps/9207.bin"
+  },
+  "计算器 V2.5.2": {
+    "title": "计算器 V2.5.2",
+    "icon": "",
+    "category": "小程序",
+    "details": "NEORUAA 提交新资源：小米手环7 独立小程序 计算器 (22.7.13更新2.5开发版)- 环间计算器 独立小程序版！计算器小程序，可通过米环7使用计算器。目前米环7能直接安装小程序，因此发布独立版本，以后也将更新这个版本，小程序表盘版不再维护。作者NEORUAA22.7.13_2..5开发版 更新日志：1.全面升级 真·小程序框架2.移除表盘3.优化关于界面4.修复小数点后0的bug如使用遇到问题，请反馈~下载见标题旁[下载]按钮使用教程：使用表盘自定义APP 1.6安装 小程序(不是表盘！！！)1.下载附件小程序最新版2.偶发重启是正常现象，不影响使用...点击展开...阅读关于此资源更多信息...",
+    "originlink": "https://www.bandbbs.cn/threads/4210/",
+    "github": "assets/apps/4210.bin"
+  },
+  "计算器 (22.8.7修改自米坛官方)": {
+    "title": "计算器 (22.8.7修改自米坛官方)",
+    "icon": "",
+    "category": "小程序",
+    "details": "原作者NEORUAA更改了操作逻辑添加了退格目前没有加减乘除优先级也没有括号，有时间再改",
+    "originlink": "https://www.bandbbs.cn/threads/4570/",
+    "github": "assets/apps/4570.bin"
+  },
+  "計算器 擴充版": {
+    "title": "計算器 擴充版",
+    "icon": "",
+    "category": "小程序",
+    "details": "計算器 擴充版原作者 melianmiko (4PDA)•新增功能: ^ x! 3√ tan asin acos atan log2 ln10(log10) e exp•修正 sin cos 數值錯誤",
+    "originlink": "https://www.bandbbs.cn/threads/8117/",
+    "github": "assets/apps/8117.bin"
+  },
+  "計算器 擴充版 V2.1": {
+    "title": "計算器 擴充版 V2.1",
+    "icon": "",
+    "category": "小程序",
+    "details": "計算器 擴充版 V2.1原作者 melianmIko(4PDA)V2.0 更新日誌:•可以以 x(x) 或 (x)(x) 的方式計算 (例: 2(3) = 6, 3cos(60) = 1.5, (2)(2)(2) = 12, 3pi = 9.42477795)•次方以 ^ 符號顯示•乘號以 × 符號顯示•除號以 ÷ 符號顯示V2.1 更新日誌:•小數情況下計算錯誤後輪入公式被修改的 bug 修復•backspace bug 修復•圓周率以 π 顯示•計算出錯會顯示 Error",
+    "originlink": "https://www.bandbbs.cn/threads/8229/",
+    "github": "assets/apps/8229.bin"
+  },
+  "计算器魔改版": {
+    "title": "计算器魔改版",
+    "icon": "",
+    "category": "小程序",
+    "details": "kliscool 提交新资源：计算机魔改版- 原环间计算机，管你听没听懂，用久完了计算器魔改版.zip - 蓝奏云文件大小：6.7 K|lovemj.lanzoum.com计算器",
+    "originlink": "https://www.bandbbs.cn/threads/6156/",
+    "github": "assets/apps/6156.bin"
+  },
+  "计算器升级版": {
+    "title": "计算器升级版",
+    "icon": "",
+    "category": "小程序",
+    "details": "0506tt 提交新资源：搬运俄罗斯计算器- 作者是melianmiko搬运，不收米粒。别人做的东西凭什么收米粒",
+    "originlink": "https://www.bandbbs.cn/threads/5481/",
+    "github": "assets/apps/5481.bin"
+  },
+  "计算器V3-bytecode": {
+    "title": "计算器V3-bytecode",
+    "icon": "assets/icon/计算器_v3_bytecode.png",
+    "category": "小程序",
+    "details": "原創: MelianMiko (4PDA) \n更新內容:\n程式碼優化\n修復log2() log10() 計算值為NaN的問題\nUI優化\n新增關於頁面(左滑進入)\n計算器精度為8位+8位小數\n計算器_v3_bytecode: 經qjsc編繹,速度更快更流暢,佔用手環空間較少",
+    "originlink": "https://www.bandbbs.cn/threads/9566/",
+    "github": "assets/apps/calculator_v3_bytecode.bin"
+  },
+  "间隔闹钟 [Interval timer]": {
+    "title": "间隔闹钟 [Interval timer]",
+    "icon": "",
+    "category": "小程序",
+    "details": "Ded 提交新资源：间隔闹钟 [Interval timer]- 在预设的时间间隔内激活手镯上的警报。[请原谅我的中文不好，我用了一个在线翻译器]在预设的时间间隔内激活手镯上的警报。例如，手镯每隔一小时就会振动一次。警告!​安装后和重启后，你必须在应用程序中启动警报器 (腕带没有自动启动功能)展开折叠内容:example[ATTACH...",
+    "originlink": "https://www.bandbbs.cn/threads/6084/",
+    "github": "assets/apps/6084.bin"
+  },
+  "经典飞机大战 V1.0": {
+    "title": "经典飞机大战 V1.0",
+    "icon": "",
+    "category": "小游戏",
+    "details": "经典飞机大战游戏，作者米坛GiveMeFive",
+    "originlink": "https://www.bandbbs.cn/threads/5261/",
+    "github": "assets/apps/飞机大战v1.0.bin"
+  },
+  "井字游戏中文原版 V2.1.0": {
+    "title": "井字游戏中文原版 V2.1.0",
+    "icon": "",
+    "category": "小游戏",
+    "details": "本站提示：该资源提供多个下载项\n\n要開學了，和同學一起玩玩OOXX也不錯，這次一樣有繁體中文版。話說井字棋就是井字遊戲？有什麼錯誤或好建議也可以在下面留言喔！沒有寫繁體中文的是原版，也就是簡體中文。原帖：https://www.bandbbs.cn/\nthreads/4958/侵權請在下方留言，看到會立即刪除",
+    "originlink": "https://www.bandbbs.cn/threads/4961/",
+    "github": "assets/apps/井字游戏中文原版 2.1.0"
+  },
+  "JStudio（开源）": {
+    "title": "JStudio（开源）",
+    "icon": "",
+    "category": "小程序",
+    "details": "使用我的全新框架——Vepp！算是一个比较好的实践了。目前功能支持：打字编辑，动态视野，运行输出，保存回档等。附个helloworld的图。左图为编辑，右图为输出。使用教程和源码见Github：教程直达：https://github.com/\njwhgzs/vepp-jstudio/blob/\nmaster/README.chinese.\nmd\nGithub（JStudio）：https://github.com/\njwhgzs/vepp-jstudio\nGithub（Vepp）：https://github.com/\njwhgzs/vepp安装包见附件（jstudio.bin）。",
+    "originlink": "https://www.bandbbs.cn/threads/5760/",
+    "github": "assets/apps/5760.bin"
+  },
+  "具有正常九键排布的中英词典": {
+    "title": "具有正常九键排布的中英词典",
+    "icon": "",
+    "category": "小程序",
+    "details": "原版中英词典之九键排列，误置其位，致习惯使用九键输入者极为不便，不胜其苦，是以稍为调整，使其恢复正常之排列，以使输入愈加便捷原作者：NEORUAA & GiveMeFive",
+    "originlink": "https://www.bandbbs.cn/threads/6723/",
+    "github": "assets/apps/6723.bin"
+  },
+  "课程表": {
+    "title": "课程表",
+    "icon": "assets/icon/课程表.png",
+    "category": "小程序",
+    "details": "课程表小程序v1.0 仅8k\n-使用方法1：\n1.解压缩\n2.打开assets/pages.txt\n3.修改为自己的课程\n其中- \nPAM：早上 \nAM：上午 \nPM：下午 \nNT：晚上\n多节课用英文逗号分割\n4.重新压缩安装即可使用\n-使用方法2：\n表盘自定义工具v1.9已支持课程表制作，在APP中填写课程即可一键制作安装",
+    "originlink": "https://www.bandbbs.cn/threads/4381/",
+    "github": "assets/apps/timetable1.0rel.bin"
+  },
+  "课程表小程序 V1.0": {
+    "title": "课程表小程序 V1.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "课程表小程v1.0 仅8k使用方法1：1.解压缩2.打开assets\\pages.txt3.修改为自己的课程其中 PAM：早上  AM：上午 PM：下午 NT：晚上多节课用英文逗号分割4.重新压缩安装即可使用方法2：表盘自定义工具v1.9已支持课程表制作，在APP中填写课程即可一键制作安装米环7工具 - 表盘自定义工具 环7版本(23.5.19更新4.5.7)#支持安卓/iOS端自定义表盘/小程序安装删除/米坛一键授权登录#【5.19】v4.5.7版本更新日志 1. 【ALL】添加表盘文件大小的提示（旧表盘逐步添加） 2. 【ALL】表盘下载时添加下载进度提示 3. 【8】支持指针表盘的制作，添加大量底包 4. 【7Pro】添加7Pro板块，支持7Pro表盘制作, 支持7Pro表盘安装  https://wwlx.lanzoul.com/\ni6XYH0wmffwh  表盘自定义工具安卓APP最新版v3.0.1 2023.4.27更新：蓝牙安装支持手动输入蓝牙地址进行连接设备 https://wwlx.lanzoul.com/\niaNZm0u3xpna",
+    "originlink": "https://www.bandbbs.cn/threads/4381/",
+    "github": "assets/apps/4381.bin"
+  },
+  "课程表修改版": {
+    "title": "课程表修改版",
+    "icon": "",
+    "category": "小程序",
+    "details": "临近开学，自改版本说明：在原版上课表太长显示不全，上滑与切换课表冲突，滑动手势比较难用，且灵敏度太高，容易误触故禁用上下滑手势，改用按键切换课表，如果你没有该困扰，大可不必用此版本原作者@GiveMeFive",
+    "originlink": "https://www.bandbbs.cn/threads/6080/",
+    "github": "assets/apps/6080.bin"
+  },
+  "课程表修改版 V1.2": {
+    "title": "课程表修改版 V1.2",
+    "icon": "",
+    "category": "小程序",
+    "details": "本次更新加入时间表\n如何修改时间？答：修改课程表 同目录下time.txt即可触发方式：点击上方星期原作者@GiveMeFive",
+    "originlink": "https://www.bandbbs.cn/threads/6468/",
+    "github": "assets/apps/6468.bin"
+  },
+  "快速笔记 V1.0": {
+    "title": "快速笔记 V1.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "小米手环 7 的快速笔记应用程序。它是一个快速简短的教程，如何将您的笔记放入您的 mi band 7。- 您必须在手机上下载 mt manager，然后单击“打开方式”，然后选择存档。现在打开文件后转到页面，然后将有 7 个 js 页面。索引页面只是一个主页，您可以从中命名一个注释。剩下的 2 到 7 页 是 笔记 , 你 可以 在 info page 写 30 字 的 快速 简短 笔记 .I don't know what i am writing . but if there is a person who can understand what i am saying so please post a tutorial on how put notes on mi band 7.i would be gald if you did",
+    "originlink": "https://www.bandbbs.cn/threads/5361/",
+    "github": "assets/apps/5361.bin"
+  },
+  "昆斯风格的伪MC资源包": {
+    "title": "昆斯风格的伪MC资源包",
+    "icon": "",
+    "category": "小程序",
+    "details": "版本已更新：https://www.bandbbs.cn/\nthreads/10421/此风格现更名为昆斯风格正如标题所见，我只做了个假的资源包，什么意思呢？就是这些只是快捷方式，不是真的资源包（所以会占内存，但比较小），目前我们不起眼的（真的很不起眼）影趣团队制作了阿谢风格的MC快捷方式资源包，素材展示昆斯风格就是全方的背景，所以看起来会有点小别扭（？）并且第一个应用会看不到部分贴图（也就一小点，具体看下方效果图）到时候还会有别的风格（等着吧，将会在暑假做），因为我只有这些快捷方式的模版（我自己不会做，在论坛里搜集的），所以只有这些啦，大家可以把已知的快捷方式发给我来让我更新qwq安装教程下载下面的压缩包，解压，里面全是小程序，直接安装，安装后把对应的原版应用隐藏就行了。切记！不要把这个快捷方式放在其他（或更多）里面！快捷方式和小程序一样被放在其他里会无法使用！快捷方式只是不会出现绿屏而已！ok我就说这么多，效果图如下好了，放东西qwq",
+    "originlink": "https://www.bandbbs.cn/threads/10320/",
+    "github": "assets/apps/10320.bin"
+  },
+  "拉姆历险记 V1.1": {
+    "title": "拉姆历险记 V1.1",
+    "icon": "",
+    "category": "小游戏",
+    "details": "正如标题所见，拉姆历险记再次更新！此次更新主要更新了：​\n1. 将原拉姆图像替换 \n2. 把原先一小时减少一格饥饿修改为每四个小时减少一格饥饿，存活率大大增加 \n3. 另外，如果拉姆不幸死亡，那么便很轻易就能将其复活，复活条件已降到最低 \n4. 丰富了语言库 \n5. 点击史莱姆可以刷出彩蛋哦 \n 本文件是开源状态，用户可以自行修改，我只是将一些内容修改，以此来帮助那些并不了解编程的用户，如果有 bug 请回复此帖！！！",
+    "originlink": "https://www.bandbbs.cn/threads/14603/",
+    "github": "assets/apps/拉姆探险記1.1.bin"
+  },
+  "拉姆探险记 V1.2.1": {
+    "title": "拉姆探险记 V1.2.1",
+    "icon": "",
+    "category": "小游戏",
+    "details": "没什么好说的，就是觉得拉姆的样子有点难看，于是就统一了一下，修复了存档 bug，如果你的存档仍然出现丢失现象，请查看内存以及文件情况，实在不行就直接在本帖回复😅\n 原作者：zzt741\n 原帖位置：https://www.bandbbs.cn/\nthreads/5304\n 修改：Dlmos 火烧云 \n 注：此版本为稳定版，后续可能不再进行更新维护 (没啥可更的了😰)，遇到 bug 仍然会继续更新维护🤓👊",
+    "originlink": "https://www.bandbbs.cn/threads/14817/",
+    "github": "assets/apps/拉姆探险记1.2.1.bin"
+  },
+  "拉姆探险记 V1.2": {
+    "title": "拉姆探险记 V1.2",
+    "icon": "",
+    "category": "小游戏",
+    "details": "拉姆探险记最新版已经更新！此次更新主要更新了:将“喂养”按扭向下延长，使其页面美观，不会出现文字与主页面同时存在的bug现象大幅度增加语言库(反正我也知道你们肯定不会闲着去大幅度的增加🤓)修改信息页面文字现象错误bug修改语言库部分信息出现乱码现象bug本文件是开源状态，用户可以自行修改，我只是将一些内容修改，以此来帮助那些并不了解编程的用户，如果有bug请回复此帖！！！",
+    "originlink": "https://www.bandbbs.cn/threads/14679/",
+    "github": "assets/apps/14679.bin"
+  },
+  "拉姆探險記加強版": {
+    "title": "拉姆探險記加強版",
+    "icon": "",
+    "category": "小游戏",
+    "details": "如題",
+    "originlink": "https://www.bandbbs.cn/threads/6380/",
+    "github": "assets/apps/6380.bin"
+  },
+  "来自MiBand8的MiBand7数学游戏": {
+    "title": "来自 Mi Band 8 的 Mi Band 7 数学游戏",
+    "icon": "",
+    "category": "小游戏",
+    "details": "本站提示：该资源提供多个下载项\n\n来自 Mi Band 8 的 Mi Band 7 数学游戏 | Math Game from Mi Band 8 for Mi Band 7这是一款在小米手环8中发现的数学游戏，适用于小米手环7。我在这个游戏中添加了2个酯蛋。 一个酯蛋是在达到一定分数后背景变成美丽的图像。另一个酯蛋是破解游戏以获得屏幕上的正确答案，可以通过在屏幕的特定部分点击 6 次来激活它。 自己找出来😉........This is a recreation of math game found in mi band 8, for mi band 7. I have added 2 ester eggs in this game. One ester egg is the background changes to a beautiful image after reaching a certain score.Another ester egg is to hack the game to get the right answer on the screen, it can be activated by tapping 6 times on a certain portion of a screen. Find it out by yourself😉",
+    "originlink": "https://www.bandbbs.cn/threads/6830/",
+    "github": "assets/apps/mathgame"
+  },
+  "亮度调节快捷方式": {
+    "title": "亮度调节快捷方式",
+    "icon": "",
+    "category": "小程序",
+    "details": "由于小米7亮度调节比较麻烦，所以写了这个快捷方式，给需要的人",
+    "originlink": "https://www.bandbbs.cn/threads/6771/",
+    "github": "assets/apps/6771.bin"
+  },
+  "龙珠召唤": {
+    "title": "龙珠召唤",
+    "icon": "",
+    "category": "小游戏",
+    "details": "小米手环7《龙珠召唤》小游戏，请多多支持快来提升悟空至自在极意功形体体验收集龙珠的乐趣吧！游戏试玩讲解视频见作者B站同名账号哦## 玩法1、运动获取步数，步数可兑换能量2、能量可用来冒险和寻找龙珠3、每天能量最多可获得100点能量4、每次冒险消耗10点能量值，寻找龙珠消耗60点能量5、冒险胜利悟空可提升等级，可获得技能点用于升级属性",
+    "originlink": "https://www.bandbbs.cn/threads/7383/",
+    "github": "assets/apps/7383.bin"
+  },
+  "minecraft2d": {
+    "title": "minecraft2d",
+    "icon": "",
+    "category": "小游戏",
+    "details": "搬运自 amazfaces\nMINECRAFT 手表版:\nminecraft 手表版是一款经典的 MINECRAFT 游戏。\n 您可以制作物品，但目前只能使用镐，您需要至少 3 块您想要的镐，棍子现在是免费的，您可以建造任何您想要的东西，可用的块有:\n草 \n接地 \n石头 \n铁 \n黄金 \n钻石 \n黑色石头 \n黑石钻石 \n贝克德罗克 \n下机架 \n尼瑟特 \nENDSTONE\n\n 这个游戏尽可能地依赖我，你将在开采 150 + 个矿块时进入虚空，在开采 275 + 个矿块时结束 \n 你可以制作 5 种不同的镐子，每一种都比另一种更耐用，例如，尼特斧头有 40 个方块的耐用度，石斧有 15 个方块，每个方块都有耐用度，例如，贝克洛克方块有 15 秒的耐用度，你可以开采多个方块，跳跃按钮不起作用 \n\n 动态天空，亮度变化模拟白天的夜晚 \n\n 享受 \nps: 机翻，能看懂吧😓",
+    "originlink": "https://www.bandbbs.cn/threads/10170/",
+    "github": "assets/apps/minecraft_2d-576064-f3428df6b0.bin"
+  },
+  "Mi fitness V3.0": {
+    "title": "Mi fitness V3.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\nEacorpion submitted a new resource:Mi fitness V3.0.- New version大家好，我给你们我的最新版“我的健身计划”它是V3.0。首先感谢HUMAID为该计划提供的新动画，现已提供中英文版本补充的东西：在子程序（距离、卡路里、脂肪”中，单击测量值以查看更多信息，例如英尺、蛋白质焦耳等）添加了心率程序，在这里，您还可以看到您的最大心率增加了pai程序，可以看到前6天的pai，以及当天获得的点数和前一天的比较新增睡眠程序，可查看起床时间、入睡时间、睡眠时长、睡眠评分单击您在程序开头看到的三个条形图以查看数据卡路里、步数、脂肪、距离和站立的直方图点击前一天获得的国家值可以查看它们的直方图什么回来了？运动男回来了，点击他进入观看运动页面（再次感谢我最好的朋友，humaid的动画）现在该程序可以读取您在我的健身或 zepplife 官方应用程序中设置的目标（步数、卡路里和站立的那些）计算是基于它们进行的用户界面改进：现在程序对数字进行四舍五入前：1.00000000000000000000000000现在：1翻译：现在支持英文和中文在下一次更新中，我将添加压力、spo2...",
+    "originlink": "https://www.bandbbs.cn/threads/5287/",
+    "github": "assets/apps/Mi fitness"
+  },
+  "Memoji": {
+    "title": "Memoji",
+    "icon": "",
+    "category": "小程序",
+    "details": "Puedes ver tu avatar en mi band 7",
+    "originlink": "https://www.bandbbs.cn/threads/10193/",
+    "github": "assets/apps/10193.bin"
+  },
+  "Memoji applet V1.0": {
+    "title": "Memoji applet V1.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "Please remember I am not Chinese its just a Google translation .经过漫长的十年后，我正在上传一个新的小程序。好吧，这就程序，就像苹果手表一样。现在你只能放 2 个表情符号，但将来你可以添加更多。对于那些要求我参加比赛的人。我的游戏快完成了，我只需要一个非常易于放置的图标。但我无法得到的一件事是 10 秒计时器代码。这就是它不完整的原因，所以如果有任何大佬正在阅读这篇文章，请将代码粘贴到评论中。还有一件事我还在学习 js，所以我不像 neouraa 那样专业。如果你想要更多功能，请在评论中告诉我开发人员Humaid谢谢你zzt714zqx666最后是张星期一For image got to watch face maker tool",
+    "originlink": "https://www.bandbbs.cn/threads/5191/",
+    "github": "assets/apps/5191.bin"
+  },
+  "Math Game": {
+    "title": "Math Game",
+    "icon": "",
+    "category": "小游戏",
+    "details": "ArnabXero 提交新资源：Math Game- This is a math game similar to one found in mi band 8. I recreated this game on mi band 7.这是一款在小米手环8中发现的数学游戏，适用于小米手环7。我在这个游戏中添加了2个酯蛋。 一个酯蛋是在达到一定分数后背景变成美丽的图像。另一个酯蛋是破解游戏以获得屏幕上的正确答案，可以通过在屏幕的特定部分点击 6 次来激活它。",
+    "originlink": "https://www.bandbbs.cn/threads/6829/",
+    "github": "assets/apps/6829.bin"
+  },
+  "miTimer": {
+    "title": "miTimer",
+    "icon": "",
+    "category": "小程序",
+    "details": "Ded 提交新资源：miTimer- 一个更方便、更实用的标准定时器。[请原谅我的中文不好，我用了一个在线翻译器]特点。1. 自己的一套计时器：可以添加、删除、编辑、调换。2. 可以启动多个定时器3. 已开始的计时器可以被改变、暂停、停止4. 有一个放大字体的版本（仅主页）。5. 快速启动定时器的功能6. 计时器响起时，防止手腕转动时关机的保护措施7. 正在播放的定时器可以延长8. 开放代码9. 黄色的小部件拐杖--双击（从上到下快速滑动，连续两次）将重新加载这个页面，在大多数情况下，小部件将消失。这比退出和重新进入应用程序要快得多。10. 一旦设置了定时器，它就会显示所设置的定时器时间以及何时响铃。11.你可以在首页显示定时器的设置弊端。1. 需要很长的时间才能打开。对于渲染一个小部件，手镯需要20-40毫秒。这并不多，但一个定时器需要两个（文本+背景），如果你有10个定时器，初始屏幕将打开400-800毫秒。2.你的代码需要重构3.设计。",
+    "originlink": "https://www.bandbbs.cn/threads/6078/",
+    "github": "assets/apps/6078.bin"
+  },
+  "My fitness V5.0.0": {
+    "title": "My fitness V5.0.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "[EN]Hello, as promised in this thread:https://www.bandbbs.cn/\nresources/1554/,I give you here my lastest version, I leave my fitness 5.0.0.changes:-added configuration, in which you can, choose between 2 interfaces, mine, and that of the recently banned member@Humaid-added Spo2 to the list of the fitness page-now my fitness is also a device management programMinor changes:change the incoming notification when entering the apperrors fixed:now graphic of the statistics and pai display percentageChinese is not available yet, but I think that on Sunday (UTC +1), it will be available, and obviously, I will add more functions您好，正如本帖所承诺的：https://www.bandbbs.cn/\nresources/1554/，我在这里给你我的最新版本，我离开我的健身 5.0.0。变化：-添加的配置，您可以在其中选择2个界面，我的和最近被禁止的成员@humaid的界面- 将 Spo2 添加到健身页面列表中-现在我的健身也是一个设备管理程序小改动：进入应用程序时更改传入通知错误修正：现在统计数据和pai显示百分比的图形中文暂时还没有，不过我想，周日（UTC+1）会有，而且很明显，我会增加更多的功能",
+    "originlink": "https://www.bandbbs.cn/threads/5402/",
+    "github": "assets/apps/5402.bin"
+  },
+  "Mi Fitness V1.0": {
+    "title": "Mi Fitness V1.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "Eacorpion submitted a new resource:Mi Fitness V1.0- New fitness programHello people, After a long time without publish any program, I let you my new program:Features, As name say, It is a fitness program ( like the one of Humaid, but more completely)well this are features:-See steps (click on icon or rectangle to see more detail info)-See calories (click on icon or rectangle to see more detail info)-See Stand Up time (click on icon or rectangle to see more detail info)-See distance (click on icon or rectangle to see more detail info)-See fatburn...",
+    "originlink": "https://www.bandbbs.cn/threads/5245/",
+    "github": "assets/apps/5245.bin"
+  },
+  "Mi fitness": {
+    "title": "Mi fitness",
+    "icon": "",
+    "category": "小程序",
+    "details": "Eacorpion submitted a new resource:Mi fitness V1.5.0.- New versionWhat new?Errors fixed:now you can move trought the without any perturbationIn past,I put distance target as 80000, now is 8000Optimizations:Calorie target have been set to 500( previous version was 2000)Whats new:Added a bar that say your aproximately status of this things( stand, step, calories)Added workout interface, so you can enter workout program  via this appWhen you enter calorie program click on the weidght to see how many burgers, chips and nuggets you have consume",
+    "originlink": "https://www.bandbbs.cn/threads/5256/",
+    "github": "assets/apps/5256.bin"
+  },
+  "Mi band 7 Baterry program": {
+    "title": "Mi band 7 Baterry program",
+    "icon": "",
+    "category": "小程序",
+    "details": "Eacorpion submitted a new resource:Mi band 7 Baterry program- See your batteryMy first applet, I will do a new version when i know Battery saving Path",
+    "originlink": "https://www.bandbbs.cn/threads/5059/",
+    "github": "assets/apps/5059.bin"
+  },
+  "每日蜥蜴": {
+    "title": "每日蜥蜴",
+    "icon": "",
+    "category": "小游戏",
+    "details": "李斯泰 提交新资源：每日蜥蜴- 每天获得一只蜥蜴，陪伴你佛悉玩法。佛悉玩法。",
+    "originlink": "https://www.bandbbs.cn/threads/11142/",
+    "github": "assets/apps/11142.bin"
+  },
+  "迷你游戏打地鼠": {
+    "title": "迷你游戏打地鼠",
+    "icon": "",
+    "category": "小游戏",
+    "details": "迷你游戏打地鼠大家好，这是我 (ArnabXero) 开发的一款名为 Whack-A-Mole 的游戏。下载游戏并支持开发者。谢谢。Hello Guys,This is a game called Whack-A-Mole developed by me (ArnabXero).Download the game and support the developers.Thanks.",
+    "originlink": "https://www.bandbbs.cn/threads/6527/",
+    "github": "assets/apps/6527.bin"
+  },
+  "免费开火愚弄你的朋友 V1.0": {
+    "title": "免费开火愚弄你的朋友 V1.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "Free fire app is here. Its a full flashed app so you can fool your friends that your are having free fire your cheap smart band . That would be so ridiculous to have free fire on you mi band .Its Quiet heavy though but still it's good.The image is not good here but when you download its beautiful",
+    "originlink": "https://www.bandbbs.cn/threads/5047/",
+    "github": "assets/apps/5047.bin"
+  },
+  "咩Auth MFA/2FA/TOTP两步验证 V10.0": {
+    "title": "咩Auth MFA/2FA/TOTP两步验证 V10.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "应各位需求，本 App 独立提取于 咩咩的初春饰利 表盘中的咩Auth 第一款碗上MFA/2FA/TOTP两步验证小程序米环7表盘 - 2022/11/18更新v12.0 显示秒 亮度调节 MFA/2FA/TOTP两步验证 一/二维码图库 空心大数字息屏 日历 自动亮度 咩咩的初春饰利 照片表盘众所周知，显示的越多功能越多就越费电，包括息屏时所有数据都是1秒刷新一次的，屏幕关闭时是暂停的，受限于系统，实际息屏耗电量还有很大的优化空间  显示秒，抢购卡点就靠它了  在设置亮色背景的时候，保证了字体的辨识度，并且将息屏显示的亮度降低一半，亮度将会自动在0点和7点调为-10%和0%，避免夜间被亮瞎，本小时内手动调节后将不再自动调节  在显示表盘以及亮屏的前0.7秒的冷却时间，避免在关闭闹钟或者提醒时调节了亮度，点击亮屏时把日历关了之类的误触操作  功能在30秒超时后会自动退出（显示验证码时和日历时60秒）    点击的位置 功能   步数 增加亮度   心率 减少亮度与Google Authenticator 和 微软验证器 兼容，另外还可以用于SSH，等各种app（自行提取key）具体可以看这个视频「小米手环7」咩Auth 第一款碗上两步验证小程序表盘 基于时间验证器 MFA/2FA/TOTP Google Authenticator兼容 微软验证器_哔哩哔哩_bilibili终于把14天前的flag填了，写完了auth（totp）的功能，密钥支持没有上限，另外在看不见的地方优化了耗电量，息屏去掉了秒和背景编辑watchface中的index.js在第10行改入你的验证key调的时间有亿点长，不过依然是开源，之前的有的功能都有，懒得打了，这次入口是秒的位置, 视频播放量 16563、弹幕量 12、点赞数 496、投硬币枚数 150、收藏人数 262、转发人数 34, 视频作者 郑羊羊, 作者简介...www.bilibili.com编辑 assets/meAuth.json 文件来修改 咩Auth 的key，像例子那样一个名字对应一个key，每一对用英文逗号隔开，会按顺序显示，前后需要有 { 和 } ，用 表盘自定义工具 选一键安装，连接了选小程序安装，如果安装失败请删除一次再安装，实在装不上或者不显示图标请 向表盘自定义工具 作者反馈ios可以使用amaztools测试版，选择文件后右上角选择表盘进行安装v10修复了像epic的totp key无法计算的问题，并给参考的库提了pr",
+    "originlink": "https://www.bandbbs.cn/threads/4235/",
+    "github": "assets/apps/4235.bin"
+  },
+  "MIUI风格存储空间查看器(English supported)": {
+    "title": "MIUI风格存储空间查看器(English supported)",
+    "icon": "",
+    "category": "小程序",
+    "details": "NEORUAA 提交新资源：小米手环7 独立小程序 MIUI风格储存空间查看器- 随便摸的！储存空间小程序，可通过米环7看当前磁盘状态。目前米环7能直接安装小程序，因此发布独立版本，以后也将更新这个版本，小程序表盘版不再维护。作者NEORUAA使用教程：使用表盘自定义APP 1.7安装 小程序(不是表盘！！！)1.下载附件小程序最新版2.偶发重启是正常现象，不影响使用",
+    "originlink": "https://www.bandbbs.cn/threads/4268/",
+    "github": "assets/apps/4268.bin"
+  },
+  "魔塔 8.4更新 V1.3": {
+    "title": "魔塔 8.4更新 V1.3",
+    "icon": "",
+    "category": "小游戏",
+    "details": "8.4 更新v1.3版本修复1.2版本返回0层出错的问题8.4 更新v1.2版本1.修复存档会丢失问题2.削减资源使用，安装包大小-----依然有问题 继续修bug如果有问题请在反馈话不多说，5000多行的代码，史诗级巨制。作者GiveMeFive​魔塔游戏为经典益智烧脑类爬塔RPG游戏，讲述了一个勇士营救公主的故事道具，经验，NPC，商店，BOSS 应有尽有此版本共16层魔塔，无助的公主等你来营救！PS：该游戏虽然资源不是很大，但是比较吃cpu 如果玩之后觉得卡顿可以重启下手环​小程序安装，卸载请看：米环7工具 - 表盘自定义工具 环7版本(23.5.19更新4.5.7)#支持安卓/iOS端自定义表盘/小程序安装删除/米坛一键授权登录#【5.19】v4.5.7版本更新日志 1. 【ALL】添加表盘文件大小的提示（旧表盘逐步添加） 2. 【ALL】表盘下载时添加下载进度提示 3. 【8】支持指针表盘的制作，添加大量底包 4. 【7Pro】添加7Pro板块，支持7Pro表盘制作, 支持7Pro表盘安装  https://wwlx.lanzoul.com/\ni6XYH0wmffwh  表盘自定义工具安卓APP最新版v3.0.1 2023.4.27更新：蓝牙安装支持手动输入蓝牙地址进行连接设备 https://wwlx.lanzoul.com/\niaNZm0u3xpna  表盘自定义工具安卓APP最新版v2.7.2...www.bandbbs.cn​",
+    "originlink": "https://www.bandbbs.cn/threads/4561/",
+    "github": "assets/apps/4561.bin"
+  },
+  "魔塔我的世界版": {
+    "title": "魔塔我的世界版",
+    "icon": "",
+    "category": "小游戏",
+    "details": "改魔塔的贴图为我的世界。",
+    "originlink": "https://www.bandbbs.cn/threads/4916/",
+    "github": "assets/apps/4916.bin"
+  },
+  "魔塔我的世界版-无敌版": {
+    "title": "魔塔我的世界版-无敌版",
+    "icon": "",
+    "category": "小游戏",
+    "details": "因为我很喜欢我的世界，但是玩魔塔玩不过，于是将我的世界版的魔塔和无敌版的魔塔进行结合，我的手环亲测没事，希望你喜欢",
+    "originlink": "https://www.bandbbs.cn/threads/10093/",
+    "github": "assets/apps/魔塔我的世界无敌版v1.0.bin"
+  },
+  "魔塔无敌版 V1.0": {
+    "title": "魔塔无敌版 V1.0",
+    "icon": "",
+    "category": "小游戏",
+    "details": "魔塔1.3的修改版，自己打不过就改了下（ps：玩不过或者一直卡关在玩）",
+    "originlink": "https://www.bandbbs.cn/threads/4858/",
+    "github": "assets/apps/4858.bin"
+  },
+  "木鱼Pro": {
+    "title": "木鱼Pro",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n这是我第一个自制小程序，希望大家多多支持~（环9都要发了我还在做环7）\n这是一个高度自定义的木鱼哦~\n（隐藏款木鱼有特定触发方式！）\n附件区【紧急更新版本】才是最新版哦~\n\n提示：该小程序有多个版本可下载\n\n帖11895已被作者删除，新帖为https://www.bandbbs.cn/\nthreads/18110",
+    "originlink": "https://www.bandbbs.cn/threads/18110/",
+    "github": "assets/apps/木鱼Pro"
+  },
+  "My Fitness V5.0.0(3.5.0.1)汉化": {
+    "title": "My Fitness V5.0.0(3.5.0.1)汉化",
+    "icon": "",
+    "category": "小程序",
+    "details": "Cream 提交新资源：My Fitness 5.0.0(3.5.0.1)汉化- 汉化且修改图标\n汉化并且修改图标  图标为本人绘制",
+    "originlink": "https://www.bandbbs.cn/threads/5446/",
+    "github": "assets/apps/5446.bin"
+  },
+  "my fitness V5.0汉化版": {
+    "title": "my fitness V5.0汉化版",
+    "icon": "",
+    "category": "小程序",
+    "details": "如题",
+    "originlink": "https://www.bandbbs.cn/threads/5404/",
+    "github": "assets/apps/5404.bin"
+  },
+  "my fitness,Apple健康4.0，記事本，井字棋繁化版": {
+    "title": "my fitness,Apple健康4.0，記事本，井字棋繁化版",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\nApple健康原作者為humaid，my fitness和記事本原作者均為consolelogC8H10N4O2，井字棋作者Danek Big Like，本人僅繁化/修改圖標做這個繁化版是因為看到米壇還有不少港澳台地區的人，為了照顧這些人的體驗，所以出了這些繁化版",
+    "originlink": "https://www.bandbbs.cn/threads/5735/",
+    "github": "assets/apps/my fitness,Apple健康4.0，記事本，井字棋繁化版"
+  },
+  "NotePad V2.0.1": {
+    "title": "NotePad V2.0.1",
+    "icon": "",
+    "category": "小程序",
+    "details": "原作者consolelogC8H10N4O2，原帖地址https://www.bandbbs.cn/\nthreads/5676/我自己修改了一些bug的版本 NotePad Version 2.0.1 （只有英语，我觉得以我这样初二的英语水平看得懂）问题修复：​1.修复了设置密码和输入密码无法输入数字4的问题（在文件 index.page.js, index.page32.js）2.修复了文档中输入字母f会清空全部文本的问题（在文件index.page2.js, index.page6.js, index.page7.js, index.page8.js, index.page9.js）其他：​在index.page4.js中添加了“Pikabear（0.1%）”的内容并做了部分格式调整我很高兴在这里遇见consolelogC8H10N4O2这样优秀的开发者！感谢所有丰富米坛社区的人！我就是一个有部分C++知识，一丁点Python、JavaScript和HTML知识的初二学生，只是喜欢编程而已。B站主页\nhttps://space.bilibili.com/\n405763796-------------------------------------------------------------------------------------------------------------Original author consolelogC8H10N4O2, original post address\nhttps://www.bandbbs.cn/\nthreads/5676/NotePad Version 2.0.1, I modified some bugs myself (only in English, I think I can understand the English here with my English level in the second grade of Junior middle school)Bug fixed:​1.Fixed the problem that the number 4 could not be entered when setting the password and entering the password (in the file index.page.js, index.page32.js)2.Fixed the problem that entering the letter f in the document will clear all text (in the files index.page2.js, index.page6.js, index.page7.js, index.page8.js, index.page9.js)Other:​Added \"Pikabar (0.1%)\" in index.page4.js and made some format adjustments.I'm very glad to meet such an excellent developer as consolelogC8H10N4O2 here! Thanks to all the people who enrich the community!Me, Pikabear, a second-grade student at Junior middle school with some knowledge of C++, Python, JavaScript and HTML. I just like programming. My Bilibili channel:\nhttps://space.bilibili.com/\n405763796",
+    "originlink": "https://www.bandbbs.cn/threads/5681/",
+    "github": "assets/apps/5681.bin"
+  },
+  "Notepad V1.0.0": {
+    "title": "Notepad V1.0.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "consolelogEacorpion submitted a new resource:Notepad for mi band 7- Take notes, you don´t need the phone!!!!!!!!!!this is a program that developement started when humaid post a version of this, but the main difference is, that, you need laptop, on the applet of humaid, now, you can do on watchwell, for now, program not support chinese, but innext version, appart of some thing I can´t say you, i will add it but the \"pinyin\" charactters, if I do it with all the symbols of chinese idiom, i will be full!!!!!Well, for now supported charactters are:Letters:[a to z]delete functionenter...",
+    "originlink": "https://www.bandbbs.cn/threads/5490/",
+    "github": "assets/apps/5490.bin"
+  },
+  "NotePad": {
+    "title": "NotePad",
+    "icon": "",
+    "category": "小程序",
+    "details": "consolelogC8H10N4O2 submitted a new resource:NotePad- See your notes, new updateHello everyone!!!Today, as promised, it is an honor for me to publish the new version of my latest program(notepad), first thanks to zzt741, for help me with some things and msspencer,(of amafitwatchfaces), for the new iconNew features:-more than 1 note, you can have 5 notes-option of edit/open, edit to edit text, open to read (admits the function of larger or smaller text size, click on \"+\", or \"-\"-configuration-edit document name (default: page1, page 2, page 3, page 4, page 5)...",
+    "originlink": "https://www.bandbbs.cn/threads/5676/",
+    "github": "assets/apps/5676.bin"
+  },
+  "Push and Pop(EN)": {
+    "title": "Push and Pop(EN)",
+    "icon": "",
+    "category": "小游戏",
+    "details": "This is a simple game just like a 2048 game. Pls like this post and download.",
+    "originlink": "https://www.bandbbs.cn/threads/4456/",
+    "github": "assets/apps/4456.bin"
+  },
+  "盘佛珠小程序": {
+    "title": "盘佛珠小程序",
+    "icon": "",
+    "category": "小程序",
+    "details": "归途_ 提交新资源：盘佛珠小程序- 电子盘佛珠，涨赛博功德盘佛珠小程序",
+    "originlink": "https://www.bandbbs.cn/threads/6223/",
+    "github": "assets/apps/6223.bin"
+  },
+  "苹果健康 V3.0": {
+    "title": "苹果健康 V3.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n您可以想象的关于 Apple 健康的最重度更新\n\n苹果健康 3.0\n 那么有什么新东西吗？\n\n(1) 添加了一个看起来很酷的动画 \n(2) 新的令人耳目一新的用户界面，每一件事都经过重新设计.\n(3) 感谢我最好的朋友 Eacorpion，还添加了直方图 \n(4) UI 现在更流畅 \n\n 它可能是您可以下载的最好的健康应用程序😉",
+    "originlink": "https://www.bandbbs.cn/threads/5282/",
+    "github": "assets/apps/苹果健康3.0"
+  },
+  "苹果手表启动器 V2.0( Apple watch Launcher 2.0)": {
+    "title": "苹果手表启动器2.0( Apple watch Launcher  V2.0)",
+    "icon": "",
+    "category": "小程序",
+    "details": "Farhan491 提交新资源：苹果手表启动器 2.0 ( Apple watch Launcher 2.0)- 由制成:- Humaid (https://amazfitwatchfaces.\ncom/ucp/531284)版本号:- 2.0下载链接:-https://www.zeppfaces.com/\n2024/04/apple-watch-launcher\n-20-app-for-mi-band.html您的愿望，我们将其变为现实。当我第一次推出时，它有很多错误，大多数应用程序都无法运行，但在这个版本中，它是相同的，没有什么新内容。 哈哈现在，应用程序商店在此版本中可以正常运行，但请注意，您需要安装应用程序商店才能直接从应用程序启动器打开应用程序商店。 现在还有一个集成的工具箱应用程序。添加了 7 个新应用程序。 一些应用程序确实可以工作，例如报价、圣训、支持、信息和记分器，但钱包和密码管理器仍然无法工作。还添加了复活节彩蛋。还改进了应用程序列表功能，现在不再隐藏，当您向左滑动时即可使用，只需按启动按钮即可如果您是第一人，请拍摄该秘密页面的照片，然后将其发送至humaiddeveloper@gmail.com版本号:- 1.0...",
+    "originlink": "https://www.bandbbs.cn/threads/11233/",
+    "github": "assets/apps/11233.bin"
+  },
+  "Push and Pop（黑色版）": {
+    "title": "Push and Pop（黑色版）",
+    "icon": "assets/icon/pushpop黑色.png",
+    "category": "小游戏",
+    "details": "Push and Pop小游戏，类似于2048\n该黑色改版无原始发布页",
+    "originlink": "",
+    "github": "assets/apps/push&pop-black.bin"
+  },
+  "Q盒 V1.2.0": {
+    "title": "Q盒 V1.2.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "首先声明一下，1.0.0版本没有添加任何小游戏，表盘自定义工具的那个是通过1.1.0版本二改的！感谢感谢@淘汰郎提供的数据持久化代码新增电子佛珠BETA苹果手电屏幕检测今日饮食手速测试电池管家页面的“预计可以使用”分为两个，一是持续使用可用时长，二是待机可用时长[BGCOLOR=initial]关于页面[/BGCOLOR]还有个小彩蛋修复修复有可能变砖bug优化优化各个页面按钮大小，方便用户点击修改设置按钮图片，更加美观且易点击功能目前功能有计算器（搬运自melianmiko大佬开发的）荧光棒每日一言密码之书密码生成BETA（emm，国庆期间一定会修好的）身体质量震动器备忘录（修改自FlvLujU的NotePad小程序）ps：这里透露个小消息，能打中文的记事本已经做好了，现在正在优化存储空间（搬运自Firedev的修改版）剩余时间电子木鱼电池管家电子佛珠BETA苹果手电屏幕检测今日饮食手速测试至于宝可梦小程序，数据库太多了，需要肝点时间目前共17个功能，纯原创且发布前没有任何相似小程序的功能为4个，纯原创但发布前有相似小程序的功能为10个，搬运他人的页面的功能有3个有什么功能想要加入或者想要开源代码私信，或者转载内测版抢先体验Q群：915358919",
+    "originlink": "https://www.bandbbs.cn/threads/8567/",
+    "github": "assets/apps/8567.bin"
+  },
+  "Q盒 V1.0 Beta": {
+    "title": "Q盒 V1.0 Beta",
+    "icon": "",
+    "category": "小程序",
+    "details": "正式版已发布，该版本具有重大bug，请跳转新版帖子",
+    "originlink": "https://www.bandbbs.cn/threads/7838/",
+    "github": "assets/apps/7838.bin"
+  },
+  "Q盒 V1.0.0正式版": {
+    "title": "Q盒 V.0.0正式版",
+    "icon": "",
+    "category": "小程序",
+    "details": "新增震动器备忘录（修改自FlvLujU的NotePad小程序）存储空间（搬运自Firedev的修改版）剩余时间电子木鱼（魔改版）电池管家设置页面修复重叠bug点击桌面任意小程序自动跳转到Q盒bug优化删除部分不可用功能体积减少了二十倍有余功能目前功能有计算器（搬运自melianmiko大佬开发的）荧光棒每日一言密码之书密码生成BETA（模拟器用的好好的，一放在手环上就无法增加长度，下个版本再修复）身体质量震动器备忘录（修改自FlvLujU的NotePad小程序）存储空间（搬运自Firedev的修改版）剩余时间电子木鱼（魔改版）电池管家预览图：有什么功能想要加入或者想要开源代码私信",
+    "originlink": "https://www.bandbbs.cn/threads/8005/",
+    "github": "assets/apps/8005.bin"
+  },
+  "气球射手": {
+    "title": "气球射手",
+    "icon": "",
+    "category": "小游戏",
+    "details": "本站提示：该资源提供多个下载项\n\n气球射击小游戏 - Balloon Shooter Mini Game大家好，ArnabXero 假期结束回来了。 我在假期早些时候开发了这个气球射击游戏，但当时没有发布。注意：这是该游戏的完整和最终版本。 您无需更新任何内容，只需下载并安装即可。此外，我正在开源代码，以便新手可以学习并制作更多优秀的小程序。Hello, ArnabXero is back after the vacation. I developed this balloon shooter earlier in the vacation but didn't post it then.Note: this is the full and final version of this game. You don't need to update anything, just download and install. Then Enjoy!Also, I am open sourcing the codes so newcomers can study and make more great applets.",
+    "originlink": "https://www.bandbbs.cn/threads/6648/",
+    "github": "assets/apps/气球射手"
+  },
+  "日历小程序 V1.2 {MORE}": {
+    "title": "日历小程序 V1.2",
+    "icon": "",
+    "category": "小程序",
+    "details": "zzt741 提交新资源：小米手环7迷你日历小程序，附带亮度调节快捷方式及“更多”快捷方式- 更加美观的日历终于有空把挖了很久的坑给填了，这次的日历采用了全新的显示方式，每一列完美对齐！强迫症患者的福音！可惜底部由于技术限制，有一小截还是无法显示，操作方式和表盘上的一样，不过点击月数可以显示电量信息、AppID和作者信息。什么？你居然不知道我说的是哪个表盘？快戳这里了解一下吧。另外这次还附送一个亮度调节的快捷方式以及“更多”快捷方式，不是更多快捷方式哦，是“更多”快捷方式。安装方式和小程序相同，点击图标即可立刻进入对应页面，“更多”快捷方式主要是为了解决Zepp Life上“更多”不能排序的问题，你可以在应用里对快捷方式等项目进行排序，不过小程序和快捷方式名字都是NULL，自己对着看是哪个，据说排序可能会导致手环异常，我试了下目前没有什么问题，请自行衡量风险。V1.1：圆形图标、跳转日历、更多信息更新内容：1.将日历和亮度调节的图标改为圆形，感谢酷安网友“不知道取啥名啊哈哈”提供的图标2.点击日历中间部分可跳转系统原生日历3.日历的关于页面增加了当前距离、脂肪燃烧、版本等信息4.更改迷你日历的名称为日历，更改亮度调节名称为亮度，修复英文下名称依旧是中文的问题，名称需要删除程序重新刷入才能生效V1.2：移植机甲表盘的日历程序，界面美化、今日高亮更新内容：1.美化界面，周六周日使用蓝色显示，按钮改为图标显示2.增加今日高亮3.切换月份增加振动反馈（可能与表盘振动冲突），增加上下滑动切换月份4.改为左滑打开系统日历，解决返回时可能打开系统日历的问题5.国际化支持",
+    "originlink": "https://www.bandbbs.cn/threads/4420/",
+    "github": "assets/apps/4420.bin"
+  },
+  "日历小程序-支持农历节日": {
+    "title": "日历小程序-支持农历节日",
+    "icon": "",
+    "category": "小程序",
+    "details": "本小程序修改自俄罗斯大佬melianmiko\n此版本在原小程序基础上增加了农历日期的算法，并加入了中国节日数据，以支持显示中国和农历节日。此修改版本在Github开源，并基于原作者的Apache2.0协议进行分发，您也可以修改或分发此小程序的副本，但请遵守Apache2.0协议。Github repo：MiBand7-Calendar\nGithub release:https://github.com/\nXiaoMengXinX/MiBand7\n-Calendar/releases\n注：有任何问题请到GitHub提issue或pr预览图：",
+    "originlink": "https://www.bandbbs.cn/threads/4831/",
+    "github": "assets/apps/4831.bin"
+  },
+  "Storage(EN)": {
+    "title": "Storage(EN)",
+    "icon": "",
+    "category": "小程序",
+    "details": "Translated the app title to english",
+    "originlink": "https://www.bandbbs.cn/threads/4276/",
+    "github": "assets/apps/4276.bin"
+  },
+  "赛车游戏": {
+    "title": "赛车游戏",
+    "icon": "",
+    "category": "小游戏",
+    "details": "本站提示：该资源提供多个下载项\n\n2D Racing Game by ArnabXero😱\nHello Guys,Wink\n\nThis is a 2D racing game developed by me (Arnab Xero).😎\nAfter much research, I have built a racing game for Xiaomi Band 7.😍\nEnjoy!😉\n\nFollow me on my Social Profiles for more games like this:\n\nhttps://www.facebook.com/\niftekharahmed.arnab.0\n\nhttps://youtube.com/\niftekhararnab\n\nhttps://github.com/\narnabxero\n\nhttps://arnabxero.github.io\n\nGame Features:\n2 Race Tracks\nMany Enemy Cars\nSettings Option\nCar SpeedSettings\nEnemy Car Spawn Settings\nRaod Select Option\nNice Graphics\n2D racing game by ArnabXero\nhello everyone wink\n\n\nThis is a 2D racing game developed by me (Arnab Xero).😎\nAfter a lot of research, I made a racing game for Mi Band 7.😍\nenjoy!😉\n\n\nFollow me on my social profiles for more games like this:\n\nhttps://www.facebook.com/\niftekharahmed.arnab.0\n\nhttps://youtube.com/\niftekhararnab\n\nhttps://github.com/\narnabxero\n\nhttps://arnabxero.github.io\n\n\nGame Features:\n\n2 tracks\nmany enemy cars\nSetting Options\ncar speed setting\nEnemy Car Spawn Settings\nselect option\nnice graphics\n\nUpdates v3.1:\n-> Laggy Gameplay After some times [Fixed]\n-> Enemy Default Spawn Rate Optimized [Fixed]\nUpdates v4.0:\n-> Added Car Running Animation\n-> Added Car Blust Animation \n\n 参考译文：\nArnabXero 的 2D 赛车游戏😱\n 大家好呀😉\n 这是我（ArnabXero）开发的一款 2D 赛车游戏😎。经过大量研究，我为小米手环 7 打造了这款赛车游戏😍。希望你们喜欢！😉\n\n 游戏特色 \n-2 条赛道 \n - 多种敌方车辆 \n - 设置选项 \n - 赛车速度调节 \n - 敌方车辆生成设置 \n - 道路选择选项 \n - 精美画面 \n\n 更新日志 \nv3.1 版本更新：\n→一段时间后游戏卡顿问题 [已修复]\n→敌方默认生成速率优化 [已修复]\nv4.0 版本更新：\n→新增赛车行驶动画 \n→新增赛车冲刺动画 \n\n 关注开发者获取更多作品 \n 想了解更多类似游戏，请关注我的社交账号：\n-https://www.facebook.com/\niftekharahmed.arnab.0\n-https://youtube.com/\niftekhararnab\n-https://github.com/\narnabxero\n-https://arnabxero.github.io\n\n提示：该小程序有多个版本可下载",
+    "originlink": "https://www.bandbbs.cn/threads/6393/",
+    "github": "assets/apps/2D Race by ArnabXero"
+  },
+  "三维空间": {
+    "title": "三维空间",
+    "icon": "",
+    "category": "小程序",
+    "details": "前置贴：之前的版本，模拟器能运行，手环性能不够，不能运行芜湖！！！今天灵光一闪，突然想到优化的办法，手环上也可以跑了，顺带美化了一下界面。【程序描述】一个固定的三维空间，可以在场景中前后左右移动，目前只能四处走走看看。后续可能会加入游戏性，比如生成迷宫，等……【操作方法】如图【演示】【实机】【bin文件附上】【后记】并不是很完善的一个小程序，没有游戏性，仅仅展示了手环渲染伪3D场景，后续可能会更新……",
+    "originlink": "https://www.bandbbs.cn/threads/6337/",
+    "github": "assets/apps/6337.bin"
+  },
+  "扫雷 V2.0.0": {
+    "title": "扫雷 V2.0.0",
+    "icon": "assets/icon/扫雷2.0.0.png",
+    "category": "小游戏",
+    "details": "扫雷 -2.0.0正式版发布了\n改了图标（感谢的制作）\n历史最高再没有第一次赢之前为空\n应该没什么bug，所以发布正式版了\nb站视频链接：\nhttps://www.bilibili.com/\nvideo/BV1AB4y1z7c8 （求个三连）\n感谢名单\n1、感谢@自动亮屏Auto制作（PS）70%的图片（30%是我从win7扫雷中提取）\n2、感谢@NEORUAA修改按钮，更符合官方的UI\n3、感谢@坏鱼677（只有qq，不知道米坛账号）提供扫雷图标\n以及群里帮做过我的人\n在此表示衷心感谢！！！",
+    "originlink": "https://www.bandbbs.cn/threads/4733/",
+    "github": "assets/apps/mine_clearance.bin"
+  },
+  "扫雷测试版": {
+    "title": "扫雷测试版",
+    "icon": "",
+    "category": "小游戏",
+    "details": "本站提示：该资源不提供下载\n\n首先声明：此次发布为测试版，有许多bug，请不要发布在除米坛外的其它（我时不时更新）位置（包括表盘自定义工具）！！！发现bug可以在这里回帖，我后面会在发布正式版时修改正式版已经更新，点我查看1.0.5更新内容：加入了关于页面和历史最高记录，修复了中心点有可能有雷的现象，下一版本可能会美化UI，或许会在下一版本之后发布正式版（2.0）1.0.4更新内容：此次版本改动十分的大，添加了虚拟按键，点击格子会弹出两个选项（NEORUAA修改），标记是插旗子，选中为原来的点击，修复原来1.0.3的可以点击任何格子的bug，在内测群好像没有bug了，就发布吧，下一版本待定1.0.3更新内容：增加重置和计时，增加新的爆炸图片，修复赢了有概率不检测的bug（下一版本应该会加入虚拟按键和旗子）1.0.2更新内容：失败或成功后会显示有的雷（下一版本应该会加入重置和计时）下一个版本的内测会在：761877977这个群发布，想先体验的可以加入测试版按开发者心情更新，可能经常会更新，把严重bug排除完后才会发布正式版按作者在这个帖子发布的来说，没有旗子，没有虚拟按键（按键比push&pop小一半）是正常的，把雷剩下10个就赢了，点到雷就输了，重新开始新的一局需要重进，后续会更新虚拟按键我在调试过程中应该已经没什么bug了（反正调试模式下我没发现bug，我也不怎么会玩扫雷，所以bug我真的很难找）能接受的就下载吧，实在不能接受等正式版更新后再用吧说一下，手环重启很正常，这东西非常吃内存这里只放最新版，旧版点我去百度网盘下载下面是预览图",
+    "originlink": "https://www.bandbbs.cn/threads/4517/",
+    "github": "assets/apps/4517.bin"
+  },
+  "省电模式快捷跳转": {
+    "title": "省电模式快捷跳转",
+    "icon": "",
+    "category": "小程序",
+    "details": "手环耗电太快了，在设置里找省电模式太麻烦了，有一个一键跳转到省电模式，多是一件美事啊～",
+    "originlink": "https://www.bandbbs.cn/threads/6086/",
+    "github": "assets/apps/6086.bin"
+  },
+  "剩余时间 V1.0.1": {
+    "title": "剩余时间 V1.0.1",
+    "icon": "",
+    "category": "小程序",
+    "details": "对应珍惜时间进度条小程序，希望搬运，感激不尽​可能有些bug",
+    "originlink": "https://www.bandbbs.cn/threads/4487/",
+    "github": "assets/apps/4487.bin"
+  },
+  "食鬼遊戲8": {
+    "title": "食鬼遊戲8",
+    "icon": "",
+    "category": "小游戏",
+    "details": "hhuu 提交新资源：食鬼遊戲8- 從AW搬運過嚟666",
+    "originlink": "https://www.bandbbs.cn/threads/7445/",
+    "github": "assets/apps/7445.bin"
+  },
+  "世界时钟快捷方式": {
+    "title": "世界时钟快捷方式",
+    "icon": "",
+    "category": "小程序",
+    "details": "NEORUAA 提交新资源：小米手环7 世界时钟 快捷方式 小程序- 如题一个可以放到应用列表的和官方世界时钟一样的小程序！",
+    "originlink": "https://www.bandbbs.cn/threads/4229/",
+    "github": "assets/apps/4229.bin"
+  },
+  "是男人就下一百层": {
+    "title": "是男人就下一百层",
+    "icon": "",
+    "category": "小游戏",
+    "details": "你能下到多少层呢？",
+    "originlink": "https://www.bandbbs.cn/threads/5195/",
+    "github": "assets/apps/是男人就下一百层v1.0.bin"
+  },
+  "手电筒-仿照apple watch手电筒": {
+    "title": "手电筒-仿照apple watch手电筒",
+    "icon": "",
+    "category": "小程序",
+    "details": "由于对JS不了解 所以很多地方做的不足 凑合吧",
+    "originlink": "https://www.bandbbs.cn/threads/6790/",
+    "github": "assets/apps/6790.bin"
+  },
+  "手环上的BiliBili": {
+    "title": "手环上的BiliBili",
+    "icon": "",
+    "category": "小程序",
+    "details": "hjhhoni 提交新资源：手环上的BiliBili- 内容为jojo的奇妙冒险里迪亚波罗脱衣变装视频内容稍微欠缺，可以积极推荐放什么视频内容进去，也可以放漫画，但效果不会太好，图集是最好的选择，各位可以积极投稿",
+    "originlink": "https://www.bandbbs.cn/threads/5987/",
+    "github": "assets/apps/5987.bin"
+  },
+  "手速测试小工具": {
+    "title": "手速测试小工具",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n新人第一次发帖，请多指教如题，一个普普通通的手速测试小工具，有些不完善的地方，请大家斧正，后续可能会修改另外，小程序的图标可以正常显示了，我也上传一个@AYOLMO修改版（第二个）的，感谢这名热心网友感谢@Youth3393提出建议和帮助我测试程序",
+    "originlink": "https://www.bandbbs.cn/threads/4466/",
+    "github": "assets/apps/手速测试"
+  },
+  "数独小游戏 V1.0": {
+    "title": "数独小游戏 V1.0",
+    "icon": "",
+    "category": "小游戏",
+    "details": "独立小程序数独v1.0",
+    "originlink": "https://www.bandbbs.cn/threads/5031/",
+    "github": "assets/apps/5031.bin"
+  },
+  "睡眠+": {
+    "title": "睡眠+",
+    "icon": "",
+    "category": "小程序",
+    "details": "zzt741 提交新资源：【百万注册小程序大赛作品】睡眠+小程序，支持查看睡眠详情及历史数据- 支持查看睡眠详情及历史数据本应用用于展示详细的睡眠信息及历史数据，打开应用会自动将今天的数据保存，仅支持保存最近7条数据，点击心率会显示睡眠时的心率信息，正序显示，大致每分钟对应一条。点击文本可关闭程序中的弹窗，任意界面出现绿屏bug均可左滑界面重新载入。欢迎下载我的其他作品或支持我：bandbbs.cn/resources/1416",
+    "originlink": "https://www.bandbbs.cn/threads/13813/",
+    "github": "assets/apps/13813.bin"
+  },
+  "谁是卧底": {
+    "title": "谁是卧底",
+    "icon": "",
+    "category": "小游戏",
+    "details": "506571728 提交新资源：谁是卧底- 谁是卧底小程序",
+    "originlink": "https://www.bandbbs.cn/threads/8444/",
+    "github": "assets/apps/8444.bin"
+  },
+  "Tabata/节拍器自定义间隔振动小程序- 内测/BETA": {
+    "title": "Tabata/节拍器自定义间隔振动小程序- 内测/BETA",
+    "icon": "",
+    "category": "小程序",
+    "details": "肝了两天做出来的一个自定义间隔振动小程序（有一个致命问题，请看下文），不知道起什么名好，目标是多功能，可以当成运动/休息时间提示，或者节拍器。用法是红色按钮选择总分钟数，下面Add的蓝色按钮选择间隔时间，例如休息5秒，运动10秒就依次点击Add选择5s和10s。最后点击开始就会倒计时，每5秒振一次，10秒振一次，循环。这个帖子主要目的还是想问个致命的技术问题 -小程序如何常亮/后台运行。解决了这个问题这个小程序才算真的完成。当然了，代码的一些技术债和UI/UX设计肯定是要改的。想要提前玩玩的小伙伴可以下载。小程序已经在表盘自定义工具中开始审核了。如果各位有什么好的修改建议和方式请务必告诉我，不然我自己可能要反复调试很久。",
+    "originlink": "https://www.bandbbs.cn/threads/5862/",
+    "github": "assets/apps/5862.bin"
+  },
+  "太空射击游戏-修复版": {
+    "title": "太空射击游戏-修复版",
+    "icon": "",
+    "category": "小游戏",
+    "details": "我将黑白空中射击游戏重新制作成“Space Shooter Remastered”。",
+    "originlink": "https://www.bandbbs.cn/threads/5950/",
+    "github": "assets/apps/Space Shooter Remastered.bin"
+  },
+  "贪吃蛇小程序": {
+    "title": "贪吃蛇小程序",
+    "icon": "",
+    "category": "小游戏",
+    "details": "不是表盘",
+    "originlink": "https://www.bandbbs.cn/threads/15179/",
+    "github": "assets/apps/snake-758595-e8b6532a52.bin"
+  },
+  "跳一跳": {
+    "title": "跳一跳",
+    "icon": "",
+    "category": "小游戏",
+    "details": "本站提示：该资源提供多个下载项\n\nNEORUAA 提交新资源：小米手环7 独立小游戏 跳一跳- 是微信里的那个跳一跳小游戏！跳一跳小游戏，可通过米环7玩跳一跳。目前米环7能直接安装小程序，因此发布独立版本。作者GiveMeFive＆NEORUAA有四种方块以及四种背景色！最高分会显示在GameOver界面！使用教程：使用表盘自定义APP 1.7安装 小程序(不是表盘！！！)\n1.下载附件小程序最新版\n2.偶发重启是正常现象，不影响使用\n3.跳一跳仍在更新，请关注本资源！",
+    "originlink": "https://www.bandbbs.cn/threads/4284/",
+    "github": "assets/apps/跳一跳"
+  },
+  "跳一跳改版（蔡徐坤）": {
+    "title": "跳一跳改版（蔡徐坤）",
+    "icon": "",
+    "category": "小游戏",
+    "details": "继上一次蔡徐坤跳跳乐的又一力作，魔改自@GiveMeFive跳一跳小程序请适当玩梗，本小程序仅供娱乐",
+    "originlink": "https://www.bandbbs.cn/threads/4917/",
+    "github": "assets/apps/4917.bin"
+  },
+  "跳一跳修改器": {
+    "title": "跳一跳修改器",
+    "icon": "",
+    "category": "小程序",
+    "details": "sunforwork 提交新资源：跳跳修改器- 修改跳一跳 最高分因为跳一跳玩不赢同桌一气之下修改了一下计算器变成了跳一跳修改器轻松达到最高分",
+    "originlink": "https://www.bandbbs.cn/threads/7411/",
+    "github": "assets/apps/7411.bin"
+  },
+  "通讯录 汉化-二改": {
+    "title": "通讯录 汉化-二改",
+    "icon": "",
+    "category": "小程序",
+    "details": "原作者 @Melianmiko\n@Cream 进行汉化和修改 \n 修改内容:\n1. 进行了汉化 \n2. 修改图标为 MIUI 通讯录图标 \n3. 去除俄文输入 \n4. 部分功能修复和优化",
+    "originlink": "https://www.bandbbs.cn/threads/6213/",
+    "github": "assets/apps/contacts.bin"
+  },
+  "Toolbox工具箱": {
+    "title": "Toolbox工具箱",
+    "icon": "assets/icon/toolbox.png",
+    "category": "小程序",
+    "details": "暂未找到原始发布页",
+    "originlink": "",
+    "github": "assets/apps/toolbox.bin"
+  },
+  "Toolbox v.2022-09-04 优化简中+繁中": {
+    "title": "Toolbox v.2022-09-04 优化简中+繁中",
+    "icon": "",
+    "category": "小程序",
+    "details": "原作者：MelianMiko​【翻译改进】米环7工具箱 Toolbox v.2022-09-04 优化简中+繁中​引​自己用着不太顺眼，想小改一下，顺便把繁中也一起改掉了，基于版本2022-09-04。Toolbox原帖。来看看我的原创表盘？崩坏:星穹铁道 卡芙卡；崩坏:星穹铁道 女主(毁灭)改动内容​1. 修改部分简体中文翻译，修正机翻和部分有误词条，使其契合简中惯用称呼。部分改动如下图：​改动前改动后改动前改动后2. 修改部分繁體中文翻譯，修正機器翻譯和部分有誤詞條，使其契合地區慣用稱呼。 部分改動如下圖：​變更前變更後變更前變更後更多更改可以自行在日常使用中体会。关于界面 翻译提供者 未作更改，仍为“天剑血狐”。已知问题​1. 部分词条可能出现简繁不对应。​2. 繁体中文某些词条可能与惯用称呼不匹配。​",
+    "originlink": "https://www.bandbbs.cn/threads/5693/",
+    "github": "assets/apps/5693.bin"
+  },
+  "toolbox工具箱（繁體中文版）": {
+    "title": "toolbox工具箱（繁體中文版）",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n抱歉各位，由於有些語詞為機翻，而我有沒注意到。8/15更新：撤銷修復為取消，應用改為應用程式。這個是以8/13版本下去修改的，也就是最新版，也有後台計時器。另外，有人反應有時滑到底會出現的提示「已经没有啦」是簡體，但我不會改（找不到），會改的朋友們可以幫忙一下。再更新一次🤣這次應該是最終版了(？感覺沒什麼可以改進了在原有的常用詞彙版本加以修改，節能修改為省電模式，設定應用修改為設定，還有改什麼我忘了😅反正大家下載用用看就知道了！這次我直接替換原本的常用詞彙版，反正大家要下就下常用詞彙版就行了！更新台灣常用詞彙版這次更新內容有部分用詞改成台灣常用詞彙，儲存空間裡面用詞更改（用詞來自win7檔案總管，不知道跟win10或win11有沒有一樣，我的電腦是不是太舊了🤣，如果有不一樣可以在下面留言，我看到的話會更改用詞），請勿打擾改成勿擾模式，其他用詞自己體會吧！看看有沒有更好的體驗?如題，原本只支援英文，俄文和簡體中文，經過修改之後新增一個繁體中文，原本的語言還是一樣支援。這次的工具箱是因為如果手錶系統語言用繁中會顯示英文，如果是顯示簡中還可以，但英文感覺看不太順眼，所以就試試看能不能繁化。使用方法：將手錶語言改成繁體中文，工具箱就會有繁體中文的頁面了。其實我還只是個14歲的小朋友，這是我看了代碼順序和「理論上可以」的想法做出來的，同時這也是我的第一款繁化作品，不喜勿噴，如果有能改進的地方可以在下方留言。還有以後做小程序什麼的可以盡量增加一個繁體中文嗎？拜託了既然都有簡體中文的文本了，要繁化應該不困難吧。如果要轉載請署名 天劍血狐，不要署名 EasonHuang如果有侵權請在下方留言，我有看到會立即刪除檔案。原帖鏈接：https://www.bandbbs.cn/\nthreads/4671/",
+    "originlink": "https://www.bandbbs.cn/threads/4685/",
+    "github": "assets/apps/toolbox工具箱（繁體中文版）"
+  },
+  "推箱子-MC版100关": {
+    "title": "推箱子-MC版100关",
+    "icon": "",
+    "category": "小游戏",
+    "details": "修改自@EthanLeung的推箱子獨立小程序版。\n原帖关卡多进入速度有点慢\n卡关可以用这个求解器：\nhttps://m.3h3.com\n/az/235143.html",
+    "originlink": "https://www.bandbbs.cn/threads/10144/",
+    "github": "assets/apps/推箱子MC100关.bin"
+  },
+  "Vibrator Applet": {
+    "title": "Vibrator Applet",
+    "icon": "",
+    "category": "小程序",
+    "details": "thanks@NEORUAAfor hello world project and thanks@XiaoMengXinXfor vibrator watchface.",
+    "originlink": "https://www.bandbbs.cn/threads/4532/",
+    "github": "assets/apps/4532.bin"
+  },
+  "vibrator(EN)": {
+    "title": "vibrator(EN)",
+    "icon": "",
+    "category": "小程序",
+    "details": "Sorry for posting late because developers encrypted there codes idk why even though I provide them credit and also appreciate them . Well anyway here it's the English version of vibrator mini program. Its not just an English version but I have now optimized many things in this applet . Like the buttons are larger or radius is more. And the button text is also larger than before which is easier to look. And also it's more polished than before .But still I cant forget to thanks the developer Minecraft xuefengjun. Don't forget to follow him . I just did translations and some optimization but he is a real hero",
+    "originlink": "https://www.bandbbs.cn/threads/4608/",
+    "github": "assets/apps/4608.bin"
+  },
+  "腕间助手（腕管） V1.9.8": {
+    "title": "腕间助手（腕管） V1.9.8",
+    "icon": "",
+    "category": "小程序",
+    "details": "腕管历史版本之一\n自行下载",
+    "originlink": "https://www.bandbbs.cn/threads/7638/",
+    "github": "assets/apps/腕间助手1.9.8.bin"
+  },
+  "腕上神码 V1.1": {
+    "title": "腕上神码 V1.1",
+    "icon": "",
+    "category": "小程序",
+    "details": "黑屏已经改好了\\^O^/（mmk远程施法）是由MelianMiko开发的钱包进行汉化 以及图标修改做的（如果侵权私信删帖）图标：wuhaiqi汉化：明天的太阳没用的废物（？）：梁小鱼&创哲宇预览图求求社区作者也点个赞 而且希望不要有点个赞，然后取消的白嫖怪😢不要在下面评论给7 Pro 8 Pro小米手环八小米手环九做一个 （7pro不支持小程序 至于小米手环8虽然小程序，但也做不到 剩下的么我不是开发者，我不可能做的(〜￣▽￣)〜）纸张问答：1、生码里面的那些图片我看不懂，怎么办？答：那些是国外支付用的，不用管，滑到最下面，生成自己的码",
+    "originlink": "https://www.bandbbs.cn/threads/12046/",
+    "github": "assets/apps/12046.bin"
+  },
+  "腕上随机数-测试版 V1.0.2": {
+    "title": "腕上随机数-测试版 V1.0.2",
+    "icon": "",
+    "category": "小程序",
+    "details": "新人发帖一个在米环7上的随机数生成器虽说是测试版 v1.0.2 BETA​自绘图标(虽然挺丑)​支持设置最大最小值(是个随机数生成器就得有吧)​支持多次取数重置等基础功能​可能有bug(毕竟测试版)​如遇见bug,请报告作者,谢谢无效或损坏的固件可能导致手环变砖,请自行权衡风险,本软件概不负责​",
+    "originlink": "https://www.bandbbs.cn/threads/5228/",
+    "github": "assets/apps/5228.bin"
+  },
+  "文件管理小程序": {
+    "title": "文件管理小程序",
+    "icon": "",
+    "category": "小程序",
+    "details": "nekokami0527 提交新资源：文件管理小程序- 可以任意浏览手环内的系统文件，跳出小程序自身路径写了一个简易的文件管理器，默认进入是手环文件系统的根目录/storage，有很多系统文件，也添加了简易的文件查看器，可以任意浏览手环内的系统文件，跳出小程序自身路径",
+    "originlink": "https://www.bandbbs.cn/threads/4262/",
+    "github": "assets/apps/4262.bin"
+  },
+  "文章小程序 V1.0": {
+    "title": "文章小程序 V1.0",
+    "icon": "",
+    "category": "小程序",
+    "details": "您可以安装文章，甚至可以放置图像。就像谷歌一样。如果有人想要一张图片，那么您可以使用表盘制作工具，您可以看到我为演示安装的文章图片。就我而言，它是伊丽莎白二世女王的死亡文章。您也可以阅读它，但前提是您愿意。你们有我的许可写自己的文章并发布到表盘制作工具或bandbbs.com。就像电子书一样。目前您只能放 1 篇文章，但将来会有更多。在反馈下方评论。并在另一个更新中告诉我你们想要什么",
+    "originlink": "https://www.bandbbs.cn/threads/5136/",
+    "github": "assets/apps/5136.bin"
+  },
+  "文字探险&宠物养成&随机诗词游戏--拉姆探险记": {
+    "title": "文字探险&宠物养成&随机诗词游戏--拉姆探险记",
+    "icon": "",
+    "category": "小游戏",
+    "details": "多彩机甲全功能表盘里的电子宠物大家都有玩吗？不知道大家已经多少级了，可以来报一报。今天，通过漫长时间的精心准备，该电子宠物的升级版本--拉姆探险记正式发布了！新版本为独立小程序，打开更加方便，提供了全新的对话系统，并专门为此制作了一个弹窗功能，针对超长文本更是添加了翻页功能，内含上百首诗词歌赋，还有让人爆笑的笑话以及有趣的科普知识等你发现，同时拉姆的语言库也进一步丰富了，而且我们的拉姆现在还学会说英文了呢！另外，还提供了一个强大的探险功能，内含丰富的探险内容等你发现，还有战斗系统、钓鱼系统及一些有趣的事件，探险内容大多基于摩尔庄园的游戏内容进行创作，并且还有丰富的统计信息及成就信息。此外，如果有安装多彩机甲全功能表盘的话，首次启动时会自动将表盘的数据迁移过来。游戏介绍：首页显示了拉姆的4项属性，点击喂养可根据当天的运动情况增加4项属性，站立次数影响体力，卡路里影响力量，步数影响速度，而饥饿的增加值受三者共同影响。三种属性中，战斗力主要受力量影响，逃跑能力主要受速度影响，而体力则主要影响探险消耗饥饿。随着3种属性的提升，宠物等级会慢慢增加，每增加10级会进化到下一个阶段，一共有6种阶段，每次进化饥饿值上限增加20。另外点击拉姆可与其对话，点击正文即可关闭弹窗。点击探险即可进行探险，会消耗饥饿值同时可能影响4项属性。左滑可显示信息页面，其中击败食人花数值后面的数值为遭遇次数，后同。拉姆的名称及语言库可通过修改assets文件夹的config.json文件进行修改。饥饿值每小时减少一点，每次最多减少24点，建议理性探险，饥饿值接近25时建议不要再探险，否则若较长时间不喂食容易死亡，而复活要求较高，单次探险最高减少28点饥饿。本应用继续保持开源，如需源代码可联系我免费获取，另外，如需转载也请联系我。展开折叠内容:修改拉姆名称及语言库方法首先要获取到小程序文件，之后把获得的文件后缀名改zip，文件一般在downloads文件夹，之后解压出来，修改assets文件夹里的 config.json 这个文件，要用文本编辑器打开，或者改后缀为txt后打开，在petName后的引号内填入名称就好了，如果只想改主人名称，保留“的拉姆”的话，zepp改昵称就好了，运动健康可能要改小米昵称，修改后记得保存，如果改过后缀为txt的话，记得改回json后缀，返回上一级文件夹，选中2个文件夹和2个文件，将其压缩为zip文件，打开自定义工具，点击工具，选择蓝牙或替换安装，选择压缩的文件即可展开折叠内容:偶现bug：文字重叠如果发现字重叠的情况，不要惊慌，我发现只有部分表盘有这个问题，切换表盘后就不会重叠了，应该是系统bug无法解决，只有麻烦滑动返回的时候在下方文字区域滑动，不要在图片区域滑动，或者换一个表盘用就不会出现这个bug了，感觉一般可编辑表盘都不会出这个问题我的其他帖子：机甲全功能表盘V4.1 支持应用抽屉+心率程序+日历+亮度调节+更多编辑选项+显秒+应用跳转+状态显示三箭齐发！小米手环7更美观的迷你日历小程序来了！附带亮度调节快捷方式及“更多”快捷方式心率程序，支持柱状图及列表显示，附带存储空间彩蛋分享一个压缩表盘并复制到手机的脚本，使用无线连接，方便表盘开发点击这里查看我的更多作品或支持我。",
+    "originlink": "https://www.bandbbs.cn/threads/5304/",
+    "github": "assets/apps/5304.bin"
+  },
+  "五彩连珠 V1.0": {
+    "title": "五彩连珠 V1.0",
+    "icon": "assets/icon/五彩连珠1.0.png",
+    "category": "小游戏",
+    "details": "五彩连珠小游戏v1.0\n作者GiveMeFive\n游戏玩法：\n点击彩球移动到期望的位置，每移动一次，画面将随机出现3个新的彩球；当同一颜色的彩球连成5个一行或一列或一斜线时，这5个彩球同时消失，游戏得分5分。当画面上每个方格都被彩球占满时，游戏结束。",
+    "originlink": "https://www.bandbbs.cn/threads/6454/",
+    "github": "assets/apps/wucailianzhu1.0.bin"
+  },
+  "勿扰模式快捷跳转": {
+    "title": "勿扰模式快捷跳转",
+    "icon": "",
+    "category": "小程序",
+    "details": "",
+    "originlink": "https://www.bandbbs.cn/threads/4927/",
+    "github": "assets/apps/4927.bin"
+  },
+  "現在時間": {
+    "title": "現在時間",
+    "icon": "",
+    "category": "小程序",
+    "details": "有的時候看時間需要看秒，但不想換錶盤，所以就做了一個小程序來實現這個功能。這個圖標我覺得有點醜，有沒有大佬能幫我畫？",
+    "originlink": "https://www.bandbbs.cn/threads/6452/",
+    "github": "assets/apps/6452.bin"
+  },
+  "像素鸡": {
+    "title": "像素鸡",
+    "icon": "assets/icon/像素鸡.png",
+    "category": "小游戏",
+    "details": "像素ikun小游戏🏀\n来自表盘自定义工具，无原始发布页",
+    "originlink": "",
+    "github": "assets/apps/flappykun.bin"
+  },
+  "像素鸟": {
+    "title": "像素鸟",
+    "icon": "assets/icon/像素鸟.png",
+    "category": "小游戏",
+    "details": "像素鸟小程序，可通过米环7玩FlappyBird",
+    "originlink": "https://www.bandbbs.cn/threads/5159/",
+    "github": "assets/apps/flappybird.bin"
+  },
+  "像素鳥 V2.1.0": {
+    "title": "像素鳥 V2.1.0",
+    "icon": "",
+    "category": "小游戏",
+    "details": "像素鳥 V2.1.0不知道為啥我zepp life 一直都沒有藍芽廣播和心率跳轉廣播的選項,然後自己在更新v6.3.3後發現不能再用替換法安裝錶盤/小程序了,怎麼辦🙃更新日誌:新增設定頁面新增背景設定 (白天/黑夜)- bug: 像素鳥/背景設定/地獄模式開關顯示偶發性不正常,為系統bug,解決方法: 更換一個沒有功能的錶盤 or 回到錶盤頁面再進入像素鳥小程序",
+    "originlink": "https://www.bandbbs.cn/threads/5412/",
+    "github": "assets/apps/5412.bin"
+  },
+  "像素鳥 V2.0.1": {
+    "title": "像素鳥 V2.0.1",
+    "icon": "",
+    "category": "小游戏",
+    "details": "像素鳥 v2.0.1 獨立小程序版原創@NEORUAA(原帖https://www.bandbbs.cn/\nthreads/4185/)V2.0.1 更新日誌:修復初次使用小程序時地獄模式開關顯示失敗的bugv2.0.0 更新日誌:新增開始介面,關於頁面新增一個可以在遊戲期間停止/開始遊戲的按扭遊戲UI修改(會移動的背景 -> 地板)新增可以移動的水管(一般模式出現概率 (1 * 分數)%, 地獄模式100%)新增地獄模式,可在關於頁面設置(給那些覺得一般模式太容易的人玩的)可支持 繁體中文,簡体中文,English 三種語言,根據手環語言自動切換己知bug:地獄模式的開關和遊戲停止/開始按扭 顯示偶發性不正常希望大家喜歡😀",
+    "originlink": "https://www.bandbbs.cn/threads/5159/",
+    "github": "assets/apps/5159.bin"
+  },
+  "小程序贪吃蛇": {
+    "title": "小程序贪吃蛇",
+    "icon": "",
+    "category": "小游戏",
+    "details": "分辨率没有适配，等人适配吧。",
+    "originlink": "https://www.bandbbs.cn/threads/8545/",
+    "github": "assets/apps/8545.bin"
+  },
+  "新更新01.02.24-工具箱": {
+    "title": "新更新01.02.24-工具箱",
+    "icon": "",
+    "category": "小程序",
+    "details": "原开发商 melianmiko\n这是什么？一组用于基于 ZeppOS 的设备的各种系统工具。可用功能可定制的主界面，能够快速访问程序本身和系统的常用功能；文件管理器，可让您管理手环内存中的所有文件，具有读取文本文件、查看图片、十六进制查看、删除、复制、移动等功能；一个应用程序管理器，允许您删除以非常规方式安装的应用程序（以表盘为幌子或例如从存储库中）；（测试版，风险自负） 远程文件管理器，允许您通过手机或电脑管理手环内存中的文件，可以下载现有文件并上传新文件；能够在后台运行的计时器；一键重启设备；显示有关已用磁盘空间信息的屏幕。重要笔记（提问前请先阅读）部分功能（如一键重启或编辑近系统文件）默认禁用，可通过“设置”→“首选项”中的复选标记激活；主屏幕上的某些快捷方式包含指向 Mi Band 7 设置部分的链接，因此它们可能无法在其他设备上使用。 将通过更新修复正如已经提到的，应用程序管理器主要是为无法通过 Zepp 正常删除的应用程序创建的。 由于某些应用程序代码托管在手机上的 Zepp 应用程序中，因此它不会完全删除该应用程序，因此仅应在没有其他方法删除它时才使用它。 是的，在其帮助下删除某些内容后必须重新启动，否则该应用程序的图标将继续挂在手环菜单中；Web Explorer 具有一定的实验性，而且它不受第一个注释中的限制，因此请谨慎使用。 不要更改/删除您不知道用途的文件；Web Explorer 中的授权是长期的。 也就是说，如果您在发送/接收文件时突然退出程序，只需返回即可，无需中断浏览器中的进程。 尽管屏幕上的代码不同，但与浏览器的连接将在 15-20 秒后恢复，并且传输将继续；在使用 ZeppOS 1.0（可能较新）的设备上，RAM 泄漏严重（为了简化而释放不良），因此，当使用网络浏览器时，存在手环开始变慢、拒绝发送/接收文件的风险，甚至重新启动。 使用后如出现问题，建议自行重置手环；谢谢BandBBS发布者：Vanek905/zhenyok905zh-TW翻译作者：天剑血狐去DE翻译作者：harrybin西班牙-西班牙翻译：arenasjuanfpt-BR 翻译：Niziul Luizin链接如何安装?（操作说明）来源论坛上对该计划的讨论：4PDA节目网站",
+    "originlink": "https://www.bandbbs.cn/threads/4671/",
+    "github": "assets/apps/4671.bin"
+  },
+  "心率程序": {
+    "title": "心率程序",
+    "icon": "",
+    "category": "小程序",
+    "details": "多彩机甲全功能表盘上的心率程序现在也单独重制成小程序了，而且也做了很多改进。更新内容：1.重做了列表的显示方式，现在每一列也都对得整整齐齐了2.柱状图左侧新增2个数字标识，看数据更方便了3.左上角修改为概览按钮，点击打开系统心率界面，界面左滑也同样可以打开4.支持简体中文、繁体中文、英文，根据语言自动切换，向着英特纳雄耐尔迈进！5.按钮颜色加深，更美观6.小米手环7上首个存储空间查看器又升级了！支持以千进制分隔，数据精确到字节，同时新增“其他”项，更加全面精准地掌控存储空间情况，另外还简化了名称。依然以彩蛋形式呈现，看看聪明的你能不能找到。心率程序功能简介：支持以柱状图和列表两种方式展示心率数据，支持翻页，一页显示60条数据，心率支持范围为50-200，由于华米的接口无法获取到心率数据产生的时间，所以无法展示具体的时间，这个数据每天0点会清零。显示的数据为倒序排列，柱状图第一页为最近60条的数据，最左边是最近一条，列表是竖向排列，先是从左到右，再是从上到下。APPID为741744。虽然我的代码最近出现了被盗用的情况，但是我依然选择坚持初心，坚持开源，不过由于现在采用bin文件的方式以优化性能，所以需要源文件的童鞋请联系我获取。另外，如需转载也请联系我。",
+    "originlink": "https://www.bandbbs.cn/threads/4852/",
+    "github": "assets/apps/4852.bin"
+  },
+  "一个模拟复制粘贴的小程序（只是模拟）": {
+    "title": "一个模拟复制粘贴的小程序（只是模拟）",
+    "icon": "",
+    "category": "小程序",
+    "details": "下面是小程序的图片我是个小萌新，如果有大佬会将按钮文字旋转的话，可以私我，满足了某些的没有单独复制粘贴键盘的体验，按下手环会轻微震动，贴近按下键盘的感觉。可以直接zip下载，不用改后缀",
+    "originlink": "https://www.bandbbs.cn/threads/7049/",
+    "github": "assets/apps/7049.bin"
+  },
+  "一元一次方程式计算器 优化版": {
+    "title": "一元一次方程式计算器 优化版",
+    "icon": "",
+    "category": "小程序",
+    "details": "如上作者@淘汰郎https://www.bandbbs.cn/\nthreads/9536/•index.bin 大小縮小>90% (77 kb -> 7 kb)•大幅減少APP對手環RAM的使用量•使用更快更流暢•UI優化源代碼 (僅作部份開源,有興趣可以自己去原帖買,只需2023 coins 哦🙂):",
+    "originlink": "https://www.bandbbs.cn/threads/9570/",
+    "github": "assets/apps/9570.bin"
+  },
+  "荧光棒PRO221106（V1.1）": {
+    "title": "荧光棒PRO221106（V1.1）",
+    "icon": "",
+    "category": "小程序",
+    "details": "原帖地址：米环7小程序 - 独立小程序-荧光棒PRO（帧率精准控制+彩色&黑白双模式+亮度&持续亮屏一键调节恢复+自动保存使用记录+完整操作页面&关于页面&操作逻辑）【原创作品&开学季巨献】已更新！更新日志详见 https://www.bandbbs.cn/\nthreads/5532/ ！！   本程序完全由zqx666原创，与其他相似作品版权不冲突，特此声明！！！ 本作品代码开源，但未经允许请勿公开上传二创作品，转载或翻译请注明原作者和原帖地址，谢谢！ （详情见程序关于页面>>使用协议）  前言 嗨，陌生人，你好。 很高兴你点进了我的作品😊 这是一个13岁的初中生用17天，13个小时，680多行代码 完成的小程序 这是我第一次学习如何使用变量， 如何使用选择结构， 如何使用临时存储…… 我一次次的测试，又一次次的失败…… 经过成百上千次的反复打磨 终于 它诞生了  概述...www.bandbbs.cn更新日志:---极大提高了选择帧率界面的速度，改变了数字的渲染方式。widget.setProperty(propertyId, val)​---关于界面的改动---修复在其他应用中右滑亮度改变的BUG，取消该功能---以后的更新中代码闭源，请谅解---其他bug修复及优化代码喜欢我的作品的朋友可以给我点点赞和关注，感激不尽啦~~（毕竟我才是个初中生Doge",
+    "originlink": "https://www.bandbbs.cn/threads/5532/",
+    "github": "assets/apps/5532.bin"
+  },
+  "荧光棒PRO": {
+    "title": "荧光棒PRO",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n已更新！更新日志详见https://www.bandbbs.cn/\nthreads/5532/！！本程序完全由zqx666原创，与其他相似作品版权不冲突，特此声明！！！本作品代码开源，但未经允许请勿公开上传二创作品，转载或翻译请注明原作者和原帖地址，谢谢！（详情见程序关于页面>>使用协议）前言​嗨，陌生人，你好。很高兴你点进了我的作品😊这是一个13岁的初中生用17天，13个小时，680多行代码完成的小程序这是我第一次学习如何使用变量，如何使用选择结构，如何使用临时存储……我一次次的测试，又一次次的失败……经过成百上千次的反复打磨终于它诞生了​概述​这是一个荧光棒，但它不仅仅是一个荧光棒。它拥有一套完整的操作页面和操作逻辑（680多行代码真的不是白写的）。什么？你还不知道它是干什么用|･ω･｀)？用处可多了呢：夜间骑行时，提醒对面的行人和车辆；大型演出时，用它来给你的爱豆加油喝彩；晚上逛公园时，带上它让你更吸睛；当然，你也可以调慢帧率，把它当做一个小夜灯，伴你入眠……什么？你还不知道它有什么功能？|･ω･｀)？快拿起小本本记好了（开始划重点～）：1、亮度一键调节恢复；2、持续亮屏设置页面的跳转以及相关的提示界面；3、帧率精准控制；4、彩色和黑白两种渲染模式，适用于更多场景；5、退出或切换页面时自动恢复亮度（避免退出后仍过亮）；6、自动保存使用记录（帧率从上一次设置的开始显示）；7、更完善的关于页面（age项 会随着时间的推移而增长，不信你试试）8、添加使用协议；9、添加重置应用选项和提示界面；10、更多功能请自己探索～由于快要开学的原因，这个程序是我仓促写成的，并且有很多都是我第一次学习js。一定还有很多不足之处，有什么bug大家可以在评论区说，如果我有空的话，会及时的修正，谢谢^ω^在这里我要感谢之前和现在给我点赞关注评论的朋友，你们的支持是我创作最大的动力！愿每一个奋斗的青春都能够熠熠生辉！END​",
+    "originlink": "https://www.bandbbs.cn/threads/4976/",
+    "github": "assets/apps/荧光棒PRO"
+  },
+  "荧光棒小程序": {
+    "title": "荧光棒小程序",
+    "icon": "",
+    "category": "小程序",
+    "details": "原作者：Местный  翻译及优化：风向决定发型d   不知道取啥名啊哈哈。进去程序上下滑动可以调节亮度，点击三次屏幕可以调节持续亮屏时间，以及随机颜色开关和展示作者信息，退出程序恢复原来的亮屏时间和亮度",
+    "originlink": "https://www.bandbbs.cn/threads/4926/",
+    "github": "assets/apps/4926.bin"
+  },
+  "应用抽屉-附带性能测试": {
+    "title": "应用抽屉-附带性能测试",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n首先要跟大家说声抱歉，之前发布机甲全功能4.0的时候曾向大家说过会出一个独立的应用抽屉程序，然而由于个人比较忙加上懒癌发作，同时又经过了仔细打磨，导致拖到现在才发布。应用介绍：1.支持扫描应用列表生成抽屉列表，顺序由安装顺序决定，也支持恢复默认设置2.支持修改配置文件自定义程序列表及顺序（配置与机甲全功能表盘可兼容），支持自行替换图片3.支持固定抽屉4.支持查看扫描后的应用信息列表5.附带性能测试小工具，结果仅供娱乐（手环界的娱乐大师！），与重载按钮一样点击后需等待一段时间6.支持简体中文、繁体中文、英文。根据手环语言自动切换，另外扫描后的应用名称也会按照系统语言而扫描对应的语言名称。应用帮助：点击重载按钮即可重新加载手环的应用列表，点击重置可清空列表回到默认设置，固定开关控制打开应用后是否自动回到桌面，显示数据按钮可显示当前缓存的应用列表，需先重载后才有数据，性能测试用于测试手环性能，结果仅供参考。点击文本可关闭弹窗，任意界面出现绿屏bug均可左滑界面重新载入。展开折叠内容:自定义应用列表及图片教程点击显示数据按钮后显示的数据为缓存的手环应用列表，如需自定义应用列表，可编辑应用压缩包中的assets/config.txt文件，将需要的应用信息按格式填入，将{}对内的信息填入即可，注意使用英文标点，可在文件中添加应用。你也可去除text字段，将按照assets/images/appIcon中的图标来显示，注意图片需为tga格式。应用ID：741746，本应用继续保持开源，如需源代码可联系我获取，如需转载也请联系我，点击这里查看我的更多作品或支持我。此外还另外提供了最新的支持应用抽屉的机甲全功能表盘4.1，如果喜欢本表盘的话建议使用表盘的抽屉，体验效果更佳，另外还有最新的支持今日高亮的日历程序V1.2、亮度快捷方式，详见下方链接：机甲全功能表盘V4.1 支持应用抽屉+心率程序+日历+亮度调节+更多编辑选项+显秒+应用跳转+状态显示三箭齐发！小米手环7更美观的迷你日历小程序来了！附带亮度调节快捷方式及“更多”快捷方式",
+    "originlink": "https://www.bandbbs.cn/threads/7601/",
+    "github": "assets/apps/应用抽屉-附带性能测试{MORE}"
+  },
+  "应用商店APP Store": {
+    "title": "应用商店APP Store",
+    "icon": "",
+    "category": "小程序",
+    "details": "水哥来了 提交新资源：应用商店APP store- 可以为您的手环添加一些新的应用从外网搬运的全是英文将就用，由于是外网的链接，所以极其不稳定，建议使用QQ浏览器这边也是把主体下载好了，打开链接(https://pan.baidu.com/ \n s/14wYHjHIGcikAmk \n 0Lv0KimA?pwd=1145)就可以下载（百度网盘下载安装）提取码1145",
+    "originlink": "https://www.bandbbs.cn/threads/12243/",
+    "github": "assets/apps/12243.bin"
+  },
+  "优化的Flappy Bird（EN）": {
+    "title": "优化的Flappy Bird（EN）",
+    "icon": "",
+    "category": "小游戏",
+    "details": "I hope you like Better Bird Jump (English Modification)i hope u like flappy bird better modded (English)--made by userdev🇬🇷",
+    "originlink": "https://www.bandbbs.cn/threads/6434/",
+    "github": "assets/apps/6434.bin"
+  },
+  "YouTube,ChatGPT装13专用": {
+    "title": "YouTube,ChatGPT装13专用",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n分享资源",
+    "originlink": "https://www.bandbbs.cn/threads/10104/",
+    "github": "assets/apps/YouTube.,ChatGPT装x专用"
+  },
+  "Zepp os calculator applet(EN)": {
+    "title": "Zepp os calculator applet(EN)",
+    "icon": "",
+    "category": "小程序",
+    "details": "Hey there is another English version of app which called zepp calculator . It's basically a same calculator as NEORUAA made but that was having a minor issue , the language was in Chinese so guys here it's the English version of the calculator",
+    "originlink": "https://www.bandbbs.cn/threads/4280/",
+    "github": "assets/apps/4280.bin"
+  },
+  "ZeppTasks": {
+    "title": "ZeppTasks",
+    "icon": "",
+    "category": "小程序",
+    "details": "Farhan491 提交新资源：To do list- Melian-miko published a new resourceIn Russian:-Что это?​Приложение списка дел для устройств на ZeppOS. Просмотр, создание, отметки о выполнении, синхронизация с Google Tasks (опционально).Может работать оффлайн. То есть если при запуске приложения нет подключения к сети, будет отображён последний загружений ый список задачи, а все внесённые изменения будут отправлены при последующем запуске, после появления сети.Также может использоваться без синхронизации с Google Tasks, в этом случае все данные...",
+    "originlink": "https://www.bandbbs.cn/threads/7139/",
+    "github": "assets/apps/7139.bin"
+  },
+  "真正能使用的chat(搬运)": {
+    "title": "真正能使用的chat(搬运)",
+    "icon": "",
+    "category": "小程序",
+    "details": "仅支持17个问题",
+    "originlink": "https://www.bandbbs.cn/threads/10107/",
+    "github": "assets/apps/Alexa encrypted.bin"
+  },
+  "支付宝/微信收款码 小程序": {
+    "title": "支付宝/微信收款码 小程序",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\nPanda君 提交新资源：支付宝/微信收款码 小程序- 改自@Zhuym的核酸码小程序改自@Zhuym的核酸码小程序代码未改动作者署名，只改动UI颜色和图标，如作者有意见可随时下架使用前先解压，将二维码用图片转换工具转换完毕后改成 code.png，放入assets中，保存完毕后刷入即可。图片转换工具:米环7工具 - 小米手环7表盘图片转换工具 ImageToGTR3-mi7修复版【6.16 更新1.3版本】6.16 更新1.3版本 请下载附件 ImageToGTR3-mi7修复版1.3修复转换报错问题.zip 修复有些图片在转换时报错的问题   前面发小米手环7表盘教程时候改的一版转换工具 正常png图片跟小米手环7用的png图片（实际是tga） 转换工具 后发现转换工具会导致红蓝通道调换  这边重新改了一版，目前暂时测试没有问题，如果还有问题请反馈。  前面教程的链接 https://www.bandbbs.cn/\nthreads/3927/效果图如下:（希望有大佬能做到2合1效果）",
+    "originlink": "https://www.bandbbs.cn/threads/6129/",
+    "github": "assets/apps/6129.bin"
+  },
+  "中英词典": {
+    "title": "中英词典",
+    "icon": "",
+    "category": "小程序",
+    "details": "NEORUAA 提交新资源：小米手环7 独立小程序 中英词典- 环间小词典 独立小程序版！中英词典小程序，可通过米环7查单词。目前米环7能直接安装小程序，因此发布独立版本，以后也将更新这个版本，小程序表盘版不再维护。作者GiveMeFive＆NEORUAA使用教程：使用表盘自定义APP 1.7安装 小程序(不是表盘！！！)1.下载附件小程序最新版2.词库4万3.小词典仍在更新，请关注本资源！",
+    "originlink": "https://www.bandbbs.cn/threads/4329/",
+    "github": "assets/apps/4329.bin"
+  },
+  "自习室 V2.0Beta": {
+    "title": "自习室 V2.0Beta",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n一个简易的桌面时钟却有着意想不到的高度可自定义化以及无与伦比的美观性......自习室小程序（SSA）2.0大版本更新正式发布Beta版本！禁止（除Wangyd以外的搬砖户）转载自定义工具v2.1 更新内容：{UI优化加大字体 更符合原生样式{防误触模式现在米环7屏幕有50像素加入不可互动的透明矩形用于上下滑动屏幕 防止误触v2.0更新内容：{UI全新升级使用类系统UI界面更好融入米环7原生态系统，提升了观感体验{添加了一个提醒作为防烧屏的暂时替代{新样式新增了“综合样式”可同时显示日期，星期等信息（类似于v0.3版本的默认样式）{修改了“时钟样式”调整了三个指针的上下层叠放关系，使其符合自然钟表的样式{修复了两个BUGv1.5更新内容：{新样式新增了“指针样式”并提供三种指针可选，三种表盘可选{修复了一个BUGv1.3更新内容：{修复大量BUG 优化体验v1.2更新内容：{解决了数字显示半透明问题通过ZMake解决了半透明变成灰度的问题真正实现上图的效果ENJOY！v1.1更新内容：{Room更美观新增“相册样式（无电量条）”数字增加粗、细、液晶三种样式 且改为半透明效果{全新文字修改系统对自定义编辑作了优化实现背景文字均可控制且设置后有相应反馈{电量圆环优化在电量小于等于30时圆环将会变为红色{文字优化关于界面文字大幅优化加大字体以便阅读ENJOY！v1.0更新内容：{全新的UI针对小米手环进行了UI大改版更新后界面更加适合手环用户{更高自由度的room通过@Struggle提供的早期代码加以修改（哥哥你的代码全是语法错误 我眼睛都要瞎了）可以实现用0~9十个数字实现流畅的时间显示极大压缩了占用空间从而可以实现一次性装载很多样式{更现代化的url界面添加了对电量的圆环显示及自定义背景的快捷方式实现了可自定义的背景未来可能考虑实现前景抠图以及......完全开源！这是我第一个小程序作品也是最耗尽心血的一个感谢得到各位开发者的鼎力支持完全开源意味着各位同以前的我一样的小萌新可以通过它快速入门希望对你有帮助！对此小程序的更新维护基本已结束其实仍留有遗憾 例如防烧屏机制未能完成但预留了接口（名为grouptime的GROUP控件）以及其他样式的开发留给各位大佬自由发挥！2.01修复版：由于有闪退问题暂时取消了弹窗界面",
+    "originlink": "https://www.bandbbs.cn/threads/7602/",
+    "github": "assets/apps/自习室2.0Beta 大版本更新"
+  },
+  "自习室 V0.31": {
+    "title": "自习室 V0.31",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n2.0版本已发布 请跳转\n米环7小程序 - [维护基本结束] 8/6 自习室2.0Beta 大版本更新一个简易的桌面时钟 却有着意想不到的高度可自定义化 以及无与伦比的美观性 ...... 自习室小程序（SSA）2.0大版本更新正式发布Beta版本！    禁止（除Wangyd以外的搬砖户）转载自定义工具 v2.1 更新内容： {UI优化 加大字体 更符合原生样式  {防误触模式 现在米环7屏幕有50像素加入不可互动的透明矩形用于上下滑动屏幕 防止误触  v2.0更新内容： {UI全新升级 使用类系统UI界面 更好融入米环7原生态系统，提升了观感体验  {添加了一个提醒 作为防烧屏的暂时替代  {新样式 新增了“综合样式” 可同时显示日期，星期等信息（类似于v0.3版本的默认样式）...www.bandbbs.cn二创版本已发布 作者xɪɴɢʜᴇɴɢCN 版本号v3.1改进内容（作者の话）1.主页/关于页/桌面页增加动画，提升丝滑性2.将Coming Soon占位符删除3.桌面空间页面上下滑动问题基本解决4.完善关于页格式，提升美观性5.此版本兼容\"课程表\"修改版，不支持课程表原版由于备战中考的缘故对于二创版本的品控不会那么严格bug和建议我无法参与修复请直接与xɪɴɢʜᴇɴɢCN私信（不过人做的动画让我觉得我写了一坨答辩）附件已发布点击展开...-----------以下为原版介绍---------------感谢Struggle对此项目的鼎力支持（核心控件都是人教的 我只是写了个UI）其实就是一个js版本的桌面时钟且时钟旁边带有简单的小传送可以直达计算器（NEORUAA版本），中英词典，音乐和课程表小程序便于学生上课和自习时使用加强对时间的管控，提升自制力当然考试时请自觉，不要作弊时间仓促没来得及开发防烧屏请自行过一段时间就移动一下界面续航方面由于一直要开着屏幕会大幅下降（一天一充）昨天晚上充满电第二天在学校可以撑12小时左右觉得耗电的可以降低亮度 会大幅提升续航 就相当于开了全天候息屏暂时没有发现闪退现象有的话欢迎私信QQ群在中考后会建立到时欢迎进群催更Q＆A：凌晨过后星期和天数不改变为了整体流畅度做出了一点牺牲 后期考虑会加上计算机打开黑屏你可能是用的俄罗斯兄弟开发的版本 目前仅支持NEORUAA开发的版本 后期考虑提供选择界面无法打开程序小程序未内置计算器 课程表等小程序 仅提供跳转界面 未安装当然无法打开若已安装 有可能是魔改版本 修改了页面的路径 请安装正式版（给应用一个个做适配很累的）电量条短暂变成黄色后正常我调试用的 不用管 不会影响使用（强迫症除外）我是真爱粉 关于界面的IKUN让我很不爽你干嘛～～～～～～～哈哈～～～～～哎呦～～～～～～～～这个项目在中考前应该不会再有大更新了目前只有一个样式 以后会增加更多首先会开发萍方字体 有想要的字体欢迎评论设计风格采用SF Symbols 4（Apple）所以整体会有果味后期考虑专门出一个教程使用场景如下",
+    "originlink": "https://www.bandbbs.cn/threads/6326/",
+    "github": "assets/apps/二创版本已发布 自习室v0.31"
+  },
+  "自习室 V1.5": {
+    "title": "自习室 V1.5",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n2.0版本已发布 请跳转米环7小程序 - [维护基本结束] 8/6 自习室2.0Beta 大版本更新一个简易的桌面时钟 却有着意想不到的高度可自定义化 以及无与伦比的美观性 ...... 自习室小程序（SSA）2.0大版本更新正式发布Beta版本！    禁止（除Wangyd以外的搬砖户）转载自定义工具 v2.1 更新内容： {UI优化 加大字体 更符合原生样式  {防误触模式 现在米环7屏幕有50像素加入不可互动的透明矩形用于上下滑动屏幕 防止误触  v2.0更新内容： {UI全新升级 使用类系统UI界面 更好融入米环7原生态系统，提升了观感体验  {添加了一个提醒 作为防烧屏的暂时替代  {新样式 新增了“综合样式” 可同时显示日期，星期等信息（类似于v0.3版本的默认样式）...www.bandbbs.cn看完WWDC2023我想起诉苹果StandBy抄袭SSA......一个简单的桌面时钟却有着意想不到的现代化UI以及高度自定义的可玩性自习室Self-Study Assistant 1.5(简称SSA)大更新正式发布自习室小程序的维护即将结束所有源码开源，并提供demo.js(在v1.5。bin的page/下)更多样式的开发，交给各位大佬了！禁止（除Wangyd以外的搬砖户）转载自定义工具v1.5更新内容：{新样式新增了“指针样式”并提供三种指针可选，三种表盘可选{修复了一个BUGv1.3更新内容：{修复大量BUG 优化体验v1.2更新内容：{解决了数字显示半透明问题通过ZMake解决了半透明变成灰度的问题真正实现上图的效果ENJOY！v1.1更新内容：{Room更美观新增“相册样式（无电量条）”数字增加粗、细、液晶三种样式 且改为半透明效果{全新文字修改系统对自定义编辑作了优化实现背景文字均可控制且设置后有相应反馈{电量圆环优化在电量小于等于30时圆环将会变为红色{文字优化关于界面文字大幅优化加大字体以便阅读ENJOY！v1.0更新内容：{全新的UI针对小米手环进行了UI大改版更新后界面更加适合手环用户{更高自由度的room通过@Struggle提供的早期代码加以修改（哥哥你的代码全是语法错误 我眼睛都要瞎了）可以实现用0~9十个数字实现流畅的时间显示极大压缩了占用空间从而可以实现一次性装载很多样式{更现代化的url界面添加了对电量的圆环显示及自定义背景的快捷方式实现了可自定义的背景未来可能考虑实现前景抠图以及......完全开源！这是我第一个小程序作品也是最耗尽心血的一个感谢得到各位开发者的鼎力支持完全开源意味着各位同以前的我一样的小萌新可以通过它快速入门希望对你有帮助！",
+    "originlink": "https://www.bandbbs.cn/threads/7267/",
+    "github": "assets/apps/自习室v1.5发布"
+  },
+  "“设置”与“显示与亮度”快捷方式": {
+    "title": "“设置”与“显示与亮度”快捷方式",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\nAYOLMO 提交新资源：“设置”快捷方式“显示与亮度”快捷方式- 更方便调节设置更方便调节设置",
+    "originlink": "https://www.bandbbs.cn/threads/4989/",
+    "github": "assets/apps/“设置”快捷方式“显示与亮度”快捷方式"
+  },
+  "【快捷方式/资源包】“支付宝”App logo焕新版": {
+    "title": "【快捷方式/资源包】“支付宝”App logo焕新版",
+    "icon": "",
+    "category": "小程序",
+    "details": "支付宝换logo了，小米手环不得更新一下？长这样↓是一个快捷方式，直接以小程序安装就行其它支持 “支付宝”App 的 Zepp OS 设备应该也是能用的",
+    "originlink": "https://www.bandbbs.cn/threads/9769/",
+    "github": "assets/apps/9769.bin"
+  },
+  "【手环上的视频】环间视频小程序(小红书美女版)": {
+    "title": "【手环上的视频】环间视频小程序(小红书美女版)",
+    "icon": "",
+    "category": "小程序",
+    "details": "hjhhoni 提交新资源：【手环上的视频】环间视频小程序(小红书美女版)- 制作方法：https://www.bandbbs.cn/\nthreads/5961/",
+    "originlink": "https://www.bandbbs.cn/threads/5968/",
+    "github": "assets/apps/5968.bin"
+  },
+  "【手环上的视频】环间视频小程序Beta": {
+    "title": "【手环上的视频】环间视频小程序Beta",
+    "icon": "",
+    "category": "小程序",
+    "details": "本站提示：该资源提供多个下载项\n\n首先感谢米坛Struggle的支持虽然有点异想天开但还是做出来了它来了！环间视频的测试版（后续如果正反馈的话还会迭代）功能：放一个8s内(看情况而定)的视频在手环里描述：我的Beta版放的是jojo的米斯达，当然如果你想放别的什么也可以自行更改，方法如下：1.选择喜爱的视频(最好5s内)，用mp4ToPNG裁剪分帧需要部分+imgToTGA(米坛另外一位大佬的工具)制作出tga格式图片双击setup安装，点击mp4ToPNG.exe打开图如下，将需要转化视频拖入即可修复一个BUG，视频路径不能有中文，否则会不弹出截取页面，建议视频放在桌面。若拖入无反应或没有弹出截取框，可以试试看把视频放在exe同目录下运行拖入文件之后会弹出截取框，框出想要的区域，（强烈建议竖屏）框选之后回车两下该工具会自动改尺寸！！！并且等比例缩放图片最后文件会导出到与视频同目录的after文件夹里因为工具是用python写的，90mb上传不了所以只能传网盘了链接：https://pan.baidu.com/\ns/1MrGnywH2tG\nFamoqmosg0cw\n?pwd=mimi提取码：mimi再用img工具2.将图片资源放进assets/anim里去page\\192x490_s_l66\\index.page1.js更改帧率与总帧数即可(帧率应与视频帧率相符)建议去b站剪辑视频的软件查看帧率或导出固定帧率的视频（建议30帧/s）记得把assets目录下的anim_0.png替换掉完结撒花！！！！注意！！！使用mp4ToPNG时，应先双击setup.exe文件安装mp4ToPNG,仔细阅读readme文件熟悉操作与已知bug。",
+    "originlink": "https://www.bandbbs.cn/threads/5961/",
+    "github": "assets/apps/环间视频小程序Beta+视频截取需要部分分帧工具"
+  }
+}

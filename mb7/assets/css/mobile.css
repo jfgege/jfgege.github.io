@@ -1,0 +1,370 @@
+@font-face{
+    font-family: webFont;
+    src: url(font.ttf) ;
+  }
+  
+@font-face{
+    font-family: Genshin;
+    src: url(genshin.ttf) ;
+}
+  
+@font-face{
+    font-family: Hkrpg;
+    src: url(hkrpg.ttf) ;
+}
+  
+@font-face{
+    font-family: ZZZ;
+    src: url(zzz.ttf) ;
+}
+  
+@font-face{
+    font-family: ZZZ1.1;
+    src: url(zzz-1.1.ttf);
+}
+
+@media (max-width: 600px) {
+    h1 {
+      font-size: 3em; /* 设定一个小屏幕的最大字体大小 */
+    }
+}
+
+*{
+  -webkit-tap-highlight-color: transparent;
+}
+  
+html{
+    font-family: webFont, sans-serif;
+}
+
+
+body{
+  position: relative;
+  padding-top: 200px;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(53deg, #d5bb7f5c, #86a8e7a3, #91eae47a);
+  z-index: -1;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  transition: 0.3s;
+}
+
+.overlaymain{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(241 241 241 / 25%);;
+  backdrop-filter: blur(5px);
+  z-index: 999;
+  visibility: visible;
+}
+
+.overlay{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  top:190px;
+  backdrop-filter: blur(5px);
+  z-index: 999;
+  visibility: hidden;
+  opacity: 0;
+  transition: opacity 0.3s, visibility 0.3s;
+}
+
+a{
+    font-size:150%;
+    text-decoration: none; /* 去除下划线 */
+    color: inherit; /* 继承父元素的字体颜色 */
+}
+  
+.apptitle{
+  font-size: 3.5rem;
+  margin: 0;
+}
+
+.appcontent{
+  margin: 0;
+  font-size: 3rem;
+  float:right;
+}
+
+.appicon{
+  height: 15%;
+  width: 15%;
+}
+
+.announcement{
+  clear: both;
+  padding: 35px;
+  display: flex;
+  position: relative;
+  margin-left: 15%;
+  margin-right: 15%;
+  align-items: center;
+  justify-content: center;
+  border-radius: 70px;
+  transition:background-color 0.5s ease;
+  background: #ffffff80;
+  border: 3px solid #b8b8b8;
+}
+
+.appdetails{
+  padding-left: 80px;
+  margin: 0;
+  padding-top: 15px;
+  font-size: 2.3rem;
+}
+
+.appbox-first{
+  clear: both;
+  padding: 25px;
+  display: flex;
+  top: 200px;
+  position: absolute;
+  margin-left: 5%;
+  margin-right: 5%;
+  align-items: center;
+  border-radius: 70px;
+  transition:background-color 0.5s ease;
+  background: #ffffff2e;
+}
+
+.appbox-first:hover{
+  background-color: #ffffff85;
+}
+
+.appbox{
+  padding: 50px;
+  display: flex;
+  margin-top: 30px;
+  margin-left: 5%;
+  margin-right: 5%;
+  align-items: center;
+  border-radius: 70px;
+  transition:background-color 0.5s ease;
+  background: #ffffff2e;
+  animation: fadeIn 0.5s;
+  transition: 0.3s;
+}
+
+.appbox:hover{
+  background-color: #ffffff85;
+}
+
+.topbar {
+  /*border-bottom: 2px solid #e9e9e9; */
+  backdrop-filter: blur(10px);
+  /*border-top: 1px solid #d1cdcdd7;*/
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+  padding-left: 5%;
+  top: 20px;
+}
+
+.sidebar-button{
+  height: 3.1rem;
+  width: 3.1rem;
+  padding: 3.3rem;
+  transition:background-color 0.5s ease;
+  border-radius: 50px;
+}
+
+.sidebar-button:hover{
+  background-color: #ffffff1f;
+}
+
+#title{
+  display: flex;
+  font-size:4rem;
+  padding: 3rem;
+  align-items: center;
+  transition: font-size 0.5s; 
+}
+
+#search-btn{
+  padding: 2rem;
+}
+
+.sidebar {
+  position: fixed;
+  top: 200px;
+  bottom: 0;
+  left: -50rem; 
+  width: 45%;
+  background: #ffffff42;
+  transition: left 0.3s; 
+  font-size: 3rem;
+  justify-content: center;
+  border-radius: 70px;
+  padding: 30px;
+  overflow-y: scroll;
+  z-index: 1000;
+}
+
+#sidebar-list{
+  list-style-type:none ;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+#sidebar-list li{
+  padding: 2rem 0px;
+  width:100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  border-radius: 70px;
+  background: #ffffffad;
+  transition:background-color 0.5s ease;
+}
+
+#sidebar li:hover {
+  background-color: #ffffff5e;
+} 
+
+.close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+/* 列表默认隐藏 */
+#fontList {
+  display: block;
+  background-color: #ffffff;
+  min-width: 160px;
+  z-index: 1;
+  opacity: 0; /* 初始状态为透明 */
+  transition: opacity 0.5s ease;
+  border: 2px solid #d1cdcdd7;
+}
+
+/* 列表项 */
+#fontList li {
+  padding:12px 16px;
+}
+
+/* 鼠标悬停效果 */
+#fontList li:hover {
+  transition:all 0.5s;
+  background-color: #e4e4e4;
+}
+
+#fontList{
+  list-style-type:none ;
+  border-radius: 90px;
+  padding-left: 0;
+  text-align: center;
+  overflow: hidden;
+}
+
+#fontList ul {
+  list-style-type: none;
+  padding-left: 0; 
+}
+
+/* 列表需要显现时，添加类 */
+#fontList.visible {
+  display: block;
+  opacity: 1;
+}
+ 
+.special-font  {
+  font-size: 3.5rem !important;
+}
+
+
+
+
+
+#title {
+  text-align: center;
+  transition: opacity 0.3s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.search-btn {
+  z-index: 3;
+  position: absolute;
+  right: 10%;
+}
+
+.search-box {
+  position: absolute;
+  right: 220px; /* 调整到搜索按钮左侧 */
+  width: 0;
+  overflow: hidden;
+  transition: width 0.3s ease;
+  z-index: 2;
+  border-radius: 40px;
+}
+
+.search-box input {
+  width: 100%;
+  padding: 10px;
+  padding-left: 30px;
+  height: 5rem;
+  background: #ffffff2e;
+  border: unset;
+  font-size: 3rem;
+}
+
+.search-box.expanded {
+  width: calc(100% - 450px);
+}
+
+#title.hidden {
+  opacity: 0;
+}
+
+.no-result {
+  text-align: center;
+  padding: 20px;
+  color: #666;
+  font-size: 5rem;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.loading {
+  text-align: center;
+  padding: 50px;
+}
+
+.loading::after {
+  content: "";
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  border: 10px solid #ddd;
+  border-top-color: #007bff;
+  border-radius: 50%;
+  animation: spin 0.5s linear infinite;
+}

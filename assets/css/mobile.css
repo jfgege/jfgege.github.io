@@ -31,7 +31,9 @@
   
 html{
     font-family: webFont, sans-serif;
-    
+    background-size: cover;
+    background-attachment: fixed;
+    background: linear-gradient(to top right, #ffc80029, #00aaff36);
 }
 
 .overlay{
