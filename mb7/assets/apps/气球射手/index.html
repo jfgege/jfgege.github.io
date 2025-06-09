@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = "utf-8">
+        <title>小程序下载</title>
+        <link rel="stylesheet"  href="../../css/mobile.css"/>
+        <style>
+            .appbox{
+                padding: 50px;
+                display: flex;
+                margin-top: 30px;
+                margin-left: 5%;
+                margin-right: 5%;
+                align-items: center;
+                border-radius: 70px;
+                transition:background-color 0.5s ease;
+                background: #c2c2c221;
+                animation: fadeIn 0.5s;
+                transition: 0.3s;
+            }
+
+            .appbox:hover{
+                background-color: #7d7b7b2b;
+            }
+
+            body::before {
+                background: unset;
+            }
+
+            #sidebar-list li{
+                border: 2px solid #cdc5c5b0;
+            }
+
+            .sidebar {
+                border: 1px solid rgba(205, 197, 197, 0.69);
+            }
+
+            #sidebar li:hover {
+                background-color: #a1a1a140;
+            }
+
+            .sidebar-button:hover{
+                background-color: #7d7b7b2b;
+            }
+        </style>
+    </head>
+    <body>
+        <!--顶栏-->
+        <div class="topbar" id="topbar">
+            <div id="sidebar-button" class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg>  
+            </div>
+            <div id="title">小程序下载列表</div>
+        </div>
+
+        <!--遮罩-->
+        <div class="overlay" onclick="closeSidebar()"></div>
+
+        <!--主体-->
+        <div id="appList" class="app-list">
+            <a href="./Balloon Shooter Final.bin">
+                <div class="appbox">
+                    <div class="appcontent">
+                        <p class="apptitle">Balloon Shooter Final</p>
+                    </div>
+                </div>
+            </a>
+
+            <a href="./源代码不可直接安装！[Source Code]Balloon Shooter Final.zip">
+                <div class="appbox">
+                    <div class="appcontent">
+                        <p class="apptitle">源代码不可直接安装！[Source Code]Balloon Shooter Final</p>
+                    </div>
+                </div>
+            </a>
+            
+        </div>
+
+        <!--侧边栏-->
+        <div id="sidebar" class="sidebar">
+            <!-- 侧边栏内容 -->
+            <ul id="sidebar-list">
+                <li><a href="../../../index.html" style="font-size: 100%;">主页面</a></li>
+                <li><a href="../../../contact.html" style="font-size: 100%;">联系我</a></li>
+                <li><a href="https://github.com/jfgege/jfgege.github.io/mb7" style="font-size: 100%;" target="_blank">Github主页</a></li>
+            </ul>
+        </div>
+
+        <script src="../../js/sidebar.js"></script>
+    </body>
+</html>
