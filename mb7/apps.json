@@ -1,15 +1,11 @@
 [
     {
-        "name": "2048",
-        "icon": "assets/icon/2048.png"
-    },
-    {
         "name": "2048(EN)",
         "icon": "assets/icon/2048.png"
     },
     {
-        "name": "Apple launcher V2.0(EN)",
-        "icon": ""
+        "name": "2048（中文）",
+        "icon": "assets/icon/2048.png"
     },
     {
         "name": "Apple Health Chinese Version",
@@ -24,7 +20,7 @@
         "icon": ""
     },
     {
-        "name": "Apple手電筒",
+        "name": "Apple launcher V2.0(EN)",
         "icon": ""
     },
     {
@@ -33,6 +29,10 @@
     },
     {
         "name": "Apple健康5.0,Apple健康3.0终极精简版",
+        "icon": ""
+    },
+    {
+        "name": "Apple手電筒",
         "icon": ""
     },
     {
@@ -62,13 +62,189 @@
     {
         "name": "Bluetooth",
         "icon": ""
-    }, 
+    },
+    {
+        "name": "Hyper Book V1.0.0 Beta",
+        "icon": ""
+    },
+    {
+        "name": "Hyper Book V1.2，电子书5.2.0改版",
+        "icon": ""
+    },
+    {
+        "name": "HyperBox V1.5.0",
+        "icon": "assets/icon/hyperbox1.5.0.png"
+    },
+    {
+        "name": "HyperBox V2.0.0",
+        "icon": "assets/icon/hyperbox2.0.0.png"
+    },
+    {
+        "name": "JStudio（开源）",
+        "icon": ""
+    },
+    {
+        "name": "Jump Jump English Version",
+        "icon": ""
+    },
+    {
+        "name": "Jump Jump(EN)",
+        "icon": ""
+    },
+    {
+        "name": "JumpJump Game Russian translate",
+        "icon": ""
+    },
+    {
+        "name": "Math Game",
+        "icon": ""
+    },
+    {
+        "name": "Memoji",
+        "icon": ""
+    },
+    {
+        "name": "Memoji applet V1.0",
+        "icon": ""
+    },
+    {
+        "name": "Mi band 7 Baterry program",
+        "icon": ""
+    },
+    {
+        "name": "Mi fitness",
+        "icon": ""
+    },
+    {
+        "name": "Mi Fitness V1.0",
+        "icon": ""
+    },
+    {
+        "name": "Mi fitness V3.0",
+        "icon": ""
+    },
+    {
+        "name": "minecraft2d",
+        "icon": ""
+    },
+    {
+        "name": "miTimer",
+        "icon": ""
+    },
+    {
+        "name": "MIUI风格存储空间查看器(English supported)",
+        "icon": ""
+    },
+    {
+        "name": "My fitness V5.0.0",
+        "icon": ""
+    },
+    {
+        "name": "My Fitness V5.0.0(3.5.0.1)汉化",
+        "icon": ""
+    },
+    {
+        "name": "my fitness V5.0汉化版",
+        "icon": ""
+    },
+    {
+        "name": "my fitness,Apple健康4.0，記事本，井字棋繁化版",
+        "icon": ""
+    },
+    {
+        "name": "NotePad",
+        "icon": ""
+    },
+    {
+        "name": "Notepad V1.0.0",
+        "icon": ""
+    },
+    {
+        "name": "NotePad V2.0.1",
+        "icon": ""
+    },
+    {
+        "name": "Push and Pop(EN)",
+        "icon": ""
+    },
+    {
+        "name": "Push and Pop（黑色版）",
+        "icon": "assets/icon/pushpop黑色.png"
+    },
+    {
+        "name": "Q盒 V1.0 Beta",
+        "icon": ""
+    },
+    {
+        "name": "Q盒 V1.0.0正式版",
+        "icon": ""
+    },
+    {
+        "name": "Q盒 V1.2.0",
+        "icon": ""
+    },
+    {
+        "name": "Storage(EN)",
+        "icon": ""
+    },
+    {
+        "name": "Tabata/节拍器自定义间隔振动小程序- 内测/BETA",
+        "icon": ""
+    },
+    {
+        "name": "Tetris-俄罗斯方块 优化修改版",
+        "icon": ""
+    },
+    {
+        "name": "Tetris-俄罗斯方块 优化修改版-新增振动偏好",
+        "icon": ""
+    },
+    {
+        "name": "Toolbox v.2022-09-04 优化简中+繁中",
+        "icon": ""
+    },
+    {
+        "name": "Toolbox工具箱",
+        "icon": "assets/icon/toolbox.png"
+    },
+    {
+        "name": "toolbox工具箱（繁體中文版）",
+        "icon": ""
+    },
+    {
+        "name": "Vibrator Applet",
+        "icon": ""
+    },
+    {
+        "name": "vibrator(EN)",
+        "icon": ""
+    },
+    {
+        "name": "YouTube,ChatGPT装13专用",
+        "icon": ""
+    },
+    {
+        "name": "Zepp os calculator applet(EN)",
+        "icon": ""
+    },
+    {
+        "name": "ZeppTasks",
+        "icon": ""
+    },
+    {
+        "name": "崩铁小百科",
+        "icon": ""
+    },
+    {
+        "name": "捕梦网中文修复",
+        "icon": ""
+    },
     {
         "name": "捕夢網 [Dreamcatcher]",
         "icon": ""
     },
     {
-        "name": "捕梦网中文修复",
+        "name": "超能仪1.0",
         "icon": ""
     },
     {
@@ -176,18 +352,6 @@
         "icon": ""
     },
     {
-        "name": "Hyper Book V1.0.0 Beta",
-        "icon": ""
-    },
-    {
-        "name": "HyperBox V1.5.0",
-        "icon": "assets/icon/hyperbox1.5.0.png"
-    },
-    {
-        "name": "HyperBox V2.0.0",
-        "icon": "assets/icon/hyperbox2.0.0.png"
-    },
-    {
         "name": "华容道 V1.0",
         "icon": "assets/icon/华容道1.0.png"
     },
@@ -200,6 +364,14 @@
         "icon": ""
     },
     {
+        "name": "环间oo棒",
+        "icon": ""
+    },
+    {
+        "name": "环间oo棒 V2.0",
+        "icon": ""
+    },
+    {
         "name": "环间菜谱 V1.0.0 Beta",
         "icon": ""
     },
@@ -208,19 +380,7 @@
         "icon": "assets/icon/环间电子书.png"
     },
     {
-        "name": "環間電子書 V5.2.1",
-        "icon": ""
-    },
-    {
         "name": "环间计算器(图标改善版)",
-        "icon": ""
-    },
-    {
-        "name": "环间oo棒",
-        "icon": ""
-    },
-    {
-        "name": "环间oo棒 V2.0",
         "icon": ""
     },
     {
@@ -244,7 +404,11 @@
         "icon": ""
     },
     {
-        "name": "黄金矿工 V1.8",
+        "name": "環間電子書 V5.2",
+        "icon": ""
+    },
+    {
+        "name": "環間電子書 V5.2.1",
         "icon": ""
     },
     {
@@ -252,19 +416,43 @@
         "icon": ""
     },
     {
+        "name": "黄金矿工 V1.8",
+        "icon": ""
+    },
+    {
         "name": "黄金矿工简体汉化版 V1.7",
         "icon": ""
     },
     {
-        "name": "Jump Jump(EN)",
+        "name": "计时器（开源）",
         "icon": ""
     },
     {
-        "name": "Jump Jump English Version",
+        "name": "计算器",
         "icon": ""
     },
     {
-        "name": "JumpJump Game Russian translate",
+        "name": "计算器 (22.8.7修改自米坛官方)",
+        "icon": ""
+    },
+    {
+        "name": "计算器 V2.5.2",
+        "icon": ""
+    },
+    {
+        "name": "计算器 V3.0",
+        "icon": ""
+    },
+    {
+        "name": "计算器V3-bytecode",
+        "icon": "assets/icon/计算器_v3_bytecode.png"
+    },
+    {
+        "name": "计算器魔改版",
+        "icon": ""
+    },
+    {
+        "name": "计算器升级版",
         "icon": ""
     },
     {
@@ -284,44 +472,12 @@
         "icon": ""
     },
     {
-        "name": "计时器（开源）",
-        "icon": ""
-    },
-    {
-        "name": "计算器",
-        "icon": ""
-    },
-    {
-        "name": "计算器 V3.0",
-        "icon": ""
-    },
-    {
-        "name": "计算器 V2.5.2",
-        "icon": ""
-    },
-    {
-        "name": "计算器 (22.8.7修改自米坛官方)",
-        "icon": ""
-    },
-    {
         "name": "計算器 擴充版",
         "icon": ""
     },
     {
         "name": "計算器 擴充版 V2.1",
         "icon": ""
-    },
-    {
-        "name": "计算器魔改版",
-        "icon": ""
-    },
-    {
-        "name": "计算器升级版",
-        "icon": ""
-    },
-    {
-        "name": "计算器V3-bytecode",
-        "icon": "assets/icon/计算器_v3_bytecode.png"
     },
     {
         "name": "间隔闹钟 [Interval timer]",
@@ -333,10 +489,6 @@
     },
     {
         "name": "井字游戏中文原版 V2.1.0",
-        "icon": ""
-    },
-    {
-        "name": "JStudio（开源）",
         "icon": ""
     },
     {
@@ -396,55 +548,19 @@
         "icon": ""
     },
     {
-        "name": "minecraft2d",
-        "icon": ""
-    },
-    {
-        "name": "Mi fitness V3.0",
-        "icon": ""
-    },
-    {
-        "name": "Memoji",
-        "icon": ""
-    },
-    {
-        "name": "Memoji applet V1.0",
-        "icon": ""
-    },
-    {
-        "name": "Math Game",
-        "icon": ""
-    },
-    {
-        "name": "miTimer",
-        "icon": ""
-    },
-    {
-        "name": "My fitness V5.0.0",
-        "icon": ""
-    },
-    {
-        "name": "Mi Fitness V1.0",
-        "icon": ""
-    },
-    {
-        "name": "Mi fitness",
-        "icon": ""
-    },
-    {
-        "name": "Mi band 7 Baterry program",
-        "icon": ""
-    },
-    {
         "name": "每日蜥蜴",
         "icon": ""
     },
     {
-        "name": "密码重置 与环管Pro配套使用",
+        "name": "每日一言",
         "icon": ""
     },
     {
         "name": "迷你游戏打地鼠",
+        "icon": ""
+    },
+    {
+        "name": "密码重置 与环管Pro配套使用",
         "icon": ""
     },
     {
@@ -453,10 +569,6 @@
     },
     {
         "name": "咩Auth MFA/2FA/TOTP两步验证 V10.0",
-        "icon": ""
-    },
-    {
-        "name": "MIUI风格存储空间查看器(English supported)",
         "icon": ""
     },
     {
@@ -480,34 +592,6 @@
         "icon": ""
     },
     {
-        "name": "My Fitness V5.0.0(3.5.0.1)汉化",
-        "icon": ""
-    },
-    {
-        "name": "my fitness V5.0汉化版",
-        "icon": ""
-    },
-    {
-        "name": "my fitness,Apple健康4.0，記事本，井字棋繁化版",
-        "icon": ""
-    },
-    {
-        "name": "NotePad V2.0.1",
-        "icon": ""
-    },
-    {
-        "name": "Notepad V1.0.0",
-        "icon": ""
-    },
-    {
-        "name": "NotePad",
-        "icon": ""
-    },
-    {
-        "name": "Push and Pop(EN)",
-        "icon": ""
-    },
-    {
         "name": "盘佛珠小程序",
         "icon": ""
     },
@@ -520,22 +604,6 @@
         "icon": ""
     },
     {
-        "name": "Push and Pop（黑色版）",
-        "icon": "assets/icon/pushpop黑色.png"
-    },
-    {
-        "name": "Q盒 V1.2.0",
-        "icon": ""
-    },
-    {
-        "name": "Q盒 V1.0 Beta",
-        "icon": ""
-    },
-    {
-        "name": "Q盒 V1.0.0正式版",
-        "icon": ""
-    },
-    {
         "name": "气球射手",
         "icon": ""
     },
@@ -545,14 +613,6 @@
     },
     {
         "name": "日历小程序-支持农历节日",
-        "icon": ""
-    },
-    {
-        "name": "Storage(EN)",
-        "icon": ""
-    },
-    {
-        "name": "赛车游戏",
         "icon": ""
     },
     {
@@ -584,6 +644,10 @@
         "icon": ""
     },
     {
+        "name": "史莱姆开源版",
+        "icon": ""
+    },
+    {
         "name": "世界时钟快捷方式",
         "icon": ""
     },
@@ -608,15 +672,11 @@
         "icon": ""
     },
     {
-        "name": "睡眠+",
-        "icon": ""
-    },
-    {
         "name": "谁是卧底",
         "icon": ""
     },
     {
-        "name": "Tabata/节拍器自定义间隔振动小程序- 内测/BETA",
+        "name": "睡眠+",
         "icon": ""
     },
     {
@@ -644,27 +704,7 @@
         "icon": ""
     },
     {
-        "name": "Toolbox工具箱",
-        "icon": "assets/icon/toolbox.png"
-    },
-    {
-        "name": "Toolbox v.2022-09-04 优化简中+繁中",
-        "icon": ""
-    },
-    {
-        "name": "toolbox工具箱（繁體中文版）",
-        "icon": ""
-    },
-    {
         "name": "推箱子-MC版100关",
-        "icon": ""
-    },
-    {
-        "name": "Vibrator Applet",
-        "icon": ""
-    },
-    {
-        "name": "vibrator(EN)",
         "icon": ""
     },
     {
@@ -712,11 +752,11 @@
         "icon": "assets/icon/像素鸟.png"
     },
     {
-        "name": "像素鳥 V2.1.0",
+        "name": "像素鳥 V2.0.1",
         "icon": ""
     },
     {
-        "name": "像素鳥 V2.0.1",
+        "name": "像素鳥 V2.1.0",
         "icon": ""
     },
     {
@@ -724,11 +764,11 @@
         "icon": ""
     },
     {
-        "name": "新更新01.02.24-工具箱",
+        "name": "心率程序",
         "icon": ""
     },
     {
-        "name": "心率程序",
+        "name": "新更新01.02.24-工具箱",
         "icon": ""
     },
     {
@@ -740,11 +780,11 @@
         "icon": ""
     },
     {
-        "name": "荧光棒PRO221106（V1.1）",
+        "name": "荧光棒PRO",
         "icon": ""
     },
     {
-        "name": "荧光棒PRO",
+        "name": "荧光棒PRO221106（V1.1）",
         "icon": ""
     },
     {
@@ -764,15 +804,11 @@
         "icon": ""
     },
     {
-        "name": "YouTube,ChatGPT装13专用",
+        "name": "原子-Atomas",
         "icon": ""
     },
     {
-        "name": "Zepp os calculator applet(EN)",
-        "icon": ""
-    },
-    {
-        "name": "ZeppTasks",
+        "name": "真正能打中文的记事本！(开源)",
         "icon": ""
     },
     {
@@ -792,10 +828,6 @@
         "icon": ""
     },
     {
-        "name": "自习室 V2.0Beta",
-        "icon": ""
-    },
-    {
         "name": "自习室 V0.31",
         "icon": ""
     },
@@ -804,11 +836,11 @@
         "icon": ""
     },
     {
-        "name": "“设置”与“显示与亮度”快捷方式",
+        "name": "自习室 V2.0Beta",
         "icon": ""
     },
     {
-        "name": "[繁體+英文版]環間電子書 V5.2",
+        "name": "“设置”与“显示与亮度”快捷方式",
         "icon": ""
     },
     {
