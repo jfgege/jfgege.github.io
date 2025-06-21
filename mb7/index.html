@@ -5,6 +5,14 @@
         <link rel="stylesheet"  href="assets/css/mobile.css"/>
         <title>小米手环7-Apps</title>
         
+        <style>
+            .busuanzi{
+                margin: 50px;
+                font-size: 3rem;
+                display: flex;
+                justify-content: center;
+            }
+        </style>
     </head>
 
     <body>
@@ -40,6 +48,13 @@
             <div class="loading"></div>
         </div>
 
+        <div id="requests_amount" class="busuanzi">
+            本站总访问量 <span id="busuanzi_value_site_pv"></span> 次
+        </div>
+
+        <div id="guests_amount" class="busuanzi">
+            本站总访客数 <span id="busuanzi_value_site_uv"></span> 人
+        </div>
         
         <!--侧边栏-->
         <div id="sidebar" class="sidebar">
@@ -53,6 +68,7 @@
     
         <script src="assets/js/sidebar.js"></script>
         <script src="assets/js/app.js"></script>
+        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
     </div>
     </body>
 
