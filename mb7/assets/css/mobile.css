@@ -1,44 +1,45 @@
-@font-face{
-    font-family: webFont;
-    src: url(font.ttf) ;
-  }
-  
-@font-face{
-    font-family: Genshin;
-    src: url(genshin.ttf) ;
+@font-face {
+  font-family: webFont;
+  src: url(font.ttf);
 }
-  
-@font-face{
-    font-family: Hkrpg;
-    src: url(hkrpg.ttf) ;
+
+@font-face {
+  font-family: Genshin;
+  src: url(genshin.ttf);
 }
-  
-@font-face{
-    font-family: ZZZ;
-    src: url(zzz.ttf) ;
+
+@font-face {
+  font-family: Hkrpg;
+  src: url(hkrpg.ttf);
 }
-  
-@font-face{
-    font-family: ZZZ1.1;
-    src: url(zzz-1.1.ttf);
+
+@font-face {
+  font-family: ZZZ;
+  src: url(zzz.ttf);
+}
+
+@font-face {
+  font-family: ZZZ1.1;
+  src: url(zzz-1.1.ttf);
 }
 
 @media (max-width: 600px) {
-    h1 {
-      font-size: 3em; /* 设定一个小屏幕的最大字体大小 */
-    }
+  h1 {
+    font-size: 3em;
+    /* 设定一个小屏幕的最大字体大小 */
+  }
 }
 
-*{
+* {
   -webkit-tap-highlight-color: transparent;
 }
-  
-html{
-    font-family: webFont, sans-serif;
+
+html {
+  font-family: webFont, sans-serif;
 }
 
 
-body{
+body {
   position: relative;
   padding-top: 200px;
 }
@@ -60,24 +61,25 @@ body::before {
   transition: 0.3s;
 }
 
-.overlaymain{
+.overlaymain {
   position: fixed;
   bottom: 0;
   right: 0;
   width: 100%;
   height: 100%;
-  background-color: rgb(241 241 241 / 25%);;
+  background-color: rgb(241 241 241 / 25%);
+  ;
   backdrop-filter: blur(5px);
   z-index: 999;
   visibility: visible;
 }
 
-.overlay{
+.overlay {
   position: fixed;
   bottom: 0;
   right: 0;
   width: 100%;
-  top:190px;
+  top: 190px;
   backdrop-filter: blur(5px);
   z-index: 999;
   visibility: hidden;
@@ -85,29 +87,31 @@ body::before {
   transition: opacity 0.3s, visibility 0.3s;
 }
 
-a{
-    font-size:150%;
-    text-decoration: none; /* 去除下划线 */
-    color: inherit; /* 继承父元素的字体颜色 */
+a {
+  font-size: 150%;
+  text-decoration: none;
+  /* 去除下划线 */
+  color: inherit;
+  /* 继承父元素的字体颜色 */
 }
-  
-.apptitle{
+
+.apptitle {
   font-size: 3.5rem;
   margin: 0;
 }
 
-.appcontent{
+.appcontent {
   margin: 0;
   font-size: 3rem;
-  float:right;
+  float: right;
 }
 
-.appicon{
+.appicon {
   height: 15%;
   width: 15%;
 }
 
-.announcement{
+.announcement {
   clear: both;
   padding: 35px;
   display: flex;
@@ -117,19 +121,19 @@ a{
   align-items: center;
   justify-content: center;
   border-radius: 70px;
-  transition:background-color 0.5s ease;
+  transition: background-color 0.5s ease;
   background: #ffffff80;
   border: 3px solid #b8b8b8;
 }
 
-.appdetails{
+.appdetails {
   padding-left: 80px;
   margin: 0;
   padding-top: 15px;
   font-size: 2.3rem;
 }
 
-.appbox-first{
+.appbox-first {
   clear: both;
   padding: 25px;
   display: flex;
@@ -139,15 +143,15 @@ a{
   margin-right: 5%;
   align-items: center;
   border-radius: 70px;
-  transition:background-color 0.5s ease;
+  transition: background-color 0.5s ease;
   background: #ffffff2e;
 }
 
-.appbox-first:hover{
+.appbox-first:hover {
   background-color: #ffffff85;
 }
 
-.appbox{
+.appbox {
   padding: 50px;
   display: flex;
   margin-top: 30px;
@@ -155,15 +159,108 @@ a{
   margin-right: 5%;
   align-items: center;
   border-radius: 70px;
-  transition:background-color 0.5s ease;
+  transition: background-color 0.5s ease;
   background: #ffffff2e;
   animation: fadeIn 0.5s;
   transition: 0.3s;
 }
 
-.appbox:hover{
+.appbox:hover {
   background-color: #ffffff85;
 }
+
+#filter-btn {
+  font: unset;
+  margin-right: 3%;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 30px;
+  padding-left: 30px;
+  background: #ffffff2e;
+  border-radius: 35px;
+  margin-left: 10%;
+  float: left;
+  font-size: 3rem;
+  border: 5px solid #ffffff73;
+  transition: background-color 0.5s ease;
+  animation: fadeIn 0.5s;
+  transition: 0.3s;
+}
+
+#filter-btn:hover{
+  background-color: #ffffff85;
+}
+
+/* 筛选按钮样式 */
+.filter-btno {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+/* 筛选框样式 - 增大尺寸 */
+.filter-box {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 60%; /* 增加宽度 */
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 72px; /* 增加内边距 */
+  z-index: 1;
+  border-radius: 50px; /* 增大圆角 */
+  font-size: 3rem; /* 增大字体 */
+  margin-left: 5%;
+}
+
+.filter-box.expanded {
+  display: block;
+}
+
+/* 筛选项样式 */
+.filter-item {
+  margin-bottom: 10px;
+}
+
+.apply-filter-btn {
+  font: unset;
+  background-color: #86a8e77d;
+  color: #000000d6;
+  border: none;
+  padding: 20px 20px; /* 增加按钮尺寸 */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2.5rem; /* 增大字体 */
+  margin: 30px 0; /* 增加上下边距 */
+  cursor: pointer;
+  border-radius: 30px; /* 增大圆角 */
+  width: 100%; /* 按钮宽度占满容器 */
+}
+
+/* 筛选项样式 - 增大复选框和间距 */
+.filter-item {
+  margin-bottom: 15px; /* 增加项间距 */
+  display: flex;
+  align-items: center;
+}
+
+/* 自定义复选框样式 */
+.filter-item input[type="checkbox"] {
+  transform: scale(4); /* 放大复选框 */
+  margin-right: 72px; /* 增加与标签的间距 */
+}
+
+.hidden {
+  display: none;
+}  
 
 .topbar {
   /*border-bottom: 2px solid #e9e9e9; */
@@ -180,27 +277,27 @@ a{
   top: 20px;
 }
 
-.sidebar-button{
+.sidebar-button {
   height: 3.1rem;
   width: 3.1rem;
   padding: 3.3rem;
-  transition:background-color 0.5s ease;
+  transition: background-color 0.5s ease;
   border-radius: 50px;
 }
 
-.sidebar-button:hover{
+.sidebar-button:hover {
   background-color: #ffffff1f;
 }
 
-#title{
+#title {
   display: flex;
-  font-size:4rem;
+  font-size: 4rem;
   padding: 3rem;
   align-items: center;
-  transition: font-size 0.5s; 
+  transition: font-size 0.5s;
 }
 
-#search-btn{
+#search-btn {
   padding: 2rem;
 }
 
@@ -208,10 +305,10 @@ a{
   position: fixed;
   top: 200px;
   bottom: 0;
-  left: -50rem; 
+  left: -50rem;
   width: 45%;
   background: #ffffff42;
-  transition: left 0.3s; 
+  transition: left 0.3s;
   font-size: 3rem;
   justify-content: center;
   border-radius: 70px;
@@ -220,26 +317,26 @@ a{
   z-index: 1000;
 }
 
-#sidebar-list{
-  list-style-type:none ;
+#sidebar-list {
+  list-style-type: none;
   padding-left: 0;
   margin-bottom: 0;
 }
 
-#sidebar-list li{
+#sidebar-list li {
   padding: 2rem 0px;
-  width:100%;
+  width: 100%;
   display: flex;
   justify-content: center;
   margin-bottom: 50px;
   border-radius: 70px;
   background: #ffffffad;
-  transition:background-color 0.5s ease;
+  transition: background-color 0.5s ease;
 }
 
 #sidebar li:hover {
   background-color: #ffffff5e;
-} 
+}
 
 .close {
   position: absolute;
@@ -253,24 +350,25 @@ a{
   background-color: #ffffff;
   min-width: 160px;
   z-index: 1;
-  opacity: 0; /* 初始状态为透明 */
+  opacity: 0;
+  /* 初始状态为透明 */
   transition: opacity 0.5s ease;
   border: 2px solid #d1cdcdd7;
 }
 
 /* 列表项 */
 #fontList li {
-  padding:12px 16px;
+  padding: 12px 16px;
 }
 
 /* 鼠标悬停效果 */
 #fontList li:hover {
-  transition:all 0.5s;
+  transition: all 0.5s;
   background-color: #e4e4e4;
 }
 
-#fontList{
-  list-style-type:none ;
+#fontList {
+  list-style-type: none;
   border-radius: 90px;
   padding-left: 0;
   text-align: center;
@@ -279,7 +377,7 @@ a{
 
 #fontList ul {
   list-style-type: none;
-  padding-left: 0; 
+  padding-left: 0;
 }
 
 /* 列表需要显现时，添加类 */
@@ -287,8 +385,8 @@ a{
   display: block;
   opacity: 1;
 }
- 
-.special-font  {
+
+.special-font {
   font-size: 3.5rem !important;
 }
 
@@ -311,7 +409,8 @@ a{
 
 .search-box {
   position: absolute;
-  right: 220px; /* 调整到搜索按钮左侧 */
+  right: 220px;
+  /* 调整到搜索按钮左侧 */
   width: 0;
   overflow: hidden;
   transition: width 0.3s ease;
@@ -331,7 +430,25 @@ a{
 
 .search-box.expanded {
   width: calc(100% - 450px);
+  display: flex;
 }
+
+/* 清除搜索按钮 */
+.clear-search-btn {
+  position: inherit;
+  right: 20px;
+  background: none;
+  border: none;
+  font-size: 5rem;
+  color: #999;
+  cursor: pointer;
+  display: none; /* 默认隐藏 */
+}
+
+/* 当搜索框有内容时显示清除按钮 */
+#searchInput:not(:placeholder-shown) + .clear-search-btn {
+  display: flex;
+}   
 
 #title.hidden {
   opacity: 0;
@@ -345,12 +462,21 @@ a{
 }
 
 @keyframes fadeIn {
-  from { opacity: 0; transform: translateY(10px); }
-  to { opacity: 1; transform: translateY(0); }
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 @keyframes spin {
-  to { transform: rotate(360deg); }
+  to {
+    transform: rotate(360deg);
+  }
 }
 
 .loading {

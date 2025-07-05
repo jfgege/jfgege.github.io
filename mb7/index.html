@@ -1,48 +1,79 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset = "utf-8">
-        <link rel="stylesheet"  href="assets/css/mobile.css"/>
-        <title>小米手环7-Apps</title>
-        
-        <style>
-            .busuanzi{
-                margin: 50px;
-                font-size: 3rem;
-                display: flex;
-                justify-content: center;
-            }
-        </style>
-    </head>
 
-    <body>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="assets/css/mobile.css" />
+    <title>小米手环7-Apps</title>
 
-        <div class="content">
+    <style>
+        .busuanzi {
+            margin: 50px;
+            font-size: 3rem;
+            display: flex;
+            justify-content: center;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="content">
         <!--顶栏-->
         <div class="topbar" id="topbar">
-            <div id="sidebar-button" class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg>  
+            <div id="sidebar-button" class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true"
+                    role="img" viewBox="0 0 448 512" class="icon">
+                    <path fill="currentColor"
+                        d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z">
+                    </path>
+                </svg>
             </div>
 
             <div id="title">小米手环7-Apps</div>
 
             <div class="search-box" id="search-box">
                 <input id="searchInput" style="outline: none;" type="text" placeholder="搜索...">
+                <button id="clear-search" class="clear-search-btn">×</button>
             </div>
 
-            <div id="search-btn" class="search-btn"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="18" y2="18"></line></svg></div>
-                
+            <div id="search-btn" class="search-btn"><svg xmlns="http://www.w3.org/2000/svg" width="70" height="70"
+                    viewBox="0 0 24 24" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round"
+                    stroke-linejoin="round">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="18" y2="18"></line>
+                </svg></div>
+
         </div>
 
         <!--遮罩-->
         <div class="overlay" onclick="closeSidebar()"></div>
-            
+
         <!--主体--->
-     
+
         <a class="announcement" href="announcement.html" style="font-size:3.5rem">公告-请务必阅读</a>
 
-        <p style="margin: 24px;display: flex;font-size: 3rem;justify-content: center;">
-            数据更新日期：2025.6.14
-        </p>
+        <div style="display: flex;align-items: center;margin-top: 24px;">
+            <button id="filter-btn" class="filter-btn" type="button">
+                筛选
+            </button>
+
+            <p style="float: right;margin: 0;margin-right: 10%;display: flex;font-size: 3rem;">
+                数据更新日期：2025.6.14
+            </p>
+        </div>
+
+        <!-- 筛选框 -->
+        <div id="filter-box" class="filter-box">
+            <div class="filter-item">
+                <input type="checkbox" id="mini-game" checked>
+                <label for="mini-game">小游戏</label>
+            </div>
+            <div class="filter-item">
+                <input type="checkbox" id="mini-program" checked>
+                <label for="mini-program">小程序</label>
+            </div>
+            <button id="apply-filter-btn" class="apply-filter-btn">筛选</button>
+        </div>
 
         <div id="appList" class="app-list">
             <div class="loading"></div>
@@ -51,21 +82,22 @@
         <div id="requests_amount" class="busuanzi">
             本站总访问量 <span id="busuanzi_value_site_pv"></span> 次
         </div>
-        
+
         <!--侧边栏-->
         <div id="sidebar" class="sidebar">
-                
+
             <!-- 侧边栏内容 -->
             <ul id="sidebar-list">
                 <li><a href="index.html" style="font-size: 100%;">主页面</a></li>
                 <li><a href="contact.html" style="font-size: 100%;">联系我</a></li>
-                <li><a href="https://github.com/jfgege/jfgege.github.io/tree/main/mb7" style="font-size: 100%;" target="_blank">Github主页</a></li>
+                <li><a href="https://github.com/jfgege/jfgege.github.io/tree/main/mb7" style="font-size: 100%;"
+                        target="_blank">Github主页</a></li>
             </ul>
-    
-        <script src="assets/js/sidebar.js"></script>
-        <script src="assets/js/app.js"></script>
-        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    </div>
-    </body>
+
+            <script src="assets/js/sidebar.js"></script>
+            <script src="assets/js/app.js"></script>
+            <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+        </div>
+</body>
 
 </html>

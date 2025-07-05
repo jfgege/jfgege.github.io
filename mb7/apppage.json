@@ -2,13 +2,13 @@
     "2048(EN)": {
         "title": "2048(EN)",
         "icon": "assets/icon/2048.png",
-        "category": "小程序",
+        "category": "小游戏",
         "details": "Changed the buttons to English language for my non Chinese friends",
         "originlink": "https://www.bandbbs.cn/threads/4277/",
         "github": "assets/apps/2048 english latest version.bin"
     },
     "2048（中文）": {
-        "title": "2048",
+        "title": "2048（中文）",
         "icon": "assets/icon/2048.png",
         "category": "小游戏",
         "details": "2048小游戏，可通过米环7玩2048",
